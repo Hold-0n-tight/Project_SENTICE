@@ -71,19 +71,58 @@
 ## 9. 디렉토리 구조
 ```
 project-root/
-├─ data/                   # 학습 및 생성 데이터
-│  ├─ raw/                 # 원본 데이터
-│  ├─ generated/           # LM을 통해 생성된 데이터
-│  └─ processed/           # 전처리 후 학습용 데이터
-├─ models/                 # 학습된 모델
-│  ├─ deepvoice/           # 딥보이스 모델
-│  └─ phishing_context/    # 맥락 기반 보이스피싱 탐지 모델
-├─ experiments/            # 실험 코드 및 결과
-│  ├─ lstm_tuning/         # LSTM 최적화 실험
-│  └─ robustness_tests/    # 전화 환경 강건성 실험
-├─ pipeline/               # 데이터 생성/처리/학습 파이프라인
-├─ voiptest/               # VOIP 테스트 환경 구성 코드
-├─ scripts/                # 유틸리티 스크립트
-└─ README.md               # 프로젝트 개요 및 설명
+├── deployments/              # 배포 및 빌드 설정
+│   ├── architecture.md       # 시스템 아키텍처 문서
+│   ├── build_instructions.md # 빌드 가이드
+│   ├── build_report/         # 빌드 결과 리포트
+│   ├── env.example.md        # 환경 변수 예시
+│   ├── environment_setup.md  # 개발 환경 설정 가이드
+│   ├── gradle/               # Gradle 빌드 설정
+│   ├── proto/                # gRPC 프로토콜 정의
+│   └── README.md
+│
+├── docs/                     # 프로젝트 문서
+│   ├── api_design/           # API 설계 문서 (Google STT 등)
+│   ├── architecture/         # 아키텍처 다이어그램
+│   ├── deployment/           # 배포 관련 문서
+│   ├── presentation/         # 발표 자료
+│   │   ├── external/         # 외부 발표용
+│   │   └── internal/         # 내부 발표용
+│   └── ui_design/            # UI 디자인 목업
+│
+├── integration/              # 시스템 통합 및 테스트
+│   ├── grpc_api/             # gRPC API 정의
+│   ├── latency_test/         # 지연시간 측정 결과
+│   ├── model_gateway/        # 모델 게이트웨이 아키텍처
+│   ├── Pipeline/             # 데이터 파이프라인 구조도
+│   └── README.md
+│
+├── models/                   # AI 모델 학습 및 결과
+│   ├── deepvoice/            # 딥페이크 음성 탐지 모델
+│   │   ├── notebooks/        # 실험 노트북
+│   │   ├── results/          # 학습 결과 및 평가 지표
+│   │   └── README.md
+│   └── voicephishing_context/ # 보이스피싱 맥락 탐지 모델
+│       ├── models/           # 학습된 모델 파일
+│       ├── notebooks/        # 실험 노트북
+│       ├── prompts/          # LLM 프롬프트 템플릿
+│       ├── results/          # 학습 결과 및 평가 지표
+│       └── README.md
+│
+├── service_app/              # Android 애플리케이션
+│   ├── app_config/           # 앱 빌드 설정 (Gradle, Manifest 등)
+│   ├── proto/                # gRPC 프로토콜 정의
+│   ├── src/                  # 소스 코드
+│   │   ├── androidTest/      # Android 통합 테스트
+│   │   ├── assets/           # 앱 리소스 (모델 파일 등)
+│   │   ├── cpp/              # 네이티브 C++ 코드
+│   │   ├── java/             # Java/Kotlin 소스 코드
+│   │   ├── jniLibs/          # 네이티브 라이브러리
+│   │   ├── res/              # Android 리소스 (레이아웃, 이미지 등)
+│   │   └── test/             # 유닛 테스트
+│   └── README.md
+│
+└── README.md                 # 프로젝트 전체 개요
 ```
+
 
