@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package com.example.gcs;
+
+option java_multiple_files = true;
+option java_package = "com.example.gcs";
+option java_outer_classname = "Nest";
+
+service SpeechRecognition {
+  rpc DoSpeechRecognition(stream StreamingRecognizeRequest) returns (stream StreamingRecognizeResponse);
+}
+
+message StreamingRecognizeRequest {
+  bytes audio_content = 1;
+}
+
+message StreamingRecognizeResponse {
+  string transcript = 1;
+}

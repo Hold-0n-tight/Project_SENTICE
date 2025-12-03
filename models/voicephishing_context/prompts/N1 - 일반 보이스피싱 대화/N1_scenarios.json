@@ -1,0 +1,1580 @@
+[
+  {
+    "type": "상품권 환급 안내 피싱",
+    "impersonation": "모바일 상품권 고객센터",
+    "target": "계좌번호, 카드정보",
+    "approach": "상품권 환급·환불 절차 안내"
+  },
+  {
+    "type": "온라인 클래스 환불 피싱",
+    "impersonation": "교육 플랫폼 고객센터",
+    "target": "계좌번호, 주민번호 일부",
+    "approach": "수강료 환불 안내"
+  },
+  {
+    "type": "택배 착불 요금 요청 피싱",
+    "impersonation": "택배기사",
+    "target": "계좌번호, 휴대폰 인증번호",
+    "approach": "착불 요금 결제 요청"
+  },
+  {
+    "type": "공과금 자동이체 오류 피싱",
+    "impersonation": "공과금 고객센터",
+    "target": "계좌번호, 카드정보",
+    "approach": "자동이체 오류 정정 요청"
+  },
+  {
+    "type": "중고거래 안전결제 피싱",
+    "impersonation": "거래 플랫폼 고객센터",
+    "target": "계정정보, 결제정보",
+    "approach": "안전결제 링크 클릭 유도"
+  },
+  {
+    "type": "택시 환불(운임 중복) 피싱",
+    "impersonation": "택시 앱 고객센터",
+    "target": "카드번호, 인증번호",
+    "approach": "중복결제 환불 처리 유도"
+  },
+  {
+    "type": "영수증 세액공제 안내 피싱",
+    "impersonation": "세무사",
+    "target": "영수증 이미지, 계좌정보",
+    "approach": "세액공제 환급 안내"
+  },
+  {
+    "type": "무료체험 자동결제 차단 피싱",
+    "impersonation": "구독 서비스 운영자",
+    "target": "카드정보, 계정비밀번호",
+    "approach": "자동결제 차단을 위한 인증 요구"
+  },
+  {
+    "type": "  연말정산 환급 피싱",
+    "impersonation": "국세청 환급팀",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "연말정산 환급금 지급 안내"
+  },
+  {
+    "type": "택배 반송비 요구 피싱",
+    "impersonation": "택배회사 고객센터",
+    "target": "계좌번호, 주소",
+    "approach": "반송비 결제 요청"
+  },
+  {
+    "type": "공연 초대권 결제 요청 피싱",
+    "impersonation": "공연 기획사 담당자",
+    "target": "계좌번호, 결제정보",
+    "approach": "초대권 결제 요청"
+  },
+  {
+    "type": "이사·택배 일정 조정 피싱",
+    "impersonation": "이사·배송 업체",
+    "target": "주소, 결제정보",
+    "approach": "추가 요금 결제 요청"
+  },
+  {
+    "type": "보험 보상금 전달 피싱",
+    "impersonation": "보험금 담당자",
+    "target": "계좌번호, 주민번호",
+    "approach": "보상금 지급 전 본인확인 요청"
+  },
+  {
+    "type": "렌탈 정산 오류 피싱",
+    "impersonation": "렌탈사 고객센터",
+    "target": "카드정보, 계좌번호",
+    "approach": "정산 오류 해결을 위한 정보 요청"
+  },
+  {
+    "type": "휴대폰 요금 과다청구 피싱",
+    "impersonation": "통신사 상담원",
+    "target": "계좌번호, 카드정보",
+    "approach": "과다청구 환불 안내"
+  },
+  {
+    "type": "은행 예금 안전조회 피싱",
+    "impersonation": "은행 보안팀",
+    "target": "계좌번호, 인증번호",
+    "approach": "이상거래 차단을 위한 인증 요청"
+  },
+  {
+    "type": "  보건소 검사결과 알림 피싱",
+    "impersonation": "보건소 직원",
+    "target": "주민등록번호, 연락처",
+    "approach": "검사결과 확인 및 절차 안내"
+  },
+  {
+    "type": "주차요금 연체 알림 피싱",
+    "impersonation": "주차관리사",
+    "target": "차량번호, 카드정보",
+    "approach": "연체요금 결제 요청"
+  },
+  {
+    "type": "택배 주소 오류 확인 피싱",
+    "impersonation": "배송회사 고객센터",
+    "target": "주소, 휴대폰 인증번호",
+    "approach": "주소 확인용 인증 요청"
+  },
+  {
+    "type": "구직 관련 수수료 요구 피싱",
+    "impersonation": "알바 중개업체",
+    "target": "계좌번호, 주민번호",
+    "approach": "알선비·등록비 결제 요청"
+  },
+  {
+    "type": "온라인 콘서트 티켓 환불 피싱",
+    "impersonation": "콘서트 주최측",
+    "target": "카드정보, 연락처",
+    "approach": "환불 처리 위한 계좌 확인"
+  },
+  {
+    "type": "학자금 대출 상환안내 피싱",
+    "impersonation": "학자금관리센터",
+    "target": "계좌번호, 본인인증정보",
+    "approach": "상환 관련 본인확인 요구"
+  },
+  {
+    "type": "주문형 배달 환불 피싱",
+    "impersonation": "배달앱 고객센터",
+    "target": "카드정보, 계좌번호",
+    "approach": "환불을 위한 인증번호 요청"
+  },
+  {
+    "type": "쿠폰 당첨비용 요구 피싱",
+    "impersonation": "이벤트 운영자",
+    "target": "계좌정보, 결제정보",
+    "approach": "당첨금 전달 전 수수료 요구"
+  },
+  {
+    "type": "배송 지연 보상금 피싱",
+    "impersonation": "택배사 보상팀",
+    "target": "계좌번호, 연락처",
+    "approach": "보상금 지급 안내"
+  },
+  {
+    "type": "유료 강연 참가비 환불 피싱",
+    "impersonation": "세미나 운영자",
+    "target": "계좌번호, 신분증 일부",
+    "approach": "환불 처리 전 본인확인"
+  },
+  {
+    "type": "체육관 개인훈련비 환불 피싱",
+    "impersonation": "헬스장 관리자",
+    "target": "계좌번호, 연락처",
+    "approach": "환불 관련 계좌 입력 요청"
+  },
+  {
+    "type": "  배송사 물품 확인 피싱",
+    "impersonation": "물류회사 직원",
+    "target": "주소, 연락처",
+    "approach": "배송 물품 확인 및 추가비용 청구"
+  },
+  {
+    "type": "온라인 스토어 계정 복구 피싱",
+    "impersonation": "쇼핑몰 고객센터",
+    "target": "계정정보, 비밀번호",
+    "approach": "계정보호를 위한 비밀번호 재설정 유도"
+  },
+  {
+    "type": "보험 계약 확인(갱신) 피싱",
+    "impersonation": "보험 대리인",
+    "target": "주민등록번호, 계좌정보",
+    "approach": "계약 갱신을 위한 본인확인"
+  },
+  {
+    "type": "  증권사 수익 환급 피싱",
+    "impersonation": "증권사 고객지원",
+    "target": "계좌번호, OTP",
+    "approach": "수익금 환급 안내"
+  },
+  {
+    "type": "택배 키오스크 결제 오류 피싱",
+    "impersonation": "택배회사 직원",
+    "target": "카드정보, 인증번호",
+    "approach": "키오스크 결제 오류 보정 요청"
+  },
+  {
+    "type": "학교 교복 환불 사칭 피싱",
+    "impersonation": "학교 행정실",
+    "target": "계좌번호, 보호자 연락처",
+    "approach": "환불을 위한 계좌 확인"
+  },
+  {
+    "type": "주민센터 복지 확인 피싱",
+    "impersonation": "읍면동 주민센터 직원",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "복지금 지급 확인 요청"
+  },
+  {
+    "type": "청첩장 RSVP 링크 피싱",
+    "impersonation": "지인(신랑/신부 지인)",
+    "target": "연락처, 악성링크 클릭",
+    "approach": "청첩장 확인 링크로 악성앱 유도"
+  },
+  {
+    "type": "포인트 이관 오류 피싱",
+    "impersonation": "포인트 운영사",
+    "target": "계정정보, 카드정보",
+    "approach": "포인트 이전을 위한 인증 요청"
+  },
+  {
+    "type": "외환 송금 수수료 환불 피싱",
+    "impersonation": "국제송금 대행사",
+    "target": "계좌번호, 송금내역",
+    "approach": "수수료 환불을 위한 계좌 확인"
+  },
+  {
+    "type": "택시 앱 계정 안전확인 피싱",
+    "impersonation": "택시앱 보안팀",
+    "target": "계정정보, 인증번호",
+    "approach": "비정상접속 차단을 위한 인증 요구"
+  },
+  {
+    "type": "  결제대행 취소 확인 피싱",
+    "impersonation": "PG사 고객센터",
+    "target": "카드번호, 계좌번호",
+    "approach": "결제 취소 확인을 위한 정보 요청"
+  },
+  {
+    "type": "교통카드 환불 사칭 피싱",
+    "impersonation": "교통카드 고객센터",
+    "target": "카드번호, 계좌번호",
+    "approach": "충전금 환불을 위한 계좌 확인"
+  },
+  {
+    "type": "이사 보증금 반환 절차 피싱",
+    "impersonation": "임대차 중개인",
+    "target": "계좌번호, 신분증 사진",
+    "approach": "보증금 반환 전 본인확인 요구"
+  },
+  {
+    "type": "  펀드 환매 안내 피싱",
+    "impersonation": "자산운용사 상담원",
+    "target": "계좌번호, OTP",
+    "approach": "환매금 입금 전 인증 요구"
+  },
+  {
+    "type": "택배 주소 오기입 상담 피싱",
+    "impersonation": "택배 콜센터",
+    "target": "주소, 휴대폰 인증번호",
+    "approach": "주소 정정을 위한 인증 요청"
+  },
+  {
+    "type": "  쇼핑몰 보안 점검 피싱",
+    "impersonation": "쇼핑몰 보안담당",
+    "target": "계정정보, 비밀번호",
+    "approach": "보안 점검 명목의 계정 정보 요구"
+  },
+  {
+    "type": "무료 샘플 배송비 요청 피싱",
+    "impersonation": "브랜드 마케팅팀",
+    "target": "계좌번호, 카드정보",
+    "approach": "샘플 배송비 결제 요청"
+  },
+  {
+    "type": "대리운전 요금 결제 오류 피싱",
+    "impersonation": "대리운전 업체",
+    "target": "카드정보, 인증번호",
+    "approach": "결제 오류 정정을 위한 정보요청"
+  },
+  {
+    "type": "  공연 초대권 당첨 피싱",
+    "impersonation": "이벤트 운영자",
+    "target": "계좌번호, 연락처",
+    "approach": "당첨금 수령 전 수수료 요구"
+  },
+  {
+    "type": "리볼빙 카드 과오납 환급 피싱",
+    "impersonation": "카드사 고객센터",
+    "target": "카드번호, 계좌번호",
+    "approach": "오납금 환급 안내"
+  },
+  {
+    "type": "택배 수취인 확인 피싱",
+    "impersonation": "배송기사",
+    "target": "수취인 신분정보, 전화번호",
+    "approach": "수취인 확인 명목의 인증 요구"
+  },
+  {
+    "type": "  여행 보험 환급 피싱",
+    "impersonation": "여행 보험사",
+    "target": "계좌번호, 여권정보",
+    "approach": "보험금 환급을 위한 본인확인"
+  },
+  {
+    "type": "배달업체 프로모션 환급 피싱",
+    "impersonation": "배달앱 프로모션팀",
+    "target": "계좌번호, 주문내역",
+    "approach": "프로모션 환급 안내"
+  },
+  {
+    "type": "공연 리허설 참가비 사칭 피싱",
+    "impersonation": "공연 주최자",
+    "target": "계좌번호, 연락처",
+    "approach": "참가비 결제 요청"
+  },
+  {
+    "type": "유통사 반품비 보상 피싱",
+    "impersonation": "유통사 고객지원",
+    "target": "계좌정보, 영수증 사진",
+    "approach": "반품 보상금 지급 절차"
+  },
+  {
+    "type": "온라인 설문 보상금 사칭 피싱",
+    "impersonation": "리서치사",
+    "target": "계좌번호, 개인정보",
+    "approach": "참여 보상금 지급을 위한 계좌 확인"
+  },
+  {
+    "type": "  전단지 당첨 안내 피싱",
+    "impersonation": "지역 상점 운영자",
+    "target": "전화번호, 계좌정보",
+    "approach": "현금 경품 수령을 위한 계좌 요구"
+  },
+  {
+    "type": "렌터카 보험 과오납 환불 피싱",
+    "impersonation": "렌터카 보험담당",
+    "target": "계좌정보, 차량번호",
+    "approach": "과오납 환불 안내"
+  },
+  {
+    "type": "  방문판매 환불 피싱",
+    "impersonation": "판매업체 고객센터",
+    "target": "계좌번호, 카드정보",
+    "approach": "환불 처리 위한 계좌 확인"
+  },
+  {
+    "type": "온라인 커머스 계정 정지 해제 피싱",
+    "impersonation": "커머스 플랫폼 운영자",
+    "target": "계정정보, 비밀번호",
+    "approach": "계정 정지 해제용 인증 요구"
+  },
+  {
+    "type": "  취업연수비 환급 피싱",
+    "impersonation": "취업지원센터",
+    "target": "계좌번호, 주민번호",
+    "approach": "연수비 환급을 위한 본인확인"
+  },
+  {
+    "type": "차량 등록정보 확인 요청 피싱",
+    "impersonation": "자동차등록 대행사",
+    "target": "주민번호, 차량등록번호",
+    "approach": "등록 실수 수정 명목의 정보요청"
+  },
+  {
+    "type": "  공동구매 환불 피싱",
+    "impersonation": "공동구매 운영자",
+    "target": "계좌정보, 주문내역",
+    "approach": "환불 진행을 위한 계좌 확인"
+  },
+  {
+    "type": "기업 결제 승인 요청 사칭 피싱",
+    "impersonation": "구매담당자 사칭",
+    "target": "사내 결제 계좌정보, 결재권자 연락처",
+    "approach": "긴급 결제 승인 요청"
+  },
+  {
+    "type": "  도서 환불 및 재배송 피싱",
+    "impersonation": "온라인 서점 고객센터",
+    "target": "계좌번호, 주소",
+    "approach": "환불 및 재배송을 위한 정보 요청"
+  },
+  {
+    "type": "휴대폰 요금제 할인 환급 피싱",
+    "impersonation": "통신사 프로모션팀",
+    "target": "계좌번호, 주민번호",
+    "approach": "프로모션 환급을 위한 본인인증"
+  },
+  {
+    "type": "  의료검진 예약 변경 피싱",
+    "impersonation": "병원 예약팀",
+    "target": "주민번호, 연락처",
+    "approach": "예약 변경 확인 및 본인확인 요청"
+  },
+  {
+    "type": "주민등록등본 발급 오류 피싱",
+    "impersonation": "동사무소 직원",
+    "target": "주민등록번호, 계좌정보",
+    "approach": "발급 오류 보정 명목의 인증 요청"
+  },
+  {
+    "type": "  쇼핑몰 회원등급 혜택 결제 피싱",
+    "impersonation": "쇼핑몰 고객관리팀",
+    "target": "카드정보, 계정정보",
+    "approach": "혜택 적용을 위한 결제 요청"
+  },
+  {
+    "type": "교통카드 충전오류 보상 피싱",
+    "impersonation": "교통카드 고객센터",
+    "target": "계좌번호, 충전내역",
+    "approach": "충전오류 환불 안내"
+  },
+  {
+    "type": "공항 라운지 초대권 결제 피싱",
+    "impersonation": "항공사 제휴팀",
+    "target": "카드정보, 예약번호",
+    "approach": "초대권 수수료 결제 요청"
+  },
+  {
+    "type": "  신용조회 알림 피싱",
+    "impersonation": "신용평가사",
+    "target": "주민등록번호, 계좌정보",
+    "approach": "신용조회 동의 본인확인 요청"
+  },
+  {
+    "type": "기숙사 보증금 반환 피싱",
+    "impersonation": "기숙사 운영자",
+    "target": "계좌번호, 신분증사본",
+    "approach": "보증금 반환 전 본인확인"
+  },
+  {
+    "type": "  공항 픽업비 청구 피싱",
+    "impersonation": "공항 교통서비스",
+    "target": "계좌번호, 연락처",
+    "approach": "픽업비 미지급 안내 및 결제 요청"
+  },
+  {
+    "type": "영화 시사회 초대권 비용 청구 피싱",
+    "impersonation": "영화 홍보팀",
+    "target": "계좌번호, 연락처",
+    "approach": "시사회 초대권 수수료 결제 요청"
+  },
+  {
+    "type": "  건강검진 결과 통보 피싱",
+    "impersonation": "검진센터",
+    "target": "주민번호, 계좌번호",
+    "approach": "결과 열람을 위한 본인인증 요청"
+  },
+  {
+    "type": "온라인 경품 당첨 수수료 피싱",
+    "impersonation": "경품 운영사",
+    "target": "계좌번호, 신분증 일부",
+    "approach": "당첨금 지급 전 수수료 요구"
+  },
+  {
+    "type": "  전자영수증 환불 피싱",
+    "impersonation": "결제서비스 업체",
+    "target": "카드정보, 계좌번호",
+    "approach": "영수증 환불을 위한 정보요청"
+  },
+  {
+    "type": "해외항공권 수수료 환불 피싱",
+    "impersonation": "항공권 에이전트",
+    "target": "계좌번호, 여권정보",
+    "approach": "수수료 환불 안내"
+  },
+  {
+    "type": "  택시기사 호출비 환불 피싱",
+    "impersonation": "택시업체 고객센터",
+    "target": "카드정보, 연락처",
+    "approach": "호출비 이중결제 환불 안내"
+  },
+  {
+    "type": "전시회 참가비 환불 피싱",
+    "impersonation": "전시회 운영사",
+    "target": "계좌번호, 사업자정보",
+    "approach": "참가비 환불 절차 안내"
+  },
+  {
+    "type": "  공항세 환급 피싱",
+    "impersonation": "세관 환급팀",
+    "target": "계좌정보, 구매내역",
+    "approach": "세금 환급을 위한 본인확인"
+  },
+  {
+    "type": "  스마트홈 서비스 요금 환불 피싱",
+    "impersonation": "스마트홈 서비스 업체",
+    "target": "계좌정보, 장비아이디",
+    "approach": "서비스 요금 환불 안내"
+  },
+  {
+    "type": "  전자도서관 연체료 환불 피싱",
+    "impersonation": "도서관 운영자",
+    "target": "회원정보, 계좌번호",
+    "approach": "연체료 환불 안내"
+  },
+  {
+    "type": "온라인 중고차 거래 보증금 사칭 피싱",
+    "impersonation": "중고차 플랫폼 구매자",
+    "target": "계좌번호, 차량정보",
+    "approach": "보증금 안전결제 링크 유도"
+  },
+  {
+    "type": "  문화센터 수강료 환불 피싱",
+    "impersonation": "문화센터 행정팀",
+    "target": "계좌번호, 주민번호",
+    "approach": "수강료 환불 절차 안내"
+  },
+  {
+    "type": "자동차 정비비 과오납 환불 피싱",
+    "impersonation": "정비소 직원",
+    "target": "계좌정보, 차량번호",
+    "approach": "과오납 환불 안내"
+  },
+  {
+    "type": "  신상품 체험단 참가비 환불 피싱",
+    "impersonation": "브랜드 체험단 운영자",
+    "target": "계좌정보, 주소",
+    "approach": "체험단 배송비 환불 요청"
+  },
+  {
+    "type": "연극 관람권 환불 피싱",
+    "impersonation": "연극 제작사",
+    "target": "계좌정보, 예매내역",
+    "approach": "환불 절차 안내"
+  },
+  {
+    "type": "  아파트 관리비 환불 피싱",
+    "impersonation": "관리사무소 직원",
+    "target": "계좌번호, 세대주정보",
+    "approach": "과오납 환불 안내"
+  },
+  {
+    "type": "학생증 분실 보상금 사칭 피싱",
+    "impersonation": "학교 행정실",
+    "target": "학생 개인정보, 계좌번호",
+    "approach": "보상금 지급 안내"
+  },
+  {
+    "type": "  보험사 고객 설문 보상 피싱",
+    "impersonation": "보험사 마케팅팀",
+    "target": "계좌정보, 개인정보",
+    "approach": "설문 보상금 지급 안내"
+  },
+  {
+    "type": "  차량 블랙박스 설치 환불 피싱",
+    "impersonation": "장비업체 고객지원",
+    "target": "계좌정보, 차량번호",
+    "approach": "설치비 환불 절차 안내"
+  },
+  {
+    "type": "온라인 예매 서비스 회원혜택 환급 피싱",
+    "impersonation": "예매 플랫폼",
+    "target": "계좌번호, 카드정보",
+    "approach": "회원 혜택 환급 안내"
+  },
+  {
+    "type": "  전기차 충전요금 환급 피싱",
+    "impersonation": "충전소 운영사",
+    "target": "계좌정보, 차량정보",
+    "approach": "충전요금 환급 안내"
+  },
+  {
+    "type": "지역 축제 참가비 환불 피싱",
+    "impersonation": "축제 운영위원회",
+    "target": "계좌번호, 연락처",
+    "approach": "참가비 환불 안내"
+  },
+  {
+    "type": "  외래진료비 청구 오류 피싱",
+    "impersonation": "병원 청구팀",
+    "target": "계좌번호, 주민번호",
+    "approach": "청구오류 환불 요청"
+  },
+  {
+    "type": "  대학 등록금 환불 피싱",
+    "impersonation": "대학 재무팀",
+    "target": "계좌번호, 학생정보",
+    "approach": "등록금 환불 안내"
+  },
+  {
+    "type": "온라인 게임 계정 보상금 사칭 피싱",
+    "impersonation": "게임 운영팀",
+    "target": "계정정보, OTP",
+    "approach": "이벤트 보상금 지급 안내"
+  },
+  {
+    "type": "  전자문서 서비스 환불 피싱",
+    "impersonation": "전자문서 업체",
+    "target": "계좌정보, 사업자등록증",
+    "approach": "서비스 환불 안내"
+  },
+  {
+    "type": "차량 보험 보상금 수령확인 피싱",
+    "impersonation": "보험금 담당자",
+    "target": "계좌정보, 사고내역",
+    "approach": "보상금 지급 전 확인 요청"
+  },
+  {
+    "type": "  공항 셔틀비 환불 피싱",
+    "impersonation": "셔틀 운영사",
+    "target": "계좌번호, 예약정보",
+    "approach": "환불 처리 안내"
+  },
+  {
+    "type": "  우체국 택배비 환불 피싱",
+    "impersonation": "우체국 고객센터",
+    "target": "계좌정보, 수취인 정보",
+    "approach": "환불 절차 안내"
+  },
+  {
+    "type": "  SNS 보안 알림 피싱",
+    "impersonation": "SNS 운영팀",
+    "target": "계정정보, 비밀번호",
+    "approach": "보안위협 알림 후 재인증 유도"
+  },
+  {
+    "type": "  전자증명서 오류 보정 피싱",
+    "impersonation": "전자증명서 발급처",
+    "target": "주민번호, 계좌정보",
+    "approach": "오류 보정을 위한 본인확인 요청"
+  },
+  {
+    "type": "  임대료 자동이체 실패 알림 피싱",
+    "impersonation": "부동산 중개업소",
+    "target": "계좌번호, 임차인정보",
+    "approach": "자동이체 실패로 인한 계좌 확인 요청"
+  },
+  {
+    "type": "  TV홈쇼핑 환불 안내 피싱",
+    "impersonation": "홈쇼핑 고객센터",
+    "target": "계좌번호, 주문내역",
+    "approach": "환불 처리를 위한 계좌 요청"
+  },
+  {
+    "type": "  기부금 영수증 발급 오류 피싱",
+    "impersonation": "자선단체 운영자",
+    "target": "계좌정보, 주민번호",
+    "approach": "영수증 발급을 위한 본인확인"
+  },
+  {
+    "type": "  보험 보장내용 확인 피싱",
+    "impersonation": "보험사 콜센터",
+    "target": "계좌번호, 보험계약번호",
+    "approach": "보장내역 확인을 위한 인증 요청"
+  },
+  {
+    "type": "  국제배송 통관비 청구 피싱",
+    "impersonation": "국제물류사",
+    "target": "계좌번호, 여권정보",
+    "approach": "통관비 결제 요청"
+  },
+  {
+    "type": "  화재안전 점검비 청구 피싱",
+    "impersonation": "점검업체",
+    "target": "계좌번호, 사업자정보",
+    "approach": "점검비 결제 요청"
+  },
+  {
+    "type": "  전자상거래 판매자 환불 피싱",
+    "impersonation": "판매자 고객센터",
+    "target": "계좌정보, 주문자정보",
+    "approach": "환불을 위한 계좌 확인"
+  },
+  {
+    "type": "  정부 보조금 신청 안내",
+    "impersonation": "지자체 복지담당자",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "한시적 보조금 신청 안내"
+  },
+  {
+    "type": "유학비 환급 사칭",
+    "impersonation": "유학원 상담사",
+    "target": "계좌번호, 여권번호",
+    "approach": "학비 환급 절차 안내"
+  },
+  {
+    "type": "  장례식 비용 지원",
+    "impersonation": "사회복지사",
+    "target": "계좌번호, 가족관계 정보",
+    "approach": "장례비 지원금 지급 요청"
+  },
+  {
+    "type": "자동차 리콜 비용 환불",
+    "impersonation": "제조사 고객센터",
+    "target": "계좌정보, 차량번호",
+    "approach": "리콜 수리비 환불 안내"
+  },
+  {
+    "type": "  건강보험 보조금",
+    "impersonation": "의료복지센터 직원",
+    "target": "주민번호, 계좌번호",
+    "approach": "건강보조금 지급 안내"
+  },
+  {
+    "type": "유료 앱 환불 안내",
+    "impersonation": "앱스토어 고객지원",
+    "target": "계정정보, 카드정보",
+    "approach": "유료결제 환불을 위한 계정 확인"
+  },
+  {
+    "type": "  렌터카 손해배상 청구",
+    "impersonation": "렌터카 청구담당",
+    "target": "계좌번호, 신분증사본",
+    "approach": "손해배상금 입금 요청"
+  },
+  {
+    "type": "지역은행 신규상품 권유",
+    "impersonation": "지역은행 상담원",
+    "target": "계좌번호, 직장정보",
+    "approach": "우대금리 가입을 위한 본인인증"
+  },
+  {
+    "type": "  통장정지 해지 안내",
+    "impersonation": "금융감독원 직원",
+    "target": "계좌번호, 인증번호",
+    "approach": "정지 해지 위한 인증 요청"
+  },
+  {
+    "type": "택배 포장비 추가요청",
+    "impersonation": "택배업체 직원",
+    "target": "계좌정보, 카드정보",
+    "approach": "포장비 추가결제 요청"
+  },
+  {
+    "type": "  중고차 성능보증",
+    "impersonation": "중고차 딜러",
+    "target": "계좌번호, 차량등록번호",
+    "approach": "성능보증 연장 비용 결제 요청"
+  },
+  {
+    "type": "  자선모금 단체 연락",
+    "impersonation": "해외구호단체 직원",
+    "target": "계좌번호, 이메일",
+    "approach": "긴급 기부 요청"
+  },
+  {
+    "type": "  스마트폰 보상금",
+    "impersonation": "제조사 보상팀",
+    "target": "계좌번호, IMEI",
+    "approach": "보상금 수령 본인확인 요청"
+  },
+  {
+    "type": "  동네 CCTV 확인 요청",
+    "impersonation": "경비업체 직원",
+    "target": "주소, 연락처",
+    "approach": "도난사건 확인 협조 명목의 정보요청"
+  },
+  {
+    "type": "공사비 분쟁 해결 명목",
+    "impersonation": "시공사 관리자",
+    "target": "계좌번호, 계약서 사본",
+    "approach": "추가금 입금 요청"
+  },
+  {
+    "type": "  TV방송 출연자 연락",
+    "impersonation": "방송국 프로듀서",
+    "target": "계좌번호, 연락처",
+    "approach": "출연 확보를 위한 보증금 요구"
+  },
+  {
+    "type": "  반려동물 등록금 환불",
+    "impersonation": "동물등록센터",
+    "target": "계좌번호, 동물정보",
+    "approach": "등록비 환불 안내"
+  },
+  {
+    "type": "  도서 환불 안내",
+    "impersonation": "온라인 서점 직원",
+    "target": "계좌번호, 주문번호",
+    "approach": "환불 처리 전 계좌 확인"
+  },
+  {
+    "type": "비상금 대출 사칭",
+    "impersonation": "비대면 대출중개업체",
+    "target": "계좌번호, 직장정보",
+    "approach": "심사 전 보증금 요구"
+  },
+  {
+    "type": "  치매환자 후견인 연락",
+    "impersonation": "복지관 상담사",
+    "target": "가족관계 정보, 계좌번호",
+    "approach": "후견인 비용 송금 요청"
+  },
+  {
+    "type": "전시티켓 양도비 요구",
+    "impersonation": "전시 운영사",
+    "target": "계좌번호, 연락처",
+    "approach": "양도비 결제 요청"
+  },
+  {
+    "type": "  주택관리소 보수비 청구",
+    "impersonation": "관리사무소 직원",
+    "target": "계좌번호, 세대주정보",
+    "approach": "공용시설 보수비 입금 요청"
+  },
+  {
+    "type": "  TV홈쇼핑 구매확인",
+    "impersonation": "홈쇼핑 고객센터",
+    "target": "카드정보, 주문내역",
+    "approach": "구매확인을 위한 인증번호 요청"
+  },
+  {
+    "type": "  교회 헌금 반환",
+    "impersonation": "교회 관계자",
+    "target": "계좌번호, 이름",
+    "approach": "헌금 반환을 위한 계좌 확인"
+  },
+  {
+    "type": "  국외친지 의료비 요청",
+    "impersonation": "외국 거주 친지",
+    "target": "계좌번호, 여권정보",
+    "approach": "긴급 의료비 송금 요청(로맨스 계열 변형)"
+  },
+  {
+    "type": "  중고가전 A/S비 청구",
+    "impersonation": "수리기사",
+    "target": "계좌정보, 주소",
+    "approach": "출장비 결제 요청"
+  },
+  {
+    "type": "  온라인 투표 보상",
+    "impersonation": "온라인 커뮤니티 운영자",
+    "target": "계좌번호, 이메일",
+    "approach": "투표 참여 보상금 지급 안내"
+  },
+  {
+    "type": "  홈케어 서비스 결제",
+    "impersonation": "홈케어 업체",
+    "target": "카드정보, 주소",
+    "approach": "서비스 예약비 결제 요청"
+  },
+  {
+    "type": "  전시품 예약금",
+    "impersonation": "갤러리 운영자",
+    "target": "계좌번호, 연락처",
+    "approach": "예약금 입금 요청"
+  },
+  {
+    "type": "  신분증 재발급 수수료",
+    "impersonation": "공공기관 직원",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "재발급 수수료 입금 요청"
+  },
+  {
+    "type": "  택시 쿠폰 환불",
+    "impersonation": "택시앱 프로모션팀",
+    "target": "계좌번호, 휴대폰번호",
+    "approach": "쿠폰 환불 처리 안내"
+  },
+  {
+    "type": "  전기 안전점검 요금",
+    "impersonation": "전기안전점검업체",
+    "target": "계좌번호, 사업자정보",
+    "approach": "점검비 결제 요청"
+  },
+  {
+    "type": "  어린이집 보육료 환급",
+    "impersonation": "어린이집 행정실",
+    "target": "계좌번호, 보호자정보",
+    "approach": "환급금 지급 안내"
+  },
+  {
+    "type": "  콘서트 VIP 초대 비용",
+    "impersonation": "콘서트 기획사 직원",
+    "target": "계좌번호, 신분정보",
+    "approach": "VIP석 예약비 결제 요청"
+  },
+  {
+    "type": "  해외직구 세금 환급",
+    "impersonation": "통관사 직원",
+    "target": "계좌번호, 구매내역",
+    "approach": "세금 환급을 위한 계좌 확인"
+  },
+  {
+    "type": "  전자제품 보증서 문제",
+    "impersonation": "제조사 보증팀",
+    "target": "시리얼번호, 계좌정보",
+    "approach": "보증 연장비 결제 요청"
+  },
+  {
+    "type": "  출장비 정산 오류",
+    "impersonation": "회사 총무 사칭",
+    "target": "계좌번호, 영수증 사진",
+    "approach": "정산 오류 보정용 계좌 요청"
+  },
+  {
+    "type": "  신차 할인 혜택",
+    "impersonation": "딜러 프로모션팀",
+    "target": "계좌정보, 차대번호",
+    "approach": "할인 적용을 위한 보증금 요청"
+  },
+  {
+    "type": "  생일선물 배송비",
+    "impersonation": "친구 사칭 메시지",
+    "target": "계좌번호, 인증번호",
+    "approach": "선물 배송비 결제 요청(지인사칭)"
+  },
+  {
+    "type": "  공모전 상금 지급",
+    "impersonation": "공모전 운영자",
+    "target": "계좌번호, 신분증 일부",
+    "approach": "상금 지급을 위한 본인확인"
+  },
+  {
+    "type": "  렌탈 자전거 연체요금",
+    "impersonation": "렌탈업체 고객센터",
+    "target": "카드정보, 계좌번호",
+    "approach": "연체요금 결제 요청"
+  },
+  {
+    "type": "  채무조정 상담",
+    "impersonation": "채무상담사",
+    "target": "계좌정보, 채무내역",
+    "approach": "조정 수수료 명목의 계좌 요청"
+  },
+  {
+    "type": "  보험적용 불가 통보",
+    "impersonation": "보험사 콜센터",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "환불·정정 처리를 위한 본인확인"
+  },
+  {
+    "type": "  자동차 검사 예약비",
+    "impersonation": "검사소 직원",
+    "target": "카드정보, 차량정보",
+    "approach": "예약비 결제 요청"
+  },
+  {
+    "type": "  문화상품권 당첨",
+    "impersonation": "이벤트 운영자",
+    "target": "계좌정보, 연락처",
+    "approach": "당첨금 지급 전 수수료 요구"
+  },
+  {
+    "type": "  온라인 결제 인증 문의",
+    "impersonation": "결제사 보안팀",
+    "target": "카드정보, 인증번호",
+    "approach": "의심 결제 차단을 위한 인증 요청"
+  },
+  {
+    "type": "  주거지원금 추가지급",
+    "impersonation": "지자체 복지팀",
+    "target": "계좌번호, 주민번호",
+    "approach": "주거지원금 추가 신청 안내"
+  },
+  {
+    "type": "  애완동물 보험 환급",
+    "impersonation": "보험사 고객지원",
+    "target": "계좌번호, 반려동물 정보",
+    "approach": "보험 환급 안내"
+  },
+  {
+    "type": "  세탁물 분실 보상",
+    "impersonation": "세탁소 보상팀",
+    "target": "계좌번호, 영수증 사진",
+    "approach": "보상금 지급 안내"
+  },
+  {
+    "type": "  미술품 경매 낙찰금 요청",
+    "impersonation": "경매장 직원",
+    "target": "계좌번호, 연락처",
+    "approach": "낙찰금 송금 요청"
+  },
+  {
+    "type": "  휴가비 정산 오류",
+    "impersonation": "회사 인사팀",
+    "target": "계좌번호, 휴가내역",
+    "approach": "정산 오류 정정 요청"
+  },
+  {
+    "type": "  명절 선물 배송비 청구",
+    "impersonation": "택배사 직원",
+    "target": "계좌번호, 전화번호",
+    "approach": "추가 배송비 결제 요청"
+  },
+  {
+    "type": "  명의도용 피해 확인",
+    "impersonation": "경찰청 보이스피싱 방지팀",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "명의도용 확인 위한 인증 요구"
+  },
+  {
+    "type": "  농협/축협 보조금 안내",
+    "impersonation": "농업지원센터 직원",
+    "target": "계좌번호, 사업자등록증",
+    "approach": "보조금 지급 안내"
+  },
+  {
+    "type": "  영화제 심사위원 초청",
+    "impersonation": "영화제 운영자",
+    "target": "계좌번호, 연락처",
+    "approach": "초청비 및 등록비 요구"
+  },
+  {
+    "type": "  의료시술 환불",
+    "impersonation": "병원 고객지원",
+    "target": "계좌번호, 진료기록 일부",
+    "approach": "시술 환불 안내"
+  },
+  {
+    "type": "  수익형 부동산 투자 사칭",
+    "impersonation": "부동산 투자회사",
+    "target": "계좌번호, 투자자 신상정보",
+    "approach": "투자금 송금 요청"
+  },
+  {
+    "type": "  휴대폰 기기보상",
+    "impersonation": "휴대폰 제조회사",
+    "target": "계좌번호, 기기정보",
+    "approach": "기기 보상금 지급 안내"
+  },
+  {
+    "type": "  수입물품 통관 서류 요청",
+    "impersonation": "통관 대행사",
+    "target": "주민번호, 계좌정보",
+    "approach": "서류미비로 인한 추가 비용 결제 요청"
+  },
+  {
+    "type": "  고객만족 포인트 지급",
+    "impersonation": "유통사 고객센터",
+    "target": "계좌번호, 회원ID",
+    "approach": "포인트 지급을 위한 계좌 확인"
+  },
+  {
+    "type": "  프리랜서 초빙비 선지급",
+    "impersonation": "에이전시 담당자",
+    "target": "계좌번호, 포트폴리오",
+    "approach": "선지급을 위한 계좌 입력 요청"
+  },
+  {
+    "type": "  택배 도난 조사 협조",
+    "impersonation": "택배 보안팀",
+    "target": "계좌정보, 사진자료",
+    "approach": "조사 협조 명목의 정보요청"
+  },
+  {
+    "type": "  플랫폼 수수료 환급",
+    "impersonation": "플랫폼 정산팀",
+    "target": "계좌번호, 사업자정보",
+    "approach": "수수료 환급 안내"
+  },
+  {
+    "type": "  제세공과금 환급",
+    "impersonation": "국세청 상담원",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "소액 환급 안내"
+  },
+  {
+    "type": "  책임보험 청구",
+    "impersonation": "보험대리점",
+    "target": "계좌번호, 사고내역",
+    "approach": "청구비용 정산 요청"
+  },
+  {
+    "type": "  복권 당첨금 전달",
+    "impersonation": "복권운영사",
+    "target": "주민번호, 계좌번호",
+    "approach": "당첨금 지급 전 세금 납부 요구"
+  },
+  {
+    "type": "  연말 보너스 명목 결제",
+    "impersonation": "회사 임원 사칭",
+    "target": "계좌정보, 인증번호",
+    "approach": "보너스 지급 전 확인 명목 결제 요구"
+  },
+  {
+    "type": "  온라인 커머스 광고비 청구",
+    "impersonation": "광고대행사 영업",
+    "target": "사업자계좌, 카드정보",
+    "approach": "광고비 선결제 요청"
+  },
+  {
+    "type": "  기숙사 퇴실 정산",
+    "impersonation": "기숙사 운영자",
+    "target": "계좌번호, 학생정보",
+    "approach": "퇴실 정산을 위한 계좌 확인"
+  },
+  {
+    "type": "  외국인 친구 긴급송금요청",
+    "impersonation": "해외지인 사칭",
+    "target": "계좌번호, 여권정보",
+    "approach": "긴급 현지 비용 송금 요청(로맨스 변형)"
+  },
+  {
+    "type": "  식품 배달 확인",
+    "impersonation": "배달업체 확인전화",
+    "target": "카드정보, 인증번호",
+    "approach": "결제오류 확인을 위한 인증 요청"
+  },
+  {
+    "type": "  전기차 보조금 환급",
+    "impersonation": "지자체 전기차팀",
+    "target": "계좌번호, 차량정보",
+    "approach": "보조금 지급 안내"
+  },
+  {
+    "type": "  취약점 리워드 지급",
+    "impersonation": "보안리서치팀",
+    "target": "계좌정보, 이메일",
+    "approach": "리워드 지급을 위한 계좌 확인"
+  },
+  {
+    "type": "  대학 장학금 안내",
+    "impersonation": "대학 장학팀",
+    "target": "학생정보, 계좌번호",
+    "approach": "장학금 수령 절차 안내"
+  },
+  {
+    "type": "  휴대폰 보안패치 설치 유도",
+    "impersonation": "제조사 보안팀",
+    "target": "휴대폰 접근권한, 인증번호",
+    "approach": "보안패치 설치 명목 악성앱 유도"
+  },
+  {
+    "type": "  공인인증서 갱신",
+    "impersonation": "인증기관 직원",
+    "target": "공인인증서 비밀번호, 계좌정보",
+    "approach": "갱신비 결제 요청"
+  },
+  {
+    "type": " 온라인 게임 환불 요청",
+    "impersonation": "게임사 고객센터",
+    "target": "계정정보, 카드정보",
+    "approach": "결제 오류 환불 안내"
+  },
+  {
+    "type": " 택배 미수금 안내",
+    "impersonation": "택배 기사",
+    "target": "계좌번호, 전화번호",
+    "approach": "배송비 미결제 안내"
+  },
+  {
+    "type": " 보험금 지급 확인",
+    "impersonation": "보험사 상담사",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "보험금 지급 확인 명목"
+  },
+  {
+    "type": " 금융사 보안점검",
+    "impersonation": "은행 직원",
+    "target": "계좌번호, OTP",
+    "approach": "보안 점검 명목 인증 요청"
+  },
+  {
+    "type": " 공공요금 환불",
+    "impersonation": "전기/가스/수도 고객센터",
+    "target": "계좌번호, 카드정보",
+    "approach": "미납 환급 안내"
+  },
+  {
+    "type": " 문화상품권 지급",
+    "impersonation": "이벤트 운영자",
+    "target": "계좌정보, 연락처",
+    "approach": "당첨금 지급 명목 수수료 요구"
+  },
+  {
+    "type": " 휴대폰 요금 환불",
+    "impersonation": "통신사 고객센터",
+    "target": "계좌정보, 요금제 정보",
+    "approach": "요금 과다청구 확인"
+  },
+  {
+    "type": " 온라인 쇼핑몰 환불",
+    "impersonation": "쇼핑몰 고객센터",
+    "target": "카드정보, 계정정보",
+    "approach": "주문 오류 및 환불 안내"
+  },
+  {
+    "type": " 건강보조금 안내",
+    "impersonation": "지자체 복지팀",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "건강보조금 지급 안내"
+  },
+  {
+    "type": " 렌터카 연체요금",
+    "impersonation": "렌터카 업체",
+    "target": "계좌정보, 운전면허",
+    "approach": "차량 반납 지연 안내"
+  },
+  {
+    "type": " 온라인 경매 낙찰금",
+    "impersonation": "경매사이트 관리자",
+    "target": "계좌정보, 인증번호",
+    "approach": "경매 낙찰금 지급 안내"
+  },
+  {
+    "type": " 연금 환급 안내",
+    "impersonation": "국민연금공단 직원",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "연금 미지급금 확인"
+  },
+  {
+    "type": " 법률상담 비용 청구",
+    "impersonation": "법률사무소 직원",
+    "target": "계좌정보, 신분증 정보",
+    "approach": "연체채권 회수 안내"
+  },
+  {
+    "type": " 학교 등록금 안내",
+    "impersonation": "학교 행정실",
+    "target": "학생 개인정보, 송금 정보",
+    "approach": "등록금 미납 안내"
+  },
+  {
+    "type": " 보험 환급 안내",
+    "impersonation": "보험사 고객센터",
+    "target": "계좌정보, 주민등록번호",
+    "approach": "보험료 환급 안내"
+  },
+  {
+    "type": " 택시 앱 결제 오류",
+    "impersonation": "택시 앱 고객센터",
+    "target": "카드정보, 결제정보",
+    "approach": "결제 오류 및 환불 안내"
+  },
+  {
+    "type": " 금융 앱 보안 점검",
+    "impersonation": "금융 앱 고객센터",
+    "target": "계좌번호, OTP",
+    "approach": "보안 점검 안내"
+  },
+  {
+    "type": " 주식 미수금 환급",
+    "impersonation": "증권사 직원",
+    "target": "계좌번호, 투자정보",
+    "approach": "주식 미수금 환급 안내"
+  },
+  {
+    "type": " 취업 급여 안내",
+    "impersonation": "취업 알선 업체 직원",
+    "target": "이력서, 계좌정보",
+    "approach": "급여 지급 안내"
+  },
+  {
+    "type": " 공무원 범죄 연루 통보",
+    "impersonation": "공무원",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "범죄 연루 통보"
+  },
+  {
+    "type": " 택배 환불 안내",
+    "impersonation": "택배사 고객센터",
+    "target": "카드 정보, 계좌번호",
+    "approach": "배송 취소 및 환불 안내"
+  },
+  {
+    "type": " 온라인 쿠폰 지급",
+    "impersonation": "쿠폰 발급 사이트",
+    "target": "계정 정보, 카드정보",
+    "approach": "쿠폰 지급 안내"
+  },
+  {
+    "type": " 저금리 대출 안내",
+    "impersonation": "대출상담사",
+    "target": "계좌번호, 직장 정보, 개인정보",
+    "approach": "저금리 대출 안내"
+  },
+  {
+    "type": " 해외 송금 확인",
+    "impersonation": "은행 상담원",
+    "target": "계좌번호, 인증번호",
+    "approach": "해외 송금 오류 확인"
+  },
+  {
+    "type": " 공공기관 지원금 안내",
+    "impersonation": "지자체 공무원",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "지원금 지급 안내"
+  },
+  {
+    "type": " 택배 배송비 결제",
+    "impersonation": "택배 기사",
+    "target": "계좌번호, 결제정보",
+    "approach": "배송비 미결제 안내"
+  },
+  {
+    "type": " 신용카드 한도 증가",
+    "impersonation": "카드사 상담원",
+    "target": "카드번호, 계좌번호, 인증번호",
+    "approach": "한도 증가 인증 요청"
+  },
+  {
+    "type": " 보험 청구 처리",
+    "impersonation": "보험사 직원",
+    "target": "계좌번호, 진단서 정보",
+    "approach": "보험금 지급 확인"
+  },
+  {
+    "type": " 은행 OTP 재발급",
+    "impersonation": "은행 직원",
+    "target": "OTP번호, 계좌번호",
+    "approach": "OTP 재발급 인증 요청"
+  },
+  {
+    "type": " 휴대폰 분실 신고",
+    "impersonation": "통신사 고객센터",
+    "target": "계정정보, 주민번호",
+    "approach": "분실 단말 복구 인증"
+  },
+  {
+    "type": " 연말정산 환급 안내",
+    "impersonation": "국세청 상담원",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "연말정산 환급 안내"
+  },
+  {
+    "type": " 전자상거래 결제 확인",
+    "impersonation": "온라인 쇼핑몰",
+    "target": "카드정보, 계정정보",
+    "approach": "결제 확인 명목"
+  },
+  {
+    "type": " 공과금 과납 환급",
+    "impersonation": "전기/수도/가스 고객센터",
+    "target": "계좌번호, 카드정보",
+    "approach": "과납금 환급 안내"
+  },
+  {
+    "type": " 렌터카 예약금 반환",
+    "impersonation": "렌터카 업체",
+    "target": "계좌번호, 연락처",
+    "approach": "예약금 반환 안내"
+  },
+  {
+    "type": " 온라인 게임 포인트 환급",
+    "impersonation": "게임사 고객센터",
+    "target": "계정정보, 카드정보",
+    "approach": "결제 오류 환불 안내"
+  },
+  {
+    "type": " 택배 착불 결제",
+    "impersonation": "택배 기사",
+    "target": "계좌번호, 카드정보",
+    "approach": "착불 배송비 결제 요청"
+  },
+  {
+    "type": " 은행 계좌 점검",
+    "impersonation": "은행 직원",
+    "target": "계좌번호, OTP",
+    "approach": "계좌 점검 명목 인증 요청"
+  },
+  {
+    "type": " 보험료 과납 환급",
+    "impersonation": "보험사 고객센터",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "과납 보험료 환급 안내"
+  },
+  {
+    "type": " 홈쇼핑 주문 취소",
+    "impersonation": "홈쇼핑 고객센터",
+    "target": "카드정보, 주문번호",
+    "approach": "주문 취소 및 환불 안내"
+  },
+  {
+    "type": " 휴대폰 요금제 환급",
+    "impersonation": "통신사 상담사",
+    "target": "계좌번호, 요금제 정보",
+    "approach": "환급 안내"
+  },
+  {
+    "type": " 공공기관 우편물 확인",
+    "impersonation": "공공기관 직원",
+    "target": "주민등록번호, 주소",
+    "approach": "우편물 미수신 확인"
+  },
+  {
+    "type": " 온라인 강의 환불",
+    "impersonation": "교육 플랫폼",
+    "target": "계좌정보, 이메일",
+    "approach": "강의 환불 안내"
+  },
+  {
+    "type": " 연금 보험금 안내",
+    "impersonation": "국민연금공단 직원",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "연금 지급 안내"
+  },
+  {
+    "type": " 대출 상환 안내",
+    "impersonation": "대출 상담사",
+    "target": "계좌번호, 대출정보",
+    "approach": "상환 금액 확인"
+  },
+  {
+    "type": " 택배 분실 조사",
+    "impersonation": "택배사 보안팀",
+    "target": "주소, 연락처",
+    "approach": "분실 물품 조사 협조"
+  },
+  {
+    "type": " 인터넷 결제 오류 확인",
+    "impersonation": "결제사 고객센터",
+    "target": "카드정보, 인증번호",
+    "approach": "결제 오류 확인 명목"
+  },
+  {
+    "type": " 금융 앱 비밀번호 초기화",
+    "impersonation": "은행 앱 고객센터",
+    "target": "계좌번호, OTP",
+    "approach": "비밀번호 초기화 인증 요청"
+  },
+  {
+    "type": " 보험금 지급 지연",
+    "impersonation": "보험사 고객센터",
+    "target": "계좌번호, 진단서 정보",
+    "approach": "보험금 지급 지연 안내"
+  },
+  {
+    "type": " 택배 배송 지연",
+    "impersonation": "택배 기사",
+    "target": "계좌번호, 전화번호",
+    "approach": "배송 지연 안내 및 결제 요청"
+  },
+  {
+    "type": " 공공기관 지원금 연장",
+    "impersonation": "지자체 복지팀",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "지원금 연장 안내"
+  },
+  {
+    "type": " 온라인 쇼핑몰 쿠폰 환급",
+    "impersonation": "쇼핑몰 고객센터",
+    "target": "계정정보, 카드정보",
+    "approach": "쿠폰 환급 안내"
+  },
+  {
+    "type": " 휴대폰 단말 보상금",
+    "impersonation": "통신사 고객센터",
+    "target": "계좌번호, IMEI",
+    "approach": "단말 보상금 지급 안내"
+  },
+  {
+    "type": " 은행 계좌 동결 안내",
+    "impersonation": "은행 직원",
+    "target": "계좌번호, OTP",
+    "approach": "계좌 동결 해제 명목 인증 요청"
+  },
+  {
+    "type": " 택배 환불 미결제",
+    "impersonation": "택배사 고객센터",
+    "target": "계좌정보, 카드정보",
+    "approach": "환불 미결제 안내"
+  },
+  {
+    "type": " 금융사 OTP 확인",
+    "impersonation": "은행 상담원",
+    "target": "계좌번호, OTP",
+    "approach": "OTP 확인 요청"
+  },
+  {
+    "type": " 보험 청구 오류",
+    "impersonation": "보험사 고객센터",
+    "target": "계좌번호, 진단서",
+    "approach": "청구 오류 확인 안내"
+  },
+  {
+    "type": " 홈쇼핑 적립금 지급",
+    "impersonation": "홈쇼핑 고객센터",
+    "target": "계좌번호, 카드정보",
+    "approach": "적립금 지급 안내"
+  },
+  {
+    "type": " 통신사 요금제 과납 환급",
+    "impersonation": "통신사 상담사",
+    "target": "계좌번호, 요금제 정보",
+    "approach": "과납 환급 안내"
+  },
+  {
+    "type": " 온라인 강의 수강료 환급",
+    "impersonation": "교육 플랫폼 고객센터",
+    "target": "계좌정보, 이메일",
+    "approach": "환급 안내"
+  },
+  {
+    "type": " 연금 보험료 환급",
+    "impersonation": "국민연금공단",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "보험료 환급 안내"
+  },
+  {
+    "type": " 대출 상환 미납 안내",
+    "impersonation": "대출 상담사",
+    "target": "계좌번호, 대출정보",
+    "approach": "상환 미납 안내"
+  },
+  {
+    "type": " 택배 배송 오류",
+    "impersonation": "택배사 고객센터",
+    "target": "계좌번호, 전화번호",
+    "approach": "배송 오류 확인 및 결제 요청"
+  },
+  {
+    "type": " 금융 앱 인증 오류",
+    "impersonation": "은행 앱 고객센터",
+    "target": "계좌번호, OTP",
+    "approach": "인증 오류 확인 요청"
+  },
+  {
+    "type": " 보험금 환급 안내",
+    "impersonation": "보험사 상담사",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "보험금 환급 안내"
+  },
+  {
+    "type": " 공공기관 우편물 미수신",
+    "impersonation": "공공기관 직원",
+    "target": "주민등록번호, 주소",
+    "approach": "우편물 미수신 확인"
+  },
+  {
+    "type": " 온라인 쇼핑몰 배송 취소",
+    "impersonation": "쇼핑몰 고객센터",
+    "target": "카드정보, 주문번호",
+    "approach": "배송 취소 및 환불 안내"
+  },
+  {
+    "type": " 휴대폰 단말 분실 신고",
+    "impersonation": "통신사 고객센터",
+    "target": "계정정보, 주민등록번호",
+    "approach": "분실 신고 안내"
+  },
+  {
+    "type": " 금융사 계좌 점검",
+    "impersonation": "은행 상담사",
+    "target": "계좌번호, OTP",
+    "approach": "계좌 점검 안내"
+  },
+  {
+    "type": " 보험료 과납 환급",
+    "impersonation": "보험사 고객센터",
+    "target": "계좌번호, 주민등록번호",
+    "approach": "과납 보험료 환급 안내"
+  },
+  {
+    "type": " 택배 착불 결제 안내",
+    "impersonation": "택배 기사",
+    "target": "계좌번호, 카드정보",
+    "approach": "착불 결제 안내"
+  },
+  {
+    "type": " 온라인 결제 확인",
+    "impersonation": "결제사 고객센터",
+    "target": "카드정보, 인증번호",
+    "approach": "결제 확인 안내"
+  },
+  {
+    "type": " 은행 OTP 재발급",
+    "impersonation": "은행 상담원",
+    "target": "OTP번호, 계좌번호",
+    "approach": "재발급 안내"
+  },
+  {
+    "type": " 보험금 지급 지연 안내",
+    "impersonation": "보험사 고객센터",
+    "target": "계좌번호, 진단서 정보",
+    "approach": "보험금 지급 지연 안내"
+  },
+  {
+    "type": " 공공기관 지원금 추가 안내",
+    "impersonation": "지자체 복지팀",
+    "target": "주민등록번호, 계좌번호",
+    "approach": "지원금 추가 안내"
+  },
+  {
+    "type": " 온라인 쇼핑몰 쿠폰 지급 안내",
+    "impersonation": "쇼핑몰 고객센터",
+    "target": "계정정보, 카드정보",
+    "approach": "쿠폰 지급 안내"
+  },
+  {
+    "type": " 휴대폰 보상금 안내",
+    "impersonation": "통신사 고객센터",
+    "target": "계좌번호, IMEI",
+    "approach": "보상금 지급 안내"
+  },
+  {
+    "type": " 은행 계좌 동결 해제",
+    "impersonation": "은행 상담원",
+    "target": "계좌번호, OTP",
+    "approach": "계좌 해제 인증 요청"
+  }
+]

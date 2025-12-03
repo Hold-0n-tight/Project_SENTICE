@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <!-- 버튼 배경 -->
+    <View
+        android:id="@+id/buttonBackground"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center"
+        android:background="@drawable/dialpad_button_background" />
+
+    <!-- 숫자와 문자를 포함하는 컨테이너 -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <!-- 숫자 -->
+        <TextView
+            android:id="@+id/tvNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:textColor="#FFFFFF"
+            android:textSize="32sp"
+            android:textStyle="normal" />
+
+        <!-- 문자 (ABC, DEF 등) -->
+        <TextView
+            android:id="@+id/tvLetters"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#FFFFFF"
+            android:textSize="10sp"
+            android:letterSpacing="0.1"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</FrameLayout>

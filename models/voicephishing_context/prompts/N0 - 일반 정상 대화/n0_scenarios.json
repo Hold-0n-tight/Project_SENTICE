@@ -1,0 +1,3014 @@
+[
+  {
+    "type": "친구 간 약속 잡기",
+    "relationship": "친구",
+    "context": "주말 영화 보기 계획",
+    "tone": "친근함"
+  },
+  {
+    "type": "가족 안부 전화",
+    "relationship": "가족",
+    "context": "부모님 건강 확인",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료와 점심 메뉴 결정",
+    "relationship": "동료",
+    "context": "오늘 점심 뭐 먹을지 상의",
+    "tone": "편안함"
+  },
+  {
+    "type": "배달 음식 주문",
+    "relationship": "고객-업체",
+    "context": "저녁 치킨 주문",
+    "tone": "공손함"
+  },
+  {
+    "type": "병원 예약 변경",
+    "relationship": "환자-병원",
+    "context": "진료 시간 조정",
+    "tone": "정중함"
+  },
+  {
+    "type": "헬스장 문의",
+    "relationship": "고객-업체",
+    "context": "회원권 연장 문의",
+    "tone": "친절함"
+  },
+  {
+    "type": "지인에게 부탁",
+    "relationship": "지인",
+    "context": "서류 전달 요청",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "택배 배송 확인",
+    "relationship": "고객-택배기사",
+    "context": "택배 위치 확인",
+    "tone": "간결함"
+  },
+  {
+    "type": "친구와 여행 계획",
+    "relationship": "친구",
+    "context": "주말 당일치기 여행 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족과 주말 일정 확인",
+    "relationship": "가족",
+    "context": "가족 모임 시간 확인",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 업무 외 잡담",
+    "relationship": "동료",
+    "context": "점심시간 간단한 잡담",
+    "tone": "편안함"
+  },
+  {
+    "type": "커피숍 예약 문의",
+    "relationship": "고객-업체",
+    "context": "모임 자리 예약",
+    "tone": "공손함"
+  },
+  {
+    "type": "은행 업무 문의",
+    "relationship": "고객-은행직원",
+    "context": "계좌 이체 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "대학교 교수 상담",
+    "relationship": "학생-교수",
+    "context": "과제 피드백 요청",
+    "tone": "예의바름"
+  },
+  {
+    "type": "택시 호출",
+    "relationship": "승객-기사",
+    "context": "위치 안내 및 도착 시간 확인",
+    "tone": "간결함"
+  },
+  {
+    "type": "친구와 영화 시간 조율",
+    "relationship": "친구",
+    "context": "영화 시작 시간 맞추기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 명절 인사",
+    "relationship": "가족",
+    "context": "명절 안부 전화",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료와 회의 준비",
+    "relationship": "동료",
+    "context": "발표 자료 점검",
+    "tone": "협조적"
+  },
+  {
+    "type": "온라인 쇼핑 문의",
+    "relationship": "고객-업체",
+    "context": "상품 배송 문의",
+    "tone": "친절함"
+  },
+  {
+    "type": "병원 접수 확인",
+    "relationship": "환자-병원",
+    "context": "진료 접수 상태 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "대학교 행정실 문의",
+    "relationship": "학생-행정직원",
+    "context": "서류 제출 안내",
+    "tone": "공손함"
+  },
+  {
+    "type": "친척과 근황 공유",
+    "relationship": "가족",
+    "context": "최근 일상 이야기",
+    "tone": "다정함"
+  },
+  {
+    "type": "동아리 모임 일정 조율",
+    "relationship": "회원-회장",
+    "context": "다음 모임 날짜 확인",
+    "tone": "협조적"
+  },
+  {
+    "type": "편의점 문의",
+    "relationship": "고객-업체",
+    "context": "재고 확인",
+    "tone": "간결함"
+  },
+  {
+    "type": "친구와 저녁 약속",
+    "relationship": "친구",
+    "context": "식사 장소와 시간 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "친구 간 영화 추천",
+    "relationship": "친구",
+    "context": "최근 본 영화 추천 주고받기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 식사 메뉴 논의",
+    "relationship": "가족",
+    "context": "오늘 저녁 메뉴 결정",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료와 커피 브레이크",
+    "relationship": "동료",
+    "context": "잠깐 휴식하며 잡담",
+    "tone": "편안함"
+  },
+  {
+    "type": "카페 주문 문의",
+    "relationship": "고객-업체",
+    "context": "아이스 아메리카노 사이즈 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "병원 예약 확인",
+    "relationship": "환자-병원",
+    "context": "진료 예약 시간 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "헬스장 수업 예약",
+    "relationship": "고객-업체",
+    "context": "필라테스 수업 예약",
+    "tone": "친절함"
+  },
+  {
+    "type": "지인에게 물건 부탁",
+    "relationship": "지인",
+    "context": "책 전달 부탁",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "택배 위치 확인",
+    "relationship": "고객-택배기사",
+    "context": "배송 상태 확인",
+    "tone": "간결함"
+  },
+  {
+    "type": "친구와 여행 계획",
+    "relationship": "친구",
+    "context": "주말 당일치기 여행 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 주말 일정 공유",
+    "relationship": "가족",
+    "context": "주말 모임 시간 확인",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 점심 메뉴 상의",
+    "relationship": "동료",
+    "context": "오늘 점심 뭐 먹을지 상의",
+    "tone": "편안함"
+  },
+  {
+    "type": "커피숍 테이블 예약",
+    "relationship": "고객-업체",
+    "context": "모임 자리 예약",
+    "tone": "공손함"
+  },
+  {
+    "type": "은행 계좌 문의",
+    "relationship": "고객-은행직원",
+    "context": "계좌 이체 내역 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "대학교 과제 상담",
+    "relationship": "학생-교수",
+    "context": "과제 피드백 요청",
+    "tone": "예의바름"
+  },
+  {
+    "type": "택시 호출",
+    "relationship": "승객-기사",
+    "context": "위치 안내 및 도착 시간 확인",
+    "tone": "간결함"
+  },
+  {
+    "type": "친구와 영화 시간 조율",
+    "relationship": "친구",
+    "context": "영화 시작 시간 맞추기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 명절 인사",
+    "relationship": "가족",
+    "context": "명절 안부 전화",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 회의 자료 점검",
+    "relationship": "동료",
+    "context": "발표 자료 확인",
+    "tone": "협조적"
+  },
+  {
+    "type": "온라인 쇼핑 배송 문의",
+    "relationship": "고객-업체",
+    "context": "주문 상품 배송 문의",
+    "tone": "친절함"
+  },
+  {
+    "type": "병원 접수 확인",
+    "relationship": "환자-병원",
+    "context": "진료 접수 상태 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "대학교 서류 제출 문의",
+    "relationship": "학생-행정직원",
+    "context": "필요 서류 제출 안내",
+    "tone": "공손함"
+  },
+  {
+    "type": "친척 근황 공유",
+    "relationship": "가족",
+    "context": "최근 일상 이야기",
+    "tone": "다정함"
+  },
+  {
+    "type": "동아리 모임 일정 조율",
+    "relationship": "회원-회장",
+    "context": "다음 모임 날짜 확인",
+    "tone": "협조적"
+  },
+  {
+    "type": "편의점 재고 문의",
+    "relationship": "고객-업체",
+    "context": "제품 재고 확인",
+    "tone": "간결함"
+  },
+  {
+    "type": "친구 저녁 약속",
+    "relationship": "친구",
+    "context": "식사 장소와 시간 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 영화 추천",
+    "relationship": "가족",
+    "context": "주말 영화 선택",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 간 운동 계획",
+    "relationship": "동료",
+    "context": "퇴근 후 헬스장 방문 일정",
+    "tone": "편안함"
+  },
+  {
+    "type": "커피 주문 취소 문의",
+    "relationship": "고객-업체",
+    "context": "주문 취소 가능 여부 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구 결혼식 참석 여부 확인",
+    "relationship": "친구",
+    "context": "결혼식 RSVP 확인",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 건강 상담",
+    "relationship": "가족",
+    "context": "부모님 건강 상태 확인",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 간 여행 계획",
+    "relationship": "동료",
+    "context": "여름 휴가 일정 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "온라인 주문 취소",
+    "relationship": "고객-업체",
+    "context": "상품 주문 취소 요청",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구 선물 구매 문의",
+    "relationship": "친구",
+    "context": "생일 선물 추천 요청",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 생일 축하",
+    "relationship": "가족",
+    "context": "가족 구성원 생일 축하 메시지",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 퇴근 후 약속",
+    "relationship": "동료",
+    "context": "퇴근 후 간단한 회식 계획",
+    "tone": "편안함"
+  },
+  {
+    "type": "카페 메뉴 문의",
+    "relationship": "고객-업체",
+    "context": "오늘 메뉴 추천 요청",
+    "tone": "친절함"
+  },
+  {
+    "type": "친구 운동 기록 공유",
+    "relationship": "친구",
+    "context": "이번 주 달리기 기록 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 쇼핑 일정 공유",
+    "relationship": "가족",
+    "context": "마트 장보기 일정 공유",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 생일 깜짝 이벤트",
+    "relationship": "동료",
+    "context": "생일 이벤트 계획 상의",
+    "tone": "편안함"
+  },
+  {
+    "type": "온라인 결제 문의",
+    "relationship": "고객-업체",
+    "context": "결제 오류 해결 문의",
+    "tone": "정중함"
+  },
+  {
+    "type": "친구 카페 모임 계획",
+    "relationship": "친구",
+    "context": "주말 카페 방문 계획",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 여행지 추천",
+    "relationship": "가족",
+    "context": "가족 여행지 논의",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료와 프로젝트 종료 축하",
+    "relationship": "동료",
+    "context": "프로젝트 완료 축하 메시지",
+    "tone": "편안함"
+  },
+  {
+    "type": "온라인 문의 답변 요청",
+    "relationship": "고객-업체",
+    "context": "배송 관련 문의 답변 요청",
+    "tone": "정중함"
+  },
+  {
+    "type": "친구 요리 레시피 공유",
+    "relationship": "친구",
+    "context": "최근 만든 요리 레시피 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 주말 외출 계획",
+    "relationship": "가족",
+    "context": "주말 외출 장소 논의",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 운동 후 뒷풀이",
+    "relationship": "동료",
+    "context": "운동 후 간단한 음료 회식",
+    "tone": "편안함"
+  },
+  {
+    "type": "카페 좌석 예약 문의",
+    "relationship": "고객-업체",
+    "context": "테이블 예약 가능 여부 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구 취미 공유",
+    "relationship": "친구",
+    "context": "최근 시작한 취미 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 온라인 강의 추천",
+    "relationship": "가족",
+    "context": "재밌는 온라인 강의 추천",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 점심 메뉴 투표",
+    "relationship": "동료",
+    "context": "오늘 점심 메뉴 투표 참여",
+    "tone": "편안함"
+  },
+  {
+    "type": "온라인 고객센터 문의",
+    "relationship": "고객-업체",
+    "context": "상품 관련 문의",
+    "tone": "친절함"
+  },
+  {
+    "type": "친구 영화 감상 후기 공유",
+    "relationship": "친구",
+    "context": "최근 영화 감상 후기 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 기념일 축하 계획",
+    "relationship": "가족",
+    "context": "가족 기념일 행사 계획",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료와 커피 타임",
+    "relationship": "동료",
+    "context": "잠깐 쉬면서 커피 마시기",
+    "tone": "편안함"
+  },
+  {
+    "type": "온라인 상품 리뷰 문의",
+    "relationship": "고객-업체",
+    "context": "상품 후기 확인 문의",
+    "tone": "정중함"
+  },
+  {
+    "type": "친구 운동 약속",
+    "relationship": "친구",
+    "context": "주말 등산 계획",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 건강검진 일정 확인",
+    "relationship": "가족",
+    "context": "정기 건강검진 날짜 확인",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 회식 장소 결정",
+    "relationship": "동료",
+    "context": "회식 장소 후보 논의",
+    "tone": "편안함"
+  },
+  {
+    "type": "온라인 반품 문의",
+    "relationship": "고객-업체",
+    "context": "상품 반품 절차 문의",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구 온라인 게임 초대",
+    "relationship": "친구",
+    "context": "게임 초대 및 시간 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 명절 음식 준비 논의",
+    "relationship": "가족",
+    "context": "명절 음식 준비 역할 분담",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료 간 간식 회의",
+    "relationship": "동료",
+    "context": "회의 중 간식 준비",
+    "tone": "편안함"
+  },
+  {
+    "type": "카페 신메뉴 문의",
+    "relationship": "고객-업체",
+    "context": "신메뉴 출시 여부 확인",
+    "tone": "친절함"
+  },
+  {
+    "type": "친구와 주말 드라이브 계획",
+    "relationship": "친구",
+    "context": "드라이브 코스 상의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 정기 외출 일정 공유",
+    "relationship": "가족",
+    "context": "정기 외출 일정 안내",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료와 주간 회의 후 피드백",
+    "relationship": "동료",
+    "context": "주간 회의 내용 피드백 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "온라인 배송 상태 확인",
+    "relationship": "고객-업체",
+    "context": "배송 중 상품 위치 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "친구 생일 파티 준비",
+    "relationship": "친구",
+    "context": "생일 파티 계획 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "가족 취미 활동 계획",
+    "relationship": "가족",
+    "context": "주말 취미 활동 계획",
+    "tone": "다정함"
+  },
+  {
+    "type": "동료와 간단한 업무 외 잡담",
+    "relationship": "동료",
+    "context": "점심시간 간단한 잡담",
+    "tone": "편안함"
+  },
+  {
+    "type": "온라인 이벤트 참여 문의",
+    "relationship": "고객-업체",
+    "context": "온라인 이벤트 참여 방법 문의",
+    "tone": "친절함"
+  },
+  {
+    "type": "할머니 안부 전화",
+    "relationship": "가족",
+    "context": "할머니 건강과 근황 확인",
+    "tone": "다정함"
+  },
+  {
+    "type": "부모님께 용돈 요청",
+    "relationship": "가족",
+    "context": "이번 달 용돈 부탁",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "학교 친구와 점심 약속",
+    "relationship": "친구",
+    "context": "오늘 점심 함께 먹기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "학원 수업 문의",
+    "relationship": "학생-강사",
+    "context": "수업 시간 변경 여부 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "교회 모임 일정 확인",
+    "relationship": "교인-교회",
+    "context": "다음 주 모임 장소 확인",
+    "tone": "친근함"
+  },
+  {
+    "type": "남자친구와 데이트 계획",
+    "relationship": "연인",
+    "context": "주말 데이트 일정 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "여자친구와 영화 선택",
+    "relationship": "연인",
+    "context": "영화 장르 결정",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인 간 갈등 해결",
+    "relationship": "연인",
+    "context": "오해로 인한 대화",
+    "tone": "진지함"
+  },
+  {
+    "type": "정치적 토론",
+    "relationship": "친구",
+    "context": "최근 뉴스와 정치 이슈 논의",
+    "tone": "논리적"
+  },
+  {
+    "type": "악기 레슨 문의",
+    "relationship": "학생-강사",
+    "context": "피아노 레슨 내용 질문",
+    "tone": "예의바름"
+  },
+  {
+    "type": "코딩 문제 상담",
+    "relationship": "학생-튜터",
+    "context": "파이썬 코드 오류 해결",
+    "tone": "협조적"
+  },
+  {
+    "type": "학교 과제 도움 요청",
+    "relationship": "친구",
+    "context": "수학 과제 풀이 공유",
+    "tone": "친근함"
+  },
+  {
+    "type": "부모님과 여행 계획",
+    "relationship": "가족",
+    "context": "여름 휴가 일정 논의",
+    "tone": "다정함"
+  },
+  {
+    "type": "친구와 운동 약속",
+    "relationship": "친구",
+    "context": "저녁 달리기 일정 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "학원 수업 피드백 요청",
+    "relationship": "학생-강사",
+    "context": "수업 내용 이해 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "교회 봉사 활동 문의",
+    "relationship": "교인-교회",
+    "context": "봉사 일정 확인",
+    "tone": "친근함"
+  },
+  {
+    "type": "부모님 생일 선물 추천",
+    "relationship": "가족",
+    "context": "생일 선물 후보 논의",
+    "tone": "다정함"
+  },
+  {
+    "type": "연인과 선물 고민",
+    "relationship": "연인",
+    "context": "기념일 선물 결정",
+    "tone": "즐거움"
+  },
+  {
+    "type": "친구와 게임 계획",
+    "relationship": "친구",
+    "context": "온라인 게임 접속 시간 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "학교 시험 대비 스터디",
+    "relationship": "친구",
+    "context": "시험 전날 공부 계획",
+    "tone": "협조적"
+  },
+  {
+    "type": "코딩 스터디 그룹 질문",
+    "relationship": "동료",
+    "context": "코딩 문제 풀이 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "부모님께 용돈 감사 인사",
+    "relationship": "가족",
+    "context": "용돈 받음에 대한 감사",
+    "tone": "다정함"
+  },
+  {
+    "type": "할아버지 안부 확인",
+    "relationship": "가족",
+    "context": "건강과 취미 활동 이야기",
+    "tone": "다정함"
+  },
+  {
+    "type": "친구와 카페 방문 계획",
+    "relationship": "친구",
+    "context": "주말 카페 시간 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 저녁 메뉴 결정",
+    "relationship": "연인",
+    "context": "오늘 저녁 먹을 음식 선택",
+    "tone": "즐거움"
+  },
+  {
+    "type": "교회 주일 예배 참석 확인",
+    "relationship": "교인-교회",
+    "context": "예배 시간 확인",
+    "tone": "친근함"
+  },
+  {
+    "type": "학교 선생님 상담",
+    "relationship": "학생-교사",
+    "context": "진로 및 과목 상담",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 여행지 추천",
+    "relationship": "친구",
+    "context": "가까운 여행지 아이디어 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 주말 나들이 계획",
+    "relationship": "가족",
+    "context": "근교 나들이 일정 조율",
+    "tone": "다정함"
+  },
+  {
+    "type": "악기 연습 시간 조율",
+    "relationship": "학생-강사",
+    "context": "레슨 전 연습 계획 공유",
+    "tone": "예의바름"
+  },
+  {
+    "type": "친구와 음악 추천 공유",
+    "relationship": "친구",
+    "context": "최근 듣는 음악 추천",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 영화 감상 후 후기",
+    "relationship": "연인",
+    "context": "본 영화에 대한 소감 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 금융 상담",
+    "relationship": "가족",
+    "context": "용돈 및 저축 계획 논의",
+    "tone": "다정함"
+  },
+  {
+    "type": "학교 친구와 점심 메뉴 추천",
+    "relationship": "친구",
+    "context": "오늘 점심 메뉴 후보 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "학원 수업 자료 요청",
+    "relationship": "학생-강사",
+    "context": "수업 자료 추가 제공 요청",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 운동 기록 공유",
+    "relationship": "친구",
+    "context": "이번 주 운동 기록 확인",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 다음 주 일정 확인",
+    "relationship": "연인",
+    "context": "주간 스케줄 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "교회 성경 공부 참여 문의",
+    "relationship": "교인-교회",
+    "context": "성경 공부 일정 확인",
+    "tone": "친근함"
+  },
+  {
+    "type": "코딩 동아리 프로젝트 논의",
+    "relationship": "동료",
+    "context": "팀 프로젝트 진행 상황 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "학교 선생님 과제 안내",
+    "relationship": "학생-교사",
+    "context": "과제 제출 일정 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 온라인 쇼핑 추천",
+    "relationship": "친구",
+    "context": "최근 할인 상품 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 요리 레시피 공유",
+    "relationship": "가족",
+    "context": "새로운 요리법 추천",
+    "tone": "다정함"
+  },
+  {
+    "type": "연인과 주말 카페 데이트",
+    "relationship": "연인",
+    "context": "카페 방문 일정 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "친구와 악기 연습 일정 공유",
+    "relationship": "친구",
+    "context": "함께 연습하기 위한 시간 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님 건강 상담 후 조언 듣기",
+    "relationship": "가족",
+    "context": "건강 관련 조언 요청",
+    "tone": "다정함"
+  },
+  {
+    "type": "학교 친구 시험 대비 모임",
+    "relationship": "친구",
+    "context": "시험 대비 스터디 그룹 조율",
+    "tone": "협조적"
+  },
+  {
+    "type": "코딩 문제 도움 요청",
+    "relationship": "동료",
+    "context": "버그 해결 및 코드 리뷰 요청",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 새로운 게임 소개",
+    "relationship": "친구",
+    "context": "최근 출시 게임 이야기 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 간단한 다툼 해결",
+    "relationship": "연인",
+    "context": "오해로 인한 대화 조정",
+    "tone": "진지함"
+  },
+  {
+    "type": "부모님 여행 일정 공유",
+    "relationship": "가족",
+    "context": "가족 여행 계획 공유",
+    "tone": "다정함"
+  },
+  {
+    "type": "학교 선생님 상담 예약",
+    "relationship": "학생-교사",
+    "context": "상담 시간 예약 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 영화 리뷰 공유",
+    "relationship": "친구",
+    "context": "최근 본 영화 이야기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 주말 데이트 코스 계획",
+    "relationship": "연인",
+    "context": "주말 데이트 장소 결정",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님 생일 준비 논의",
+    "relationship": "가족",
+    "context": "부모님 생일 선물 및 케이크 준비",
+    "tone": "다정함"
+  },
+  {
+    "type": "친구와 온라인 채팅",
+    "relationship": "친구",
+    "context": "일상 근황 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "학교 친구와 체육 활동 계획",
+    "relationship": "친구",
+    "context": "체육 시간 운동 종목 정하기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 SNS 사진 공유",
+    "relationship": "연인",
+    "context": "최근 여행 사진 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "코딩 튜터와 질문 공유",
+    "relationship": "학생-튜터",
+    "context": "자바스크립트 문제 질문",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 드라이브 코스 논의",
+    "relationship": "친구",
+    "context": "주말 드라이브 경로 선택",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 취미 활동 계획",
+    "relationship": "가족",
+    "context": "주말 취미 활동 공유",
+    "tone": "다정함"
+  },
+  {
+    "type": "연인과 외식 메뉴 결정",
+    "relationship": "연인",
+    "context": "저녁 식사 메뉴 선택",
+    "tone": "즐거움"
+  },
+  {
+    "type": "교회 행사 참여 확인",
+    "relationship": "교인-교회",
+    "context": "행사 참여 여부 확인",
+    "tone": "친근함"
+  },
+  {
+    "type": "학교 친구와 과제 제출 확인",
+    "relationship": "친구",
+    "context": "과제 제출 일정 확인",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 음악 콘서트 계획",
+    "relationship": "친구",
+    "context": "콘서트 티켓 예매 및 시간 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 영화관 예약",
+    "relationship": "연인",
+    "context": "영화 시간 및 좌석 선택",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 건강검진 일정 공유",
+    "relationship": "가족",
+    "context": "정기 검진 날짜 확인",
+    "tone": "다정함"
+  },
+  {
+    "type": "학교 친구와 독서 모임 계획",
+    "relationship": "친구",
+    "context": "책 읽기 및 모임 일정 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "코딩 스터디 질문 공유",
+    "relationship": "동료",
+    "context": "GitHub 코드 리뷰 요청",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 장난감 수집 이야기",
+    "relationship": "친구",
+    "context": "취미 활동 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 주말 나들이 장소 논의",
+    "relationship": "연인",
+    "context": "근처 공원 또는 카페 선택",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 주말 영화 관람 계획",
+    "relationship": "가족",
+    "context": "주말 가족 영화 관람 시간 조율",
+    "tone": "다정함"
+  },
+  {
+    "type": "학교 선생님 과제 안내 요청",
+    "relationship": "학생-교사",
+    "context": "제출 기한 및 방법 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 온라인 강의 추천",
+    "relationship": "친구",
+    "context": "유튜브 또는 강의 사이트 추천",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 운동 계획 공유",
+    "relationship": "연인",
+    "context": "주말 헬스장 방문 계획",
+    "tone": "즐거움"
+  },
+  {
+    "type": "교회 성가대 연습 일정",
+    "relationship": "교인-교회",
+    "context": "성가대 연습 시간 확인",
+    "tone": "친근함"
+  },
+  {
+    "type": "친구와 게임 대회 참여 논의",
+    "relationship": "친구",
+    "context": "게임 대회 참가 여부 결정",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 주말 외식 계획",
+    "relationship": "가족",
+    "context": "가족 외식 식당 선택",
+    "tone": "다정함"
+  },
+  {
+    "type": "연인과 주말 드라이브 계획",
+    "relationship": "연인",
+    "context": "주말 드라이브 시간 및 장소 결정",
+    "tone": "즐거움"
+  },
+  {
+    "type": "학교 친구와 점심 메뉴 논의",
+    "relationship": "친구",
+    "context": "점심 메뉴 후보 상의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "코딩 문제 해결 방법 공유",
+    "relationship": "동료",
+    "context": "Python 알고리즘 해결 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 취미 사진 공유",
+    "relationship": "친구",
+    "context": "최근 찍은 사진 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 주말 카페 데이트 시간 조율",
+    "relationship": "연인",
+    "context": "카페 방문 시간 결정",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 건강 식단 공유",
+    "relationship": "가족",
+    "context": "주간 식단 추천 및 공유",
+    "tone": "다정함"
+  },
+  {
+    "type": "학교 친구와 시험 공부 계획",
+    "relationship": "친구",
+    "context": "시험 대비 스터디 시간 조율",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 영화관 티켓 예매",
+    "relationship": "친구",
+    "context": "예매 시간과 좌석 확인",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 주말 영화 선택",
+    "relationship": "연인",
+    "context": "영화 장르 선택 및 시간 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 주말 나들이 장소 선택",
+    "relationship": "가족",
+    "context": "근교 나들이 장소 논의",
+    "tone": "다정함"
+  },
+  {
+    "type": "학교 선생님 상담 일정 확인",
+    "relationship": "학생-교사",
+    "context": "상담 가능 시간 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 음악 추천 공유",
+    "relationship": "친구",
+    "context": "최근 들은 음악 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "연인과 커피숍 방문 계획",
+    "relationship": "연인",
+    "context": "주말 커피숍 방문 시간 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님과 주말 영화 관람 계획",
+    "relationship": "가족",
+    "context": "가족 영화 관람 시간 결정",
+    "tone": "다정함"
+  },
+  {
+    "type": "집들이 초대",
+    "relationship": "친구",
+    "context": "새 집으로 초대 계획",
+    "tone": "즐거움"
+  },
+  {
+    "type": "인문학 책 토론",
+    "relationship": "친구",
+    "context": "최근 읽은 철학 서적에 대해 토론",
+    "tone": "논리적"
+  },
+  {
+    "type": "과학 실험 공유",
+    "relationship": "친구",
+    "context": "최근 실험 결과와 관찰 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "노트북 구매 상담",
+    "relationship": "친구",
+    "context": "새 노트북 모델 추천 요청",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "도서 추천 요청",
+    "relationship": "친구",
+    "context": "최근 재미있게 읽은 책 추천",
+    "tone": "즐거움"
+  },
+  {
+    "type": "대학교 강의 추천",
+    "relationship": "친구",
+    "context": "이번 학기 수강할 강의 추천",
+    "tone": "협조적"
+  },
+  {
+    "type": "교수님 상담 이야기",
+    "relationship": "학생-친구",
+    "context": "교수님 피드백 공유",
+    "tone": "공손함"
+  },
+  {
+    "type": "과제 제출 고민 상담",
+    "relationship": "친구",
+    "context": "과제 어려움과 해결 방법 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "옆집 누나와 대화",
+    "relationship": "이웃",
+    "context": "간단한 안부 및 잡담",
+    "tone": "친근함"
+  },
+  {
+    "type": "썸타는 친구와 대화",
+    "relationship": "친구",
+    "context": "최근 감정 공유 및 대화",
+    "tone": "설레임"
+  },
+  {
+    "type": "시험 대비 전략 공유",
+    "relationship": "친구",
+    "context": "시험 공부 계획 및 전략 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "동창모임 소집",
+    "relationship": "친구",
+    "context": "동창회 모임 날짜 및 장소 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "예비군 훈련 이야기",
+    "relationship": "친구",
+    "context": "훈련 경험 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "군대 생활 경험 공유",
+    "relationship": "친구",
+    "context": "군대 경험과 에피소드 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "사과 대화",
+    "relationship": "친구",
+    "context": "최근 사건에 대한 사과",
+    "tone": "진지함"
+  },
+  {
+    "type": "생일 축하 메시지",
+    "relationship": "친구",
+    "context": "생일 축하 인사",
+    "tone": "즐거움"
+  },
+  {
+    "type": "취업 축하 대화",
+    "relationship": "친구",
+    "context": "취업 성공 축하 메시지",
+    "tone": "즐거움"
+  },
+  {
+    "type": "출산 축하 대화",
+    "relationship": "친구",
+    "context": "출산 축하 메시지",
+    "tone": "다정함"
+  },
+  {
+    "type": "육아 고민 상담",
+    "relationship": "친구",
+    "context": "아이 양육 관련 경험 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "진로 고민 상담",
+    "relationship": "친구",
+    "context": "향후 진로 방향 논의",
+    "tone": "진지함"
+  },
+  {
+    "type": "자녀 문제 상담",
+    "relationship": "가족",
+    "context": "자녀 학교 생활 문제 공유",
+    "tone": "진지함"
+  },
+  {
+    "type": "고부 갈등 해결 대화",
+    "relationship": "가족",
+    "context": "시댁 문제 해결 논의",
+    "tone": "진지함"
+  },
+  {
+    "type": "집들이 음식 준비",
+    "relationship": "친구",
+    "context": "집들이 음식 메뉴 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "책 읽기 모임",
+    "relationship": "친구",
+    "context": "이번 주 읽을 책 선정",
+    "tone": "논리적"
+  },
+  {
+    "type": "과학 관련 토론",
+    "relationship": "친구",
+    "context": "우주 및 물리학 주제 토론",
+    "tone": "논리적"
+  },
+  {
+    "type": "전자기기 구매 상담",
+    "relationship": "친구",
+    "context": "스마트폰 모델 추천",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "도서관에서 책 추천",
+    "relationship": "친구",
+    "context": "추천 도서 목록 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "대학교 강의 수강 상담",
+    "relationship": "친구",
+    "context": "선호 교수와 강의 추천 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "교수님 연구실 방문",
+    "relationship": "학생-교수",
+    "context": "연구 관련 질문 및 상담",
+    "tone": "공손함"
+  },
+  {
+    "type": "과제 팀 프로젝트 논의",
+    "relationship": "친구",
+    "context": "조별 과제 역할 분담",
+    "tone": "협조적"
+  },
+  {
+    "type": "썸 친구와 카페 데이트",
+    "relationship": "친구",
+    "context": "카페 방문 시간 조율",
+    "tone": "설레임"
+  },
+  {
+    "type": "시험 성적 결과 공유",
+    "relationship": "친구",
+    "context": "시험 점수 공유 및 감상",
+    "tone": "편안함"
+  },
+  {
+    "type": "동창모임 음식 준비",
+    "relationship": "친구",
+    "context": "모임 음식과 장소 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "예비군 훈련 일정 확인",
+    "relationship": "친구",
+    "context": "훈련 일정 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "군대 시절 추억 공유",
+    "relationship": "친구",
+    "context": "훈련 및 부대 생활 이야기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "사과 하기",
+    "relationship": "친구",
+    "context": "잘못한 것에 대한 사과 전달",
+    "tone": "진지함"
+  },
+  {
+    "type": "친구 생일 케이크 준비",
+    "relationship": "친구",
+    "context": "생일 케이크 및 선물 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "취업 축하 모임 계획",
+    "relationship": "친구",
+    "context": "취업 축하를 위한 모임 일정",
+    "tone": "즐거움"
+  },
+  {
+    "type": "출산 선물 준비",
+    "relationship": "친구",
+    "context": "출산 선물 후보 논의",
+    "tone": "다정함"
+  },
+  {
+    "type": "육아 정보 공유",
+    "relationship": "친구",
+    "context": "아이 발달 관련 정보 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "진로 상담 모임",
+    "relationship": "친구",
+    "context": "진로 관련 경험과 조언 공유",
+    "tone": "진지함"
+  },
+  {
+    "type": "자녀 학습 상담",
+    "relationship": "가족",
+    "context": "학습 방법 및 학교 생활 공유",
+    "tone": "진지함"
+  },
+  {
+    "type": "고부 갈등 상담",
+    "relationship": "가족",
+    "context": "서로의 입장 이해와 해결책 논의",
+    "tone": "진지함"
+  },
+  {
+    "type": "집들이 인테리어 아이디어 공유",
+    "relationship": "친구",
+    "context": "집 꾸미기 아이디어 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "인문학 강의 추천",
+    "relationship": "친구",
+    "context": "인문학 관련 강의 추천 공유",
+    "tone": "논리적"
+  },
+  {
+    "type": "과학 잡지 읽기 공유",
+    "relationship": "친구",
+    "context": "최신 과학 기사 토론",
+    "tone": "논리적"
+  },
+  {
+    "type": "전자기기 리뷰 공유",
+    "relationship": "친구",
+    "context": "새로 산 기기 리뷰 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "도서 추천과 감상 공유",
+    "relationship": "친구",
+    "context": "책 읽은 감상 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "대학교 강의 평가 공유",
+    "relationship": "친구",
+    "context": "수강 후기와 교수 평가 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "교수님 연구실 과제 상담",
+    "relationship": "학생-교수",
+    "context": "과제 진행 관련 질문",
+    "tone": "공손함"
+  },
+  {
+    "type": "조별 과제 역할 분담",
+    "relationship": "친구",
+    "context": "팀 프로젝트 업무 배분 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "썸 친구와 이야기 주고받기",
+    "relationship": "친구",
+    "context": "짧은 대화로 근황 공유",
+    "tone": "설레임"
+  },
+  {
+    "type": "시험 공부 시간 공유",
+    "relationship": "친구",
+    "context": "시험 공부 시간표 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "동창모임 장소 예약",
+    "relationship": "친구",
+    "context": "동창 모임 장소 예약과 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "예비군 훈련 장소 확인",
+    "relationship": "친구",
+    "context": "훈련 장소 및 시간 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "군대 친구와 근황 공유",
+    "relationship": "친구",
+    "context": "전역 후 근황 이야기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "사과 편지 작성",
+    "relationship": "친구",
+    "context": "편지로 진심 어린 사과 전달",
+    "tone": "진지함"
+  },
+  {
+    "type": "친구 생일 축하 메시지",
+    "relationship": "친구",
+    "context": "생일 축하 메시지 작성",
+    "tone": "즐거움"
+  },
+  {
+    "type": "취업 축하 편지",
+    "relationship": "친구",
+    "context": "취업 축하 내용 전달",
+    "tone": "즐거움"
+  },
+  {
+    "type": "출산 축하 편지",
+    "relationship": "친구",
+    "context": "출산 축하 내용 전달",
+    "tone": "다정함"
+  },
+  {
+    "type": "육아 용품 추천 공유",
+    "relationship": "친구",
+    "context": "아이 용품 추천과 경험 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "진로 상담 메시지",
+    "relationship": "친구",
+    "context": "진로 고민과 조언 요청",
+    "tone": "진지함"
+  },
+  {
+    "type": "자녀 학습 방법 공유",
+    "relationship": "가족",
+    "context": "자녀 공부 방법과 팁 공유",
+    "tone": "진지함"
+  },
+  {
+    "type": "고부 갈등 해결 메시지",
+    "relationship": "가족",
+    "context": "갈등 해결 방법 논의",
+    "tone": "진지함"
+  },
+  {
+    "type": "집들이 음악 추천",
+    "relationship": "친구",
+    "context": "집들이 음악 리스트 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "인문학 책 클럽 모임",
+    "relationship": "친구",
+    "context": "책 클럽 모임 일정 논의",
+    "tone": "논리적"
+  },
+  {
+    "type": "과학 다큐멘터리 시청 공유",
+    "relationship": "친구",
+    "context": "다큐멘터리 감상 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "전자기기 사양 비교",
+    "relationship": "친구",
+    "context": "노트북과 태블릿 사양 비교",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "도서 감상 후기 공유",
+    "relationship": "친구",
+    "context": "책 내용과 감상 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "대학교 수업 내용 리뷰",
+    "relationship": "친구",
+    "context": "수업 내용 리뷰와 요약 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "교수님 피드백 상담",
+    "relationship": "학생-교수",
+    "context": "과제 피드백 질문",
+    "tone": "공손함"
+  },
+  {
+    "type": "조별 과제 일정 조율",
+    "relationship": "친구",
+    "context": "과제 제출 일정 조율",
+    "tone": "협조적"
+  },
+  {
+    "type": "썸 친구와 약속 잡기",
+    "relationship": "친구",
+    "context": "주말 만남 시간 조율",
+    "tone": "설레임"
+  },
+  {
+    "type": "시험 대비 공부 계획 공유",
+    "relationship": "친구",
+    "context": "공부 계획과 방법 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "동창모임 일정 확인",
+    "relationship": "친구",
+    "context": "모임 참석 여부 확인",
+    "tone": "즐거움"
+  },
+  {
+    "type": "예비군 훈련 내용 공유",
+    "relationship": "친구",
+    "context": "훈련 경험과 팁 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "군대 친구 근황 공유",
+    "relationship": "친구",
+    "context": "근황 이야기와 근무 상황 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "진심 어린 사과 대화",
+    "relationship": "친구",
+    "context": "최근 오해에 대한 사과",
+    "tone": "진지함"
+  },
+  {
+    "type": "생일 선물 아이디어 공유",
+    "relationship": "친구",
+    "context": "친구 생일 선물 후보 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "취업 축하 파티 계획",
+    "relationship": "친구",
+    "context": "취업 축하 파티 준비",
+    "tone": "즐거움"
+  },
+  {
+    "type": "출산 축하 선물 준비",
+    "relationship": "친구",
+    "context": "출산 선물 후보 논의",
+    "tone": "다정함"
+  },
+  {
+    "type": "육아 상담 모임",
+    "relationship": "친구",
+    "context": "아이 양육 방법과 정보 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "진로 상담 계획",
+    "relationship": "친구",
+    "context": "향후 계획과 조언 공유",
+    "tone": "진지함"
+  },
+  {
+    "type": "자녀 학교 생활 상담",
+    "relationship": "가족",
+    "context": "학교 문제와 상담 논의",
+    "tone": "진지함"
+  },
+  {
+    "type": "고부 갈등 메시지",
+    "relationship": "가족",
+    "context": "갈등 해결과 이해 공유",
+    "tone": "진지함"
+  },
+  {
+    "type": "집들이 음식 준비 논의",
+    "relationship": "친구",
+    "context": "집들이 음식 메뉴 및 역할 분담",
+    "tone": "즐거움"
+  },
+  {
+    "type": "인문학 강의 추천 공유",
+    "relationship": "친구",
+    "context": "인문학 강의 수강 추천 공유",
+    "tone": "논리적"
+  },
+  {
+    "type": "과학 실험 토론",
+    "relationship": "친구",
+    "context": "실험 방법과 결과 공유",
+    "tone": "논리적"
+  },
+  {
+    "type": "새 전자기기 리뷰 공유",
+    "relationship": "친구",
+    "context": "새 기기 리뷰와 사용 소감 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "도서 감상 공유",
+    "relationship": "친구",
+    "context": "책 읽은 소감 및 추천 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "대학 강의 리뷰 공유",
+    "relationship": "친구",
+    "context": "수강 후기와 교수 의견 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "교수님 과제 피드백",
+    "relationship": "학생-교수",
+    "context": "과제 관련 피드백 질문",
+    "tone": "공손함"
+  },
+  {
+    "type": "조별 과제 진행 상황 공유",
+    "relationship": "친구",
+    "context": "진행 상황 및 역할 분담 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "썸 친구와 약속 확인",
+    "relationship": "친구",
+    "context": "주말 일정 확인",
+    "tone": "설레임"
+  },
+  {
+    "type": "시험 공부 계획 논의",
+    "relationship": "친구",
+    "context": "시험 대비 계획 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "동창모임 음식 및 장소 확인",
+    "relationship": "친구",
+    "context": "모임 장소와 음식 준비 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "예비군 훈련 경험 공유",
+    "relationship": "친구",
+    "context": "훈련 경험과 유용한 팁 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "군대 친구와 근황 공유",
+    "relationship": "친구",
+    "context": "군 생활 이야기 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "친구에게 돈 빌리기",
+    "relationship": "친구",
+    "context": "급하게 필요한 돈 요청",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "친구에게 돈 갚기",
+    "relationship": "친구",
+    "context": "빌린 돈 상환 계획 논의",
+    "tone": "정중함"
+  },
+  {
+    "type": "가족에게 용돈 요청",
+    "relationship": "가족",
+    "context": "이번 달 생활비 요청",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "부모님께 학원비 문의",
+    "relationship": "가족",
+    "context": "자녀 학원비 지원 요청",
+    "tone": "공손함"
+  },
+  {
+    "type": "동료와 점심 비용 분배",
+    "relationship": "동료",
+    "context": "점심 식사 비용 계산 및 나눔",
+    "tone": "편안함"
+  },
+  {
+    "type": "룸메이트와 생활비 분담",
+    "relationship": "룸메이트",
+    "context": "월별 공과금 및 생활비 나누기",
+    "tone": "협조적"
+  },
+  {
+    "type": "가족과 주간 생활비 계획",
+    "relationship": "가족",
+    "context": "이번 주 지출 계획 조율",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 여행 경비 계산",
+    "relationship": "친구",
+    "context": "여행 비용 분배와 계산",
+    "tone": "즐거움"
+  },
+  {
+    "type": "부모님께 대학 등록금 문의",
+    "relationship": "가족",
+    "context": "등록금 납부 계획 상담",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 커피 값 계산",
+    "relationship": "친구",
+    "context": "커피 값 나누기 논의",
+    "tone": "편안함"
+  },
+  {
+    "type": "동료와 회식 비용 정산",
+    "relationship": "동료",
+    "context": "회식 비용 계산 및 분배",
+    "tone": "협조적"
+  },
+  {
+    "type": "친척에게 돈 빌리기",
+    "relationship": "가족",
+    "context": "갑작스러운 필요 금액 요청",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "친척에게 돈 갚기",
+    "relationship": "가족",
+    "context": "빌린 금액 상환 계획 공유",
+    "tone": "정중함"
+  },
+  {
+    "type": "은행 업무 상담",
+    "relationship": "고객-은행직원",
+    "context": "계좌 이체 및 잔액 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "대학 동기와 학원비 분담",
+    "relationship": "친구",
+    "context": "공동 수강 시 학원비 분배 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "집주인과 관리비 논의",
+    "relationship": "세입자-집주인",
+    "context": "관리비 항목 및 납부 방법 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "전기세 납부 계획 상담",
+    "relationship": "가족",
+    "context": "전기세 납부 방법과 일정 조율",
+    "tone": "협조적"
+  },
+  {
+    "type": "물가 상승 대비 생활비 논의",
+    "relationship": "가족",
+    "context": "월별 생활비 예산 조정",
+    "tone": "진지함"
+  },
+  {
+    "type": "친구와 외식 비용 정산",
+    "relationship": "친구",
+    "context": "외식 후 비용 계산 및 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "부모님께 여행 경비 요청",
+    "relationship": "가족",
+    "context": "여행 경비 지원 요청",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "학원 선생님과 수강료 상담",
+    "relationship": "학생-선생님",
+    "context": "수강료 납부 일정 문의",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 게임 경품 금액 정산",
+    "relationship": "친구",
+    "context": "공동 게임 대회 상금 분배",
+    "tone": "즐거움"
+  },
+  {
+    "type": "은행 대출 상담",
+    "relationship": "고객-은행직원",
+    "context": "대출 가능 금액과 조건 문의",
+    "tone": "정중함"
+  },
+  {
+    "type": "세입자와 월세 조율",
+    "relationship": "세입자-집주인",
+    "context": "월세 납부 일정 및 방법 협의",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 교재 구입비 나누기",
+    "relationship": "친구",
+    "context": "공동 교재 구매 비용 분담",
+    "tone": "편안함"
+  },
+  {
+    "type": "가족과 장보기 비용 계산",
+    "relationship": "가족",
+    "context": "장보기 예산과 비용 배분",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 스포츠 모임 회비 논의",
+    "relationship": "친구",
+    "context": "모임 회비 납부 방법과 금액 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "동료와 프로젝트 비용 공유",
+    "relationship": "동료",
+    "context": "업무 관련 지출 비용 분배",
+    "tone": "협조적"
+  },
+  {
+    "type": "친척 결혼식 비용 분담",
+    "relationship": "가족",
+    "context": "결혼식 선물 및 참가 비용 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "학원 등록금 분할 납부 상담",
+    "relationship": "학생-학원",
+    "context": "등록금 분할 납부 가능 여부 문의",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 간식 비용 계산",
+    "relationship": "친구",
+    "context": "간식 구매 비용 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "가족과 월세 분담",
+    "relationship": "가족",
+    "context": "형제/자매와 월세 분담 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "동료와 점심 회비 정산",
+    "relationship": "동료",
+    "context": "점심 회비 계산 및 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "부모님과 학자금 대출 상담",
+    "relationship": "가족",
+    "context": "대출 상환 계획 및 방법 논의",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 장비 구입비 분담",
+    "relationship": "친구",
+    "context": "공동 장비 구매 비용 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "은행 수수료 문의",
+    "relationship": "고객-은행직원",
+    "context": "계좌 수수료와 조건 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "친구와 외식 예산 계획",
+    "relationship": "친구",
+    "context": "외식 비용 미리 계획",
+    "tone": "협조적"
+  },
+  {
+    "type": "동료와 회의 다과 비용 분담",
+    "relationship": "동료",
+    "context": "회의 다과 비용 계산 및 분배",
+    "tone": "편안함"
+  },
+  {
+    "type": "학원 강사에게 장학금 문의",
+    "relationship": "학생-학원",
+    "context": "장학금 신청 및 조건 확인",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 영화 관람 비용 나누기",
+    "relationship": "친구",
+    "context": "영화 관람료 계산",
+    "tone": "편안함"
+  },
+  {
+    "type": "가족과 생활비 긴급 요청",
+    "relationship": "가족",
+    "context": "갑작스러운 지출 지원 요청",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "친구와 여행 경비 정산",
+    "relationship": "친구",
+    "context": "여행 후 비용 정산",
+    "tone": "편안함"
+  },
+  {
+    "type": "동료와 업무 관련 지출 공유",
+    "relationship": "동료",
+    "context": "출장 비용 및 정산 방법 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "친척과 행사 비용 조율",
+    "relationship": "가족",
+    "context": "가족 행사 비용 분담",
+    "tone": "협조적"
+  },
+  {
+    "type": "세입자와 공과금 분배 논의",
+    "relationship": "세입자-집주인",
+    "context": "전기/수도/가스 비용 분담",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 학원비 환불 상담",
+    "relationship": "친구",
+    "context": "공동 수강 취소 후 환불 금액 확인",
+    "tone": "편안함"
+  },
+  {
+    "type": "은행 대출 상환 계획",
+    "relationship": "고객-은행직원",
+    "context": "대출 상환 일정 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "부모님께 생활비 지원 요청",
+    "relationship": "가족",
+    "context": "월간 생활비 지원 요청",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "친구와 간식 비용 나누기",
+    "relationship": "친구",
+    "context": "간식 구매 비용 계산",
+    "tone": "편안함"
+  },
+  {
+    "type": "동료와 출장비 정산",
+    "relationship": "동료",
+    "context": "출장 후 비용 정산 방법 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "가족과 의료비 분담",
+    "relationship": "가족",
+    "context": "가족 병원비 분담 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 공원 놀이 비용 계산",
+    "relationship": "친구",
+    "context": "놀이 기구 비용 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "학원 수업료 납부 상담",
+    "relationship": "학생-학원",
+    "context": "수업료 납부 일정 문의",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 점심 식사 비용 계산",
+    "relationship": "친구",
+    "context": "점심 계산 및 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "가족과 명절 용돈 조율",
+    "relationship": "가족",
+    "context": "명절 용돈 금액 협의",
+    "tone": "협조적"
+  },
+  {
+    "type": "친척과 결혼식 비용 논의",
+    "relationship": "가족",
+    "context": "결혼식 관련 비용 분담",
+    "tone": "협조적"
+  },
+  {
+    "type": "동료와 회식 경비 정산",
+    "relationship": "동료",
+    "context": "회식 비용 계산과 정산",
+    "tone": "편안함"
+  },
+  {
+    "type": "친구와 운동 모임 회비 나누기",
+    "relationship": "친구",
+    "context": "운동 모임 회비 정산",
+    "tone": "협조적"
+  },
+  {
+    "type": "가족과 아이 학원비 상담",
+    "relationship": "가족",
+    "context": "아이 학원비 납부 계획 공유",
+    "tone": "공손함"
+  },
+  {
+    "type": "은행 계좌 수수료 문의",
+    "relationship": "고객-은행직원",
+    "context": "계좌 유지 수수료 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "친구와 여행비 예산 계획",
+    "relationship": "친구",
+    "context": "예상 비용 계산 및 분배",
+    "tone": "협조적"
+  },
+  {
+    "type": "동료와 커피 회비 정산",
+    "relationship": "동료",
+    "context": "커피 구입 비용 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "친척과 가족 모임 비용 분배",
+    "relationship": "가족",
+    "context": "모임 비용 분담 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "학원 등록금 할인 문의",
+    "relationship": "학생-학원",
+    "context": "등록금 할인 가능 여부 문의",
+    "tone": "공손함"
+  },
+  {
+    "type": "친구와 간식 구매 계획",
+    "relationship": "친구",
+    "context": "간식 구매 계획 및 비용 분배",
+    "tone": "편안함"
+  },
+  {
+    "type": "부모님께 학자금 지원 요청",
+    "relationship": "가족",
+    "context": "학자금 지원 여부 문의",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "친구와 여행 경비 예측",
+    "relationship": "친구",
+    "context": "예상 여행 비용 계산 및 나누기",
+    "tone": "협조적"
+  },
+  {
+    "type": "동료와 프로젝트 비용 논의",
+    "relationship": "동료",
+    "context": "프로젝트 진행 비용 계산 및 분담",
+    "tone": "협조적"
+  },
+  {
+    "type": "세입자와 월세 조정 상담",
+    "relationship": "세입자-집주인",
+    "context": "월세 납부 일정과 금액 협의",
+    "tone": "협조적"
+  },
+  {
+    "type": "친척과 명절 선물 비용 분담",
+    "relationship": "가족",
+    "context": "명절 선물 비용 나누기",
+    "tone": "협조적"
+  },
+  {
+    "type": "친구와 학원비 분할 납부 상담",
+    "relationship": "친구",
+    "context": "공동 수강비 분할 가능 여부 논의",
+    "tone": "편안함"
+  },
+  {
+    "type": "동아리 모임 일정 조율",
+    "relationship": "동아리 회원",
+    "context": "다음 모임 날짜 및 장소 결정",
+    "tone": "협조적"
+  },
+  {
+    "type": "전 연인 근황 공유",
+    "relationship": "친구",
+    "context": "헤어진 전 연인 이야기 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "좋아하는 음식 추천",
+    "relationship": "친구",
+    "context": "맛집과 요리 추천 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "음식 조리법 공유",
+    "relationship": "친구",
+    "context": "집에서 만들 요리 레시피 공유",
+    "tone": "친근함"
+  },
+  {
+    "type": "물건 구매 상담",
+    "relationship": "친구",
+    "context": "전자기기 구매 고민 상담",
+    "tone": "협조적"
+  },
+  {
+    "type": "백화점 신상 입고 소식 공유",
+    "relationship": "친구",
+    "context": "새로운 상품 입고 정보 이야기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "신인 아이돌 그룹 이야기",
+    "relationship": "친구",
+    "context": "최근 신인 아이돌 그룹 멤버 소개 및 평가",
+    "tone": "즐거움"
+  },
+  {
+    "type": "노래 추천 및 공유",
+    "relationship": "친구",
+    "context": "좋아하는 곡 추천 및 감상",
+    "tone": "편안함"
+  },
+  {
+    "type": "미술작품 감상 토론",
+    "relationship": "친구",
+    "context": "전시회에서 본 작품 의견 나누기",
+    "tone": "감상적"
+  },
+  {
+    "type": "국내 여행 계획 공유",
+    "relationship": "친구",
+    "context": "주말 여행 일정 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "해외 여행 계획 상의",
+    "relationship": "친구",
+    "context": "여행 경로, 숙소, 예산 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "카페 신메뉴 추천",
+    "relationship": "친구",
+    "context": "최근 카페 신메뉴 이야기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "주말 운동 계획",
+    "relationship": "친구",
+    "context": "조깅, 등산 등 운동 일정 조율",
+    "tone": "편안함"
+  },
+  {
+    "type": "취미 활동 공유",
+    "relationship": "친구",
+    "context": "최근 취미와 관심사 이야기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "영화 관람 추천",
+    "relationship": "친구",
+    "context": "최근 본 영화 추천 및 평가",
+    "tone": "즐거움"
+  },
+  {
+    "type": "드라마 시청 후기",
+    "relationship": "친구",
+    "context": "드라마 내용과 감상 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "연극 관람 계획",
+    "relationship": "친구",
+    "context": "연극 관람 일정 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "콘서트 티켓 공유",
+    "relationship": "친구",
+    "context": "콘서트 참여 여부 및 티켓 조율",
+    "tone": "협조적"
+  },
+  {
+    "type": "책 추천 및 감상 공유",
+    "relationship": "친구",
+    "context": "최근 읽은 책 소개 및 감상 토론",
+    "tone": "감상적"
+  },
+  {
+    "type": "대학교 강의 추천",
+    "relationship": "친구",
+    "context": "유용한 강의 및 교수님 추천",
+    "tone": "편안함"
+  },
+  {
+    "type": "교수님 관련 이야기",
+    "relationship": "학생-친구",
+    "context": "교수님 강의 스타일과 평가 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "과제 진행 상황 공유",
+    "relationship": "친구",
+    "context": "과제 주제와 진행 상황 토론",
+    "tone": "협조적"
+  },
+  {
+    "type": "시험 준비 계획",
+    "relationship": "친구",
+    "context": "시험 일정과 준비 방법 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "동창 모임 소집",
+    "relationship": "친구",
+    "context": "동창회 날짜와 장소 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "예비군 훈련 이야기",
+    "relationship": "친구",
+    "context": "예비군 훈련 경험 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "군대 경험 이야기",
+    "relationship": "친구",
+    "context": "군대 생활 에피소드 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "사과 대화",
+    "relationship": "친구",
+    "context": "잘못한 일에 대한 사과와 이해 요청",
+    "tone": "진지함"
+  },
+  {
+    "type": "생일 축하 계획",
+    "relationship": "친구",
+    "context": "친구 생일 선물과 파티 계획",
+    "tone": "즐거움"
+  },
+  {
+    "type": "취업 축하 대화",
+    "relationship": "친구",
+    "context": "취업 성공 축하와 조언 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "출산 축하 대화",
+    "relationship": "친구",
+    "context": "출산 소식과 축하 메시지 공유",
+    "tone": "다정함"
+  },
+  {
+    "type": "육아 경험 공유",
+    "relationship": "친구",
+    "context": "육아 팁과 경험 이야기",
+    "tone": "친근함"
+  },
+  {
+    "type": "진로 상담",
+    "relationship": "친구",
+    "context": "직업 선택과 진로 고민 공유",
+    "tone": "진지함"
+  },
+  {
+    "type": "자녀 교육 문제 상담",
+    "relationship": "친구",
+    "context": "자녀 학습 문제와 조언 공유",
+    "tone": "진지함"
+  },
+  {
+    "type": "고부 갈등 이야기",
+    "relationship": "친구",
+    "context": "가족 간 갈등 경험 나누기",
+    "tone": "진지함"
+  },
+  {
+    "type": "집들이 계획 공유",
+    "relationship": "친구",
+    "context": "집들이 날짜와 준비 사항 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "인문학적 대화",
+    "relationship": "친구",
+    "context": "철학, 역사 등 주제 토론",
+    "tone": "감상적"
+  },
+  {
+    "type": "과학 주제 토론",
+    "relationship": "친구",
+    "context": "최신 과학 이슈나 연구 결과 이야기",
+    "tone": "감상적"
+  },
+  {
+    "type": "신형 노트북 구매 상담",
+    "relationship": "친구",
+    "context": "노트북 사양 비교와 추천",
+    "tone": "협조적"
+  },
+  {
+    "type": "전자기기 구매 조언",
+    "relationship": "친구",
+    "context": "스마트폰, 태블릿 등 구매 상담",
+    "tone": "협조적"
+  },
+  {
+    "type": "도서 추천",
+    "relationship": "친구",
+    "context": "관심 있는 분야 책 추천 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "미술관 전시 추천",
+    "relationship": "친구",
+    "context": "미술 전시 일정 및 추천 작품 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "동네 맛집 탐방 계획",
+    "relationship": "친구",
+    "context": "맛집 리스트 공유 및 방문 계획",
+    "tone": "즐거움"
+  },
+  {
+    "type": "음악 페스티벌 계획",
+    "relationship": "친구",
+    "context": "페스티벌 일정과 티켓 예매 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "취미 활동 장비 구매 상담",
+    "relationship": "친구",
+    "context": "사진, 그림 등 취미 장비 추천",
+    "tone": "협조적"
+  },
+  {
+    "type": "동아리 회비 및 행사 비용 정산",
+    "relationship": "동아리 회원",
+    "context": "회비 사용 계획 및 행사 비용 분배",
+    "tone": "협조적"
+  },
+  {
+    "type": "새로운 게임 출시 소식 공유",
+    "relationship": "친구",
+    "context": "게임 출시일, 특징, 기대감 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "전시회 관람 계획",
+    "relationship": "친구",
+    "context": "전시회 일정, 입장료, 교통 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "음악 앨범 리뷰 토론",
+    "relationship": "친구",
+    "context": "새 앨범 감상과 의견 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "축제 방문 계획",
+    "relationship": "친구",
+    "context": "지역 축제 방문 날짜 및 준비물 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "공연 예매 일정 조율",
+    "relationship": "친구",
+    "context": "공연 관람 날짜와 좌석 결정",
+    "tone": "협조적"
+  },
+  {
+    "type": "취미 모임 일정 조율",
+    "relationship": "친구",
+    "context": "정기 모임 날짜와 장소 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "동호회 대회 참여 계획",
+    "relationship": "친구",
+    "context": "대회 일정, 준비물, 참가비 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "영화 관람 후 감상 나누기",
+    "relationship": "친구",
+    "context": "영화 줄거리, 감상, 추천 여부 토론",
+    "tone": "편안함"
+  },
+  {
+    "type": "전시회 작품 분석 대화",
+    "relationship": "친구",
+    "context": "작품의 의미와 기법 분석",
+    "tone": "감상적"
+  },
+  {
+    "type": "새로운 카페 탐방 계획",
+    "relationship": "친구",
+    "context": "카페 위치, 메뉴, 분위기 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "요리 레시피 비교 토론",
+    "relationship": "친구",
+    "context": "같은 요리를 서로 다른 레시피로 시도",
+    "tone": "즐거움"
+  },
+  {
+    "type": "음악 장르 취향 공유",
+    "relationship": "친구",
+    "context": "서로 좋아하는 음악 장르 이야기",
+    "tone": "편안함"
+  },
+  {
+    "type": "영화 장르 추천",
+    "relationship": "친구",
+    "context": "서로 선호하는 영화 장르 추천",
+    "tone": "즐거움"
+  },
+  {
+    "type": "미술 작품 구매 상담",
+    "relationship": "친구",
+    "context": "관심 작품 가격과 구매 여부 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "스포츠 경기 관람 계획",
+    "relationship": "친구",
+    "context": "경기 관람 날짜와 좌석 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "게임 대회 참여 계획",
+    "relationship": "친구",
+    "context": "대회 참가 여부와 준비물 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "여행 사진 공유와 감상",
+    "relationship": "친구",
+    "context": "최근 여행 사진 공유와 감상 나누기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "영화 OST 추천",
+    "relationship": "친구",
+    "context": "좋아하는 영화 OST 추천과 감상",
+    "tone": "편안함"
+  },
+  {
+    "type": "스마트폰 앱 추천",
+    "relationship": "친구",
+    "context": "유용한 앱 소개 및 기능 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "취미 장비 사용 팁 공유",
+    "relationship": "친구",
+    "context": "사진, 그림, 운동 장비 사용 방법 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "문화 행사 방문 계획",
+    "relationship": "친구",
+    "context": "공연, 전시, 축제 등 일정 조율",
+    "tone": "즐거움"
+  },
+  {
+    "type": "집 꾸미기 아이디어 공유",
+    "relationship": "친구",
+    "context": "인테리어 아이디어와 구매 계획 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "새로운 요리 도전 계획",
+    "relationship": "친구",
+    "context": "새 레시피 도전과 시도 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "음악 콘서트 후기 나누기",
+    "relationship": "친구",
+    "context": "콘서트 경험과 감상 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "미술 강의 추천",
+    "relationship": "친구",
+    "context": "유용한 미술 강의와 교수님 평가 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "친구와 패션 아이템 추천",
+    "relationship": "친구",
+    "context": "의류, 액세서리 추천과 구매 상담",
+    "tone": "즐거움"
+  },
+  {
+    "type": "음식 재료 구매 계획",
+    "relationship": "친구",
+    "context": "함께 요리할 재료 구매 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "여행 일정 세부 조율",
+    "relationship": "친구",
+    "context": "교통, 숙소, 식사 계획 상세 조율",
+    "tone": "협조적"
+  },
+  {
+    "type": "전시회 입장권 예매 논의",
+    "relationship": "친구",
+    "context": "입장권 가격과 예매 방법 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "콘서트 굿즈 구매 계획",
+    "relationship": "친구",
+    "context": "공연 굿즈 구매 여부 논의",
+    "tone": "즐거움"
+  },
+  {
+    "type": "동네 산책 계획",
+    "relationship": "친구",
+    "context": "산책 경로와 시간 조율",
+    "tone": "편안함"
+  },
+  {
+    "type": "집들이 선물 추천",
+    "relationship": "친구",
+    "context": "집들이 선물 아이디어 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "문화 유적지 탐방 계획",
+    "relationship": "친구",
+    "context": "역사적 장소 방문 일정 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "게임 캐릭터 추천",
+    "relationship": "친구",
+    "context": "게임 캐릭터 선택과 전략 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "음식점 메뉴 추천",
+    "relationship": "친구",
+    "context": "최근 방문한 음식점 메뉴 추천",
+    "tone": "편안함"
+  },
+  {
+    "type": "커피 맛 비교 토론",
+    "relationship": "친구",
+    "context": "커피 종류별 맛 비교와 의견 나누기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "여행지 날씨 정보 공유",
+    "relationship": "친구",
+    "context": "예정 여행지 날씨 확인 및 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "전시회 테마 분석 대화",
+    "relationship": "친구",
+    "context": "전시 테마와 작가 의도 분석",
+    "tone": "감상적"
+  },
+  {
+    "type": "사진 촬영 장소 추천",
+    "relationship": "친구",
+    "context": "좋은 촬영 장소 공유와 추천",
+    "tone": "편안함"
+  },
+  {
+    "type": "친구와 자전거 여행 계획",
+    "relationship": "친구",
+    "context": "자전거 여행 경로와 준비물 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "영화 속 패션 토론",
+    "relationship": "친구",
+    "context": "영화 속 의상과 패션 스타일 의견 나누기",
+    "tone": "편안함"
+  },
+  {
+    "type": "음악 플레이리스트 추천",
+    "relationship": "친구",
+    "context": "테마별 플레이리스트 추천 및 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "친구와 캠핑 일정 조율",
+    "relationship": "친구",
+    "context": "캠핑 날짜, 장소, 준비물 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "집 근처 맛집 리뷰 공유",
+    "relationship": "친구",
+    "context": "방문 경험과 음식 평가 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "신입 여직원 뒷담화",
+    "relationship": "동료",
+    "context": "신입 여직원의 업무 스타일과 성격 평가",
+    "tone": "편안함"
+  },
+  {
+    "type": "게임 중 전략 논의",
+    "relationship": "친구",
+    "context": "온라인 게임 플레이 중 전략 및 역할 배분",
+    "tone": "협조적"
+  },
+  {
+    "type": "건축 현장 안전 점검 대화",
+    "relationship": "건축팀",
+    "context": "현장 안전 및 진행 상황 확인",
+    "tone": "진지함"
+  },
+  {
+    "type": "개발 공모전 아이디어 회의",
+    "relationship": "팀원",
+    "context": "공모전 주제와 개발 방향 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "TV 프로그램 감상 토론",
+    "relationship": "친구",
+    "context": "최근 방송 프로그램 내용 공유 및 평가",
+    "tone": "즐거움"
+  },
+  {
+    "type": "넷플릭스 드라마 추천 및 토론",
+    "relationship": "친구",
+    "context": "드라마 줄거리와 캐릭터 분석",
+    "tone": "감상적"
+  },
+  {
+    "type": "영화 작가 배우 섭외 전화",
+    "relationship": "영화 관계자",
+    "context": "배우 섭외 및 일정 협의",
+    "tone": "정중함"
+  },
+  {
+    "type": "비밀 연애 중 연예인 대화",
+    "relationship": "연인",
+    "context": "사생활 유지 및 일정 조율",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "직장 상사 평가 토론",
+    "relationship": "동료",
+    "context": "상사 성격 및 업무 스타일 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "게임 아이템 거래 협상",
+    "relationship": "친구",
+    "context": "게임 내 아이템 가격과 거래 조건 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "건축 설계 변경 회의",
+    "relationship": "팀원",
+    "context": "설계 변경 필요 사항 논의",
+    "tone": "진지함"
+  },
+  {
+    "type": "개발 공모전 발표 준비",
+    "relationship": "팀원",
+    "context": "발표 자료 제작 및 역할 분담",
+    "tone": "협조적"
+  },
+  {
+    "type": "TV 프로그램 촬영 후기 공유",
+    "relationship": "친구",
+    "context": "방송 내용과 재미 포인트 이야기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "넷플릭스 드라마 시즌 리뷰",
+    "relationship": "친구",
+    "context": "시즌 결말 및 다음 시즌 예상 토론",
+    "tone": "감상적"
+  },
+  {
+    "type": "영화 배우 촬영 일정 확인",
+    "relationship": "영화 관계자",
+    "context": "배우 출연 일정 및 촬영 계획 논의",
+    "tone": "정중함"
+  },
+  {
+    "type": "연예인 비밀 데이트 계획",
+    "relationship": "연인",
+    "context": "데이트 장소와 시간 조율",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "직장 동료 근무 태도 평가",
+    "relationship": "동료",
+    "context": "업무 능력과 협업 태도 평가",
+    "tone": "편안함"
+  },
+  {
+    "type": "게임 스킬 향상 방법 공유",
+    "relationship": "친구",
+    "context": "게임 기술 및 레벨업 전략 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "건축 자재 발주 논의",
+    "relationship": "건축팀",
+    "context": "자재 필요량과 발주 일정 조율",
+    "tone": "진지함"
+  },
+  {
+    "type": "개발 공모전 코드 리뷰",
+    "relationship": "팀원",
+    "context": "작성한 코드 검토 및 개선점 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "TV 프로그램 출연진 평가",
+    "relationship": "친구",
+    "context": "출연진 연기력과 캐릭터 평가",
+    "tone": "즐거움"
+  },
+  {
+    "type": "넷플릭스 드라마 캐릭터 분석",
+    "relationship": "친구",
+    "context": "주요 캐릭터 심리와 관계 분석",
+    "tone": "감상적"
+  },
+  {
+    "type": "영화 촬영 현장 일정 조율",
+    "relationship": "영화 관계자",
+    "context": "촬영 일정과 장소 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "연예인 비밀 메시지 공유",
+    "relationship": "연인",
+    "context": "사생활 보호를 위한 소통 방법 논의",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "신입 직원 교육 평가",
+    "relationship": "동료",
+    "context": "신입 교육 과정과 이해도 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "게임 이벤트 참여 계획",
+    "relationship": "친구",
+    "context": "게임 이벤트 참여 방법과 전략 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "건축 현장 문제 해결 회의",
+    "relationship": "팀원",
+    "context": "현장 발생 문제 해결 방법 논의",
+    "tone": "진지함"
+  },
+  {
+    "type": "개발 공모전 일정 조율",
+    "relationship": "팀원",
+    "context": "개발 및 제출 일정 상세 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "TV 프로그램 추천",
+    "relationship": "친구",
+    "context": "재미있는 프로그램 추천과 이유 공유",
+    "tone": "즐거움"
+  },
+  {
+    "type": "넷플릭스 드라마 감정 공유",
+    "relationship": "친구",
+    "context": "드라마 시청 후 감정과 생각 공유",
+    "tone": "감상적"
+  },
+  {
+    "type": "영화 배우 캐스팅 협상",
+    "relationship": "영화 관계자",
+    "context": "배우 출연 조건 협의",
+    "tone": "정중함"
+  },
+  {
+    "type": "연예인 비밀 일정 공유",
+    "relationship": "연인",
+    "context": "비밀 행사와 개인 일정 공유",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "직장 프로젝트 진행 평가",
+    "relationship": "동료",
+    "context": "프로젝트 진행 상황과 개선점 공유",
+    "tone": "편안함"
+  },
+  {
+    "type": "게임 대회 전략 공유",
+    "relationship": "친구",
+    "context": "대회 참가 전략과 팀 역할 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "건축 설계 검토 회의",
+    "relationship": "팀원",
+    "context": "설계 도면 검토 및 의견 나누기",
+    "tone": "진지함"
+  },
+  {
+    "type": "개발 공모전 최종 점검",
+    "relationship": "팀원",
+    "context": "최종 제출물 점검 및 수정 사항 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "TV 프로그램 출연 경험 공유",
+    "relationship": "친구",
+    "context": "출연 후 경험과 느낀 점 이야기",
+    "tone": "즐거움"
+  },
+  {
+    "type": "넷플릭스 드라마 토론회",
+    "relationship": "친구",
+    "context": "드라마 주제와 스토리라인 토론",
+    "tone": "감상적"
+  },
+  {
+    "type": "영화 촬영 소품 준비",
+    "relationship": "영화 관계자",
+    "context": "촬영 소품 목록과 준비 일정 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "연예인 비밀 통화",
+    "relationship": "연인",
+    "context": "사생활 보호와 일정 조율",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "동료 신입 근태 평가",
+    "relationship": "동료",
+    "context": "신입 근무 태도와 적응도 평가",
+    "tone": "편안함"
+  },
+  {
+    "type": "게임 아이템 강화 전략",
+    "relationship": "친구",
+    "context": "아이템 강화 및 레벨업 방법 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "건축 자재 예산 검토",
+    "relationship": "팀원",
+    "context": "자재 비용과 예산 조율",
+    "tone": "진지함"
+  },
+  {
+    "type": "개발 공모전 발표 연습",
+    "relationship": "팀원",
+    "context": "발표 연습과 피드백 공유",
+    "tone": "협조적"
+  },
+  {
+    "type": "TV 프로그램 시청 후 토론",
+    "relationship": "친구",
+    "context": "방송 내용 및 재미 요소 토론",
+    "tone": "즐거움"
+  },
+  {
+    "type": "넷플릭스 드라마 장면 분석",
+    "relationship": "친구",
+    "context": "인상적인 장면 분석과 의견 공유",
+    "tone": "감상적"
+  },
+  {
+    "type": "영화 배우 스케줄 확인",
+    "relationship": "영화 관계자",
+    "context": "배우 출연 가능 날짜 확인",
+    "tone": "정중함"
+  },
+  {
+    "type": "연예인 비밀 데이트 일정 조율",
+    "relationship": "연인",
+    "context": "데이트 장소, 시간, 이동 수단 논의",
+    "tone": "조심스러움"
+  },
+  {
+    "type": "직장 신입 평가 토론",
+    "relationship": "동료",
+    "context": "신입 업무 능력과 적응도 평가",
+    "tone": "편안함"
+  },
+  {
+    "type": "게임 랭킹 경쟁 전략",
+    "relationship": "친구",
+    "context": "게임 내 랭킹 경쟁 전략과 역할 분담",
+    "tone": "협조적"
+  },
+  {
+    "type": "건축 현장 장비 점검",
+    "relationship": "팀원",
+    "context": "장비 상태 확인 및 수리 필요 사항 논의",
+    "tone": "진지함"
+  },
+  {
+    "type": "개발 공모전 팀 역할 분담",
+    "relationship": "팀원",
+    "context": "팀원별 역할과 책임 분담 논의",
+    "tone": "협조적"
+  },
+  {
+    "type": "TV 프로그램 출연 평가",
+    "relationship": "친구",
+    "context": "출연진 연기력과 방송 흥미도 평가",
+    "tone": "즐거움"
+  },
+  {
+    "type": "넷플릭스 드라마 OST 추천",
+    "relationship": "친구",
+    "context": "드라마와 어울리는 음악 추천",
+    "tone": "감상적"
+  },
+  {
+    "type": "영화 촬영 현장 안전 점검",
+    "relationship": "영화 관계자",
+    "context": "촬영 안전 및 스태프 안내",
+    "tone": "정중함"
+  },
+  {
+    "type": "연예인 비밀 이벤트 계획",
+    "relationship": "연인",
+    "context": "비공개 이벤트 일정과 준비 공유",
+    "tone": "조심스러움"
+  }
+]

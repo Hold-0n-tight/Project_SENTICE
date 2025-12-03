@@ -1,0 +1,2111 @@
+[
+  {
+    "dialogue":"야 뭐해\n어 나 지금 밖에 있어 걷는 중\n아 그래 날씨 좋지\n맞아 그래서 걷고 있어\n근데 있잖아 나 요즘 사진 찍는 거에 관심 생겨서 말이야\n오 진짜 나도 얼마 전에 장비 좀 샀어\n그럼 뭐부터 사야 할까\n음 나는 카메라랑 렌즈 먼저 샀어\n그럼 카메라 브랜드는 뭐가 좋아\n내가 쓰는 건 캐논인데 괜찮더라\n오 캐논 괜찮지 사람들이 많이 쓰더라\n응 맞아 그리고 삼각대도 생각보다 유용해\n삼각대는 필수겠네\n그렇지 그리고 보관할 가방도 하나 사 둬야 해\n오케이 알았어 추천 고마워\n별말씀을 그럼 사진 찍으러 같이 가자\n좋아 언제 한 번 같이 가자\n그래 그럼 나중에 또 연락할게\n오케이 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"취미 활동 장비 구매 상담",
+      "tone":"협조적",
+      "topic":"사진, 그림 등 취미 장비 추천",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "윤수아",
+        "유채원"
+      ]
+    },
+    "scenario_type":"취미 활동 장비 구매 상담",
+    "scenario_relationship":"친구",
+    "scenario_context":"사진, 그림 등 취미 장비 추천",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐하고 있어\n집에서 쉬고 있어 너는\n나도 집이야 근데 있잖아 나 이번에 새로운 카메라 하나 사려고 하는데 뭐 추천할 거 있어\n음 니가 찍고 싶은 거에 따라 다를 것 같은데 주로 뭐 찍으려고\n주로 풍경이나 인물 사진 많이 찍을 것 같아\n음 그러면 미러리스 카메라가 좋을 것 같아 요즘 그게 화질 좋고 사용하기 쉽다더라고\n그래 그럼 브랜드는 어디 게 괜찮을까\n어 그건 니 취향 따라 가면 될 것 같아 소니나 캐논 쪽이 무난하지 않을까 싶어\n오케이 그러면 좀 더 찾아보고 좋은 거 있으면 얘기해줄게\n그래 좋아 나도 한번 찾아볼게 그럼 일단 이따 보자\n응 고마워 그럼 이따 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"취미 장비 추천",
+      "tone":"협조적",
+      "topic":"카메라 구매 상담",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "정현서",
+        "장승우"
+      ]
+    },
+    "scenario_type":"취미 활동 장비 구매 상담",
+    "scenario_relationship":"친구",
+    "scenario_context":"사진, 그림 등 취미 장비 추천",
+    "participants":null
+  },
+  {
+    "dialogue":"안녕 지금 시간 괜찮아\n응 지금 도서관이야 그래서 조용히 얘기해야 돼\n아 그래 그럼 짧게 할게\n이번 회비 다 모였나\n거의 모였어 아직 두 명 정도 남았는데 이번 주 안에 낸다고 했어\n그럼 행사 비용 어떻게 배분할지 고민해야겠네\n맞아 생각해 보니까 회식비랑 행사 준비비도 필요하고\n음 그럼 회식비 30% 행사 준비비 70% 정도로 생각해봤어\n오 좋은데 그렇게 해서 준비해 볼까\n응 그렇게 하자 그리고 말인데 행사 준비는 언제부터 할까\n다다음 주에 한 번 모일까 싶어\n그래 그때까지 필요한 물품 목록 정리해 놓자\n알았어 그럼 나중에 또 얘기하자\n응 연락할게 나중에 봐\n그래 안녕",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"회비 사용 계획 및 행사 비용 분배",
+      "tone":"협조적",
+      "topic":"동아리 회비 및 행사 비용",
+      "emotion":"협조적",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "노예진",
+        "윤하은"
+      ]
+    },
+    "scenario_type":"동아리 회비 및 행사 비용 정산",
+    "scenario_relationship":"동아리 회원",
+    "scenario_context":"회비 사용 계획 및 행사 비용 분배",
+    "participants":null
+  },
+  {
+    "dialogue":"어 너 지금 괜찮아\n어 괜찮아 무슨 일이야\n저번에 모인 돈 있잖아 그거 어떻게 쓸지 얘기해 볼까 했어\n아 맞아 그 행사 때문에 회의해야지\n응 일단 장소 대여료하고 간식비가 필요할 것 같고\n그럼 간식비는 얼마 정도 예상해\n한 30만 원이면 될 것 같아\n그럼 대여료는 대충 잡아 놓은 데 있어\n응 한 군데 알아봤어 20만 원 정도래\n그럼 둘 다 합쳐서 50만 원이면 될까\n어 그럼 회비에서 좀 남겠네\n남은 건 다음 행사 준비하면서 쓰면 되겠지\n그럼 회비는 빠르게 정리해서 공유하자\n응 알았어 계획 잘 세우자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"동아리 회원",
+      "context":"회비 및 행사 비용 정산",
+      "tone":"협조적",
+      "topic":"회비 사용 계획",
+      "emotion":"협조적",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "손지유",
+        "심지유"
+      ]
+    },
+    "scenario_type":"동아리 회비 및 행사 비용 정산",
+    "scenario_relationship":"동아리 회원",
+    "scenario_context":"회비 사용 계획 및 행사 비용 분배",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해 지금\n어 그냥 집에서 쉬는 중이야\n나 새로운 게임 나왔다고 들었어\n진짜 무슨 게임이야\n그거 말이야 판타지 RPG인데 엄청 재밌어 보이더라\n오 진짜 판타지 RPG면 완전 내 스타일인데\n그래서 나도 이번 주말에 해보려고\n출시일은 언제야\n다음 주 수요일이래\n음 그러면 우리 주말에 다 같이 해볼까\n좋지 그럼 그때까지 기다려보자\n진짜 기대된다 하하\n그러게 나중에 또 얘기해\n응 나중에 통화하자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"게임 출시 소식 공유",
+      "tone":"즐거움",
+      "topic":"새로운 게임 출시",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "정지안",
+        "오현준"
+      ]
+    },
+    "scenario_type":"새로운 게임 출시 소식 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"게임 출시일, 특징, 기대감 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 도서관이야\n조용히 해야겠다 미안\n아냐 괜찮아 근데 그거 들었어\n뭐\n이번에 새로운 게임 나왔대\n오 진짜 무슨 게임인데\n그게 이름이 근데 기억 안 나는데 엄청 기대돼\n어떤 특징이 있어\n그래픽도 대박이고 이야기 전개가 완전 영화 같아\n오 좋다 나도 빨리 해보고 싶다\n주말에 같이 해볼래\n그러자 나중에 봐\n그래 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"새로운 게임 출시 소식 공유",
+      "tone":"즐거움",
+      "topic":"게임 출시일, 특징, 기대감 공유",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "구현민",
+        "민유진"
+      ]
+    },
+    "scenario_type":"새로운 게임 출시 소식 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"게임 출시일, 특징, 기대감 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"어 나야\n지금 도서관에서 전화하는 중이라 크게 말 못해\n어차피 조용히 얘기하면 되니까 괜찮아\n이번 주말에 전시회 어떻게 할지 얘기해보려고\n그래 좋아 나도 보고 싶었어\n입장료 제가 얼마지\n음 검색해보니까 만 원 정도래\n그럼 같이 가는 걸로 하자\n어떻게 갈까\n차 끌고 가면 주차비가 좀 들긴 할 텐데\n맞아 그럼 지하철 타고 가자\n그게 좋겠다\n일찍 만나서 근처에 뭐 먹고 가자\n그래 그렇게 하자\n알았어 그럼 토요일에 보자\n응 나중에 연락해",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"협조적",
+      "topic":"전시회 관람 계획",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "허아린",
+        "백유주"
+      ]
+    },
+    "scenario_type":"전시회 관람 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"전시회 일정, 입장료, 교통 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 집이야\n있잖아 이번 주말에 전시회 보러 가려고 생각 중인데 같이 갈래\n오 좋은 생각이야 어떤 전시회야\n현대 미술 전시회인데 입장료가 10,000원이래\n괜찮네 그럼 몇 시에 만날까\n음 전시회가 11시부터 시작하니까 그 전에 만나서 점심 먹고 가자\n좋아 어디서 만날까\n고속터미널역에서 만나면 어때 그쪽이 전시회장 가기 편하잖아\n맞아 거기서 만나자 교통편은 확인해봤어\n응 지하철 타면 20분 정도 걸리더라고\n오케이 그럼 그때 봐\n그래 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"협조적",
+      "topic":"전시회 관람 계획",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "손성민",
+        "유수아"
+      ]
+    },
+    "scenario_type":"전시회 관람 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"전시회 일정, 입장료, 교통 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 밖에 나와 있어 바람 불어\n진짜 바람 쎄\n음 어제 그 앨범 들어봤어\n들어봤지 진짜 대박이더라\n그러니까 트랙 하나하나가 다 좋더라\n그 인트로도 너무 좋았어\n맞아 맞아 특히 그 두 번째 트랙 그거 아주 좋았어\n하하 맞아 그 곡에서 퍼커션 소리 엄청 인상적이었어\n완전 인정 나도 무한 반복했어\n음 그런데 나 이번 앨범에서 베스트는 마지막 곡인 것 같아\n아 그거 나중에 듣고 완전 빠졌어\n진짜 거기 보컬 너무 좋았어 감정이 확 느껴지더라\n그러게 그리고 곡 전반에 흐르는 그 분위기가 진짜 좋아\n하아 진짜 다음 주에 그들 공연도 가고 싶다\n좋지 그 날 날씨도 좋았음 좋겠다\n그러게 그럼 나중에 봐\n응 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"새 앨범 감상과 의견 나누기",
+      "tone":"편안함",
+      "topic":"음악 앨범 리뷰",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "강예진",
+        "김주호"
+      ]
+    },
+    "scenario_type":"음악 앨범 리뷰 토론",
+    "scenario_relationship":"친구",
+    "scenario_context":"새 앨범 감상과 의견 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 그냥 카페야 너는\n나도 지금 카페인데 좀 시끄럽다\n그래서 잘 안 들려 근데 새로운 앨범 들어봤어\n어 그게 말이야 어제 들었는데 대박이더라\n맞아 맞아 나도 완전 빠졌어 특히 두 번째 트랙 어때\n완전 좋았어 멜로디가 진짜 감동적이더라\n맞아 나도 그거 들으면서 잠시 멍 때렸어 히히\n아 그러니까 이번 앨범 진짜 잘 만든 것 같아\n그러게 다른 앨범보다 훨씬 깊이 있는 느낌이랄까\n음 근데 나중에 시간 되면 같이 들어볼래\n그래 좋지 같이 듣고 또 얘기하자\n오케이 그럼 나중에 봐\n어 그래 곧 다시 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"새 앨범 감상과 의견 나누기",
+      "tone":"편안함",
+      "topic":"음악 앨범 리뷰",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "강하연",
+        "허지유"
+      ]
+    },
+    "scenario_type":"음악 앨범 리뷰 토론",
+    "scenario_relationship":"친구",
+    "scenario_context":"새 앨범 감상과 의견 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 버스 타고 가는 중이야\n아 그래 다름이 아니라 이번 주말에 그 축제 가는 거 얘기 좀 하자고\n아 맞다 맞다 우리 그거 언제 갈까\n일요일 어때 가능해\n어 좋아 나도 일요일 괜찮아 근데 뭘 준비해야 할까\n음 일단 물은 꼭 챙기고 그게 사람 엄청 많아서 간식도 챙겨가는 게 좋을 것 같아\n맞아 간식 중요하지 저번에 갔을 때 엄청 배고팠었잖아 하하\n크크 그러게 그럼 간식이랑 물 챙기고 혹시 우산 필요할 수도 있을까\n일기예보 보니까 비 올 수도 있다네 그래서 작은 우산 하나씩 챙기자\n오케이 좋다 그럼 일요일에 보자 연락해\n응 그래 조심히 가고 나중에 보자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"친근함",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "양준혁",
+        "최지후"
+      ]
+    },
+    "scenario_type":"축제 방문 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"지역 축제 방문 날짜 및 준비물 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해 지금\n나 밖에 나와 있어 바람 불어\n오 좋겠다 나도 나가고 싶다\n저기 말인데 주말에 그 지역 축제 가볼래\n그거 재밌다며 막 먹을 것도 많고\n맞아 그리고 거기 퍼레이드도 하잖아\n완전 좋지 그러면 뭐 가지고 갈 거 있어\n간단히 먹을 것 좀 챙기고 돗자리도 있으면 좋겠다\n어 나 그거 챙길게 그리고 아 착용할 모자랑 선크림도 필수지\n진짜 오랜만에 가네 기대돼\n그러게 그럼 우리 몇 시에 만나 갈까\n오전에 만나서 일찍 가자 한 열 시 어때\n오케이 그럼 나중에 연락하고 그때 만나\n알았어 나중에 봐\n",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"친근함",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "최나은",
+        "최하윤"
+      ]
+    },
+    "scenario_type":"축제 방문 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"지역 축제 방문 날짜 및 준비물 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"어 나야 지금 걷는 중이야\n어 뭐해\n나도 나와서 걷는 중이야\n저기 그 공연 말이야 날짜 정했어\n아직 아니야 주말 중에 언제 괜찮아\n음 토요일 어때\n토요일 좋아 그럼 시간은 오후에 볼까\n어 좋아 오후에 보자\n좌석은 어디로 할래\n좀 앞쪽이 좋지 않아\n응 나도 앞쪽이 좋아 그럼 그쪽으로 예매할게\n오케이 그럼 그렇게 하자\n좋아 나중에 또 연락할게\n알겠어 조심히 들어가\n응 너도 조심히 들어가",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"공연 예매 일정 조율",
+      "tone":"협조적",
+      "topic":"공연 관람 날짜와 좌석 결정",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "강하영",
+        "안현민"
+      ]
+    },
+    "scenario_type":"공연 예매 일정 조율",
+    "scenario_relationship":"친구",
+    "scenario_context":"공연 관람 날짜와 좌석 결정",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해 지금\n어 나 지금 도서관인데 조용히 해야 돼\n아 미안 미안 잠깐만 얘기해도 돼\n응 괜찮아 무슨 일이야\n우리 공연 보러 가기로 했잖아 날짜랑 좌석 정해야 할 것 같아서\n아 맞다 그거 언제 보러 갈 거야\n다음 주 토요일 어때 시간이 좀 여유 있을 것 같아서\n좋아 나도 그날 시간 돼\n그리고 좌석은 어디로 할까 앞쪽이 좋긴 한데\n응 근데 앞쪽이 조금 비싸지 않아\n그래서 중간 정도로 해도 괜찮을 것 같아\n좋아 그럼 그렇게 하고 예약해\n오케이 그럼 예약하고 나중에 자세히 다시 얘기하자\n응 그래 고마워 잘 부탁해\n알았어 나중에 봐\n응 도서관에서 빨리 나가야겠다\n알겠어 연락해",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"친근함",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "장시우",
+        "황지훈"
+      ]
+    },
+    "scenario_type":"공연 예매 일정 조율",
+    "scenario_relationship":"친구",
+    "scenario_context":"공연 관람 날짜와 좌석 결정",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n음 그냥 집에서 쉬고 있어\n저기 말인데 우리 다음 주에 모임 어때\n어 좋아 이번에 다들 시간 괜찮은 거지\n그러게 지난번에 못 온 사람도 오기로 했잖아\n맞아 우리 이번엔 어디서 할까\n이번엔 우리 집에서 하면 어때 조용하고 편할 거 같은데\n오 좋지 그러면 시간은 몇 시쯤이 좋아\n오후 다섯 시쯤 어때\n좋아 그럼 그렇게 하자 나머지 애들한테도 말해줄게\n고마워 그럼 모임 때 봐\n그래 잘 지내고 있구",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"협조적",
+      "topic":"정기 모임 일정 조율",
+      "emotion":"즐거움",
+      "participants":[
+        "성은우",
+        "심민성"
+      ],
+      "call_environment":"조용한 실내"
+    },
+    "scenario_type":"취미 모임 일정 조율",
+    "scenario_relationship":"친구",
+    "scenario_context":"정기 모임 날짜와 장소 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 지금 밖에 나와서 바람 쐬고 있어 너는\n나도 마침 걷고 있어 바람 살살 부니까 좋더라\n그러게 요즘 날씨 진짜 좋지 그래도 슬슬 우리 모임 날짜 잡아야 되지 않겠어\noh 맞아 우리 언제 볼까 이번 주중 어때\n음 주중에 조금 바쁘긴 한데 주말은 어때\n주말 괜찮지 다들 주말에 모이기 좋아하더라 장소는 어디서 할까\n저번에 갔던 공원 괜찮았잖아 거기 계속 갈까\n그 공원 좋지 그럼 이번에도 그쪽으로 가자\n알겠어 그럼 다들 그럼으로 얘기해둘게\n고마워 연락해줘\n그래그래 나중에 봐\n응 나중에\n",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"협조적",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "박소율",
+        "곽예진"
+      ]
+    },
+    "scenario_type":"취미 모임 일정 조율",
+    "scenario_relationship":"친구",
+    "scenario_context":"정기 모임 날짜와 장소 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 카페에 있어\n카페 시끄럽네\n어 좀 그렇지 하하\n동호회 대회 얘기 좀 해보자\n그래 좋아 언제 하는 거야\n다음 주 토요일 오후 두 시야\n준비물 뭐 있어\n유니폼이랑 개인 장비 정도\n참가비는 얼마나 들까\n한 사람당 오만원이래\n음 그래 그럼 어디서 만나\n대회장 바로 앞에서 만나자\n좋아 그때 보자\n알았어 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"대회 참여 계획",
+      "tone":"협조적",
+      "topic":"대회 일정, 준비물, 참가비",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "윤지후",
+        "임지우"
+      ]
+    },
+    "scenario_type":"동호회 대회 참여 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"대회 일정, 준비물, 참가비 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 너 지금 카페야\n어 맞아 좀 시끄럽지\n그래도 괜찮아 들리니까\n이번 주말에 동호회 대회 있는 거 알지\n응 알고 있어 그리고 참가비 준비했어\n준비물 뭘 챙겨야 돼 엄청 많지는 않지\n음 유니폼하고 간단한 간식 정도면 될 거 같아\n그럼 유니폼도 새로 맞춰야 해\n응 이번엔 조금 다른 스타일로 하기로 했잖아\n색깔은 그대로 가는 거지\n응 색깔은 유지하고 디자인만 조금 바꾸려고\n참가비는 얼마나 필요해\n원래 만원이었는데 이번에는 오천원씩 더 모으기로 했어\n아 그렇구나 알겠어 준비할게\n그럼 준비물은 다 챙겼으니까 걱정 없지\n응 응원도 많이 해줘야지\n맞아 맞아 하하 기대된다\n그래 이번엔 좀 더 잘할 수 있을 것 같아\n진짜 열심히 하자\n그래 그럼 주말에 보자\n응 그때 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"대회 참여 계획",
+      "tone":"협조적",
+      "topic":"대회 일정 및 준비물",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "강소윤",
+        "차라윤"
+      ]
+    },
+    "scenario_type":"동호회 대회 참여 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"대회 일정, 준비물, 참가비 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 영화 재밌었어\n진짜 대박이더라\n나도 완전 몰입했어\n특히 그 장면에서 어땠어\n어 맞아 그 부분 너무 충격적이었어\n하하 맞지 좀 예상 밖이더라\n나도 완전 반전일 줄 몰랐어\n근데 전체적으로는 어땠어\n음 그래서 그런지 나한테는 좀 뻔한 느낌이었어\n아 그럴 수 있지\n근데 색감이나 음악은 정말 좋았어\n응 나도 그 점이 마음에 들었어\n다음에 또 같이 볼까\n그래 그러자 좋은 영화 있으면 알려줘\n거기 바람 불어 목소리 잘 안 들려\n아 미안 바람 세네 잠깐만\n오케이 지금은 잘 들려\n그럼 언제 다시 만나서 영화 보자\n주말 괜찮아\n응 주말에 같이 보자\n좋아 나 가서 좀 쉬어야겠다\n나도 그래 연락할게\n응 나중에 봐\n안녕",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"영화 감상 나누기",
+      "tone":"편안함",
+      "topic":"영화 줄거리, 감상, 추천 여부",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "권하윤",
+        "우현준"
+      ]
+    },
+    "scenario_type":"영화 관람 후 감상 나누기",
+    "scenario_relationship":"친구",
+    "scenario_context":"영화 줄거리, 감상, 추천 여부 토론",
+    "participants":null
+  },
+  {
+    "dialogue":"야 방금 본 영화 진짜 대박이지 않냐\n그러니까 말이야 근데 좀 시끄러워서 잘 안 들렸어\n맞아 나도 몇 부분은 잘 못 들었어\n스토리 전개가 너무 빨랐다 그치\n어 나도 좀 정신없었어 그럼에도 진짜 재밌더라\n마지막 반전 대박이었지\n하하 그거 예상 못 했어 나도 깜짝 놀랐잖아\n근데 캐릭터들이 좀 더 개성 있으면 좋았을 것 같아\n음 맞아 그래도 배우들 연기력은 진짜 최고였지\n진짜 그 배우는 어떤 역할을 해도 잘하더라\n다음에 또 다른 영화 보러 갈까 그런 종류로\n좋지 다음엔 조용한 곳에서 보자\n그래 그럼 다음에 연락하자 재밌었어\n응 나도 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"영화 줄거리, 감상, 추천 여부 토론",
+      "tone":"편안함",
+      "topic":"영화 관람 후 감상 나누기",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "최시연",
+        "민나은"
+      ]
+    },
+    "scenario_type":"영화 관람 후 감상 나누기",
+    "scenario_relationship":"친구",
+    "scenario_context":"영화 줄거리, 감상, 추천 여부 토론",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 뭐해\n어 나 집이야 너는\n나도 집이야 지금 전시회 작품 계속 생각나서 말이야\n어떤 작품이 그렇게 기억에 남았어\n그 풍경화 말이야 색감이 진짜 대단하지 않았어\n맞아 진짜 색이 너무 좋았어 그리고 뭔가 감성적이었어\n나는 그 버려진 건물 시리즈도 인상 깊었는데\n어 그거 보면서 진짜 많은 걸 느꼈어 특히 그 빈 공간의 느낌\n맞아 그리고 빛의 사용 방법도 진짜 독특했어\n그러게 말이야 작품을 볼 때마다 새로운 걸 발견하는 기분이야\n나도 그래 그래서 다시 가서 보고 싶어\n한 번 더 가자 다음 주말 어때\n좋아 그럼 그때 보자\n오케이 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"작품 분석",
+      "tone":"감상적",
+      "topic":"전시회 작품",
+      "emotion":"감상적",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "한현서",
+        "주서우"
+      ]
+    },
+    "scenario_type":"전시회 작품 분석 대화",
+    "scenario_relationship":"친구",
+    "scenario_context":"작품의 의미와 기법 분석",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 시간 돼\n어 나 도서관 왔어 조용히 해야 돼\n알았어 근데 그 전시회 작품 말인데\n음 그거 의미가 참 깊더라\n그래 색감도 독특하고 기술도 대단했어\n맞아 그 붓 터치가 특히 인상적이었어\n음 그러게 나도 처음엔 이해 못했는데 보면 볼수록 매력 있더라\n그러니까 말이야 여러 번 볼 가치가 있는 작품인 것 같아\n그래 다음 번에 같이 가자\n좋아 조용히 봐야 더 잘 느껴지더라\n알았어 그럼 거기서 보자\n그래 끊을게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"작품 분석",
+      "tone":"감상적",
+      "topic":"전시회 작품",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "남성현",
+        "황예은"
+      ]
+    },
+    "scenario_type":"전시회 작품 분석 대화",
+    "scenario_relationship":"친구",
+    "scenario_context":"작품의 의미와 기법 분석",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 카페 왔어 좀 시끄러운데\n어디야\n그 저번에 말했던 새로 생긴 데 있잖아\n아 그거 분위기 어때\n음 잘 안 들리는데 잠깐 나갈게\n응응\n오케이 나왔어 근데 거기 진짜 괜찮아\n어떤데\n일단 인테리어가 엄청 예뻐 메뉴도 다양하고\n그래 그럼 주말에 같이 가자\n좋아 그럼 토요일 어때\n토요일 괜찮아 시간은\n한 오후 두시 어때\n좋아 그때 보자\n응 그럼 조심히 들어가\n그래 너도\n응 끊어\n끊어",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"즐거움",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "최도훈",
+        "황진우"
+      ]
+    },
+    "scenario_type":"새로운 카페 탐방 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"카페 위치, 메뉴, 분위기 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 밖에 나와 있어\n진짜 좋다 날씨\n맞아 나도 지금 걸어가고 있어\n이번 주말에 새로운 카페 가볼래\n너 그 말로만 듣던 그 카페\n응 맞아\n위치가 어디였지\n홍대 쪽인데 골목 쪽에 있어\n아 거기 구석에 있는 거 맞지\n응 분위기가 진짜 좋대\n메뉴 어때\n음 그 커피랑 디저트가 다양하다고 들었어\n오 좋다\n사람 많을까\n주말이라 좀 북적일 것 같긴 한데\n그럼 우리 일찍 가자\n맞아 열자마자 가면 딱 좋겠지\n그럼 이번 주말에 만나서 가자\n오케이 알겠어 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"즐거움",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "임서연",
+        "신하윤"
+      ]
+    },
+    "scenario_type":"새로운 카페 탐방 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"카페 위치, 메뉴, 분위기 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 집에서 쉬고 있어\n그때 우리 만들었던 파스타 있잖아\n어 그거 기억나지\n그거 이번엔 다른 레시피로 해봤어\n어떻게 했는데\n토마토 소스를 더 많이 넣고 베이컨을 빼봤어\n음 그럼 맛이 좀 달라져\n거기 시끄럽네 어디야\n아 카페에서 전화하는 중이라 좀 시끄러울 거야\n아하 그래서 맛이 더 깔끔했어\n그럼 다음엔 나도 그 방법으로 해볼까\n응 좋지 같이 만들자\n그래 그럼 나중에 우리 집에서 할까\n오케이 시간되면 알려줘\n알았어 그럼 나중에 봐\n그래 나중에 보자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"요리 레시피 비교 토론",
+      "tone":"즐거움",
+      "topic":"파스타 요리",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "조도현",
+        "신지민"
+      ]
+    },
+    "scenario_type":"요리 레시피 비교 토론",
+    "scenario_relationship":"친구",
+    "scenario_context":"같은 요리를 서로 다른 레시피로 시도",
+    "participants":null
+  },
+  {
+    "dialogue":"어 지금 걷는 중이야 어쩐 일로 전화했어\n나도 막 집 가고 있는데 어쩌다 뭐 물어볼 거 있어서\n음 그렇구나 근데 오늘 저녁 뭐 해먹을 거야\n아 나 오늘 그거 해보려 했어 지난번에 말한 파스타 있잖아\n아 진짜 나 그거 어제 해봤어\n어때 맛있었어\n아 좀 달랐어 나 원래 하던 방법이랑 그래서 좀 어색하더라\n그래 나도 오늘 새로운 레시피로 해보려고 재료 좀 사왔어\n오 좋네 음 그럼 다음에 같이 해먹으면 되겠다\n하하 그러게 아 얼른 집가서 해봐야겠어\n알았어 그럼 이따 얘기해\n어 그래 조심히 들어가",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"요리 레시피 비교",
+      "tone":"즐거움",
+      "topic":"요리 레시피 비교",
+      "emotion":"즐거움",
+      "participants":[
+        "최서윤",
+        "윤지헌"
+      ],
+      "call_environment":"이동 중"
+    },
+    "scenario_type":"요리 레시피 비교 토론",
+    "scenario_relationship":"친구",
+    "scenario_context":"같은 요리를 서로 다른 레시피로 시도",
+    "participants":null
+  },
+  {
+    "dialogue":"야 요즘 무슨 음악 들어\n음 나는 요즘 재즈에 빠졌어 되게 좋더라\n재즈 어 나도 가끔 듣는데 특히 밤에 듣기 좋지\n맞아 그런 분위기가 정말 좋아\n히히 나도 요즘 클래식을 좀 들어보려고 해\n오 클래스가 다르네 그거 들으면 차분해지잖아\n맞아 집중도 잘 되고 편안해진다니까\n음 그거 대박 공감된다\n그럼 다음에 시간 나면 같이 음악 들으면서 얘기하자\n좋지 그럼 나중에 봐\n응 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"음악 장르 취향 공유",
+      "tone":"편안함",
+      "topic":"서로 좋아하는 음악 장르",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "류지안",
+        "노유리"
+      ]
+    },
+    "scenario_type":"음악 장르 취향 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"서로 좋아하는 음악 장르 이야기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 집에 있어 너는\n나도 집이야 갑자기 생각나서 전화했어\n뭔데\n너 음악 좋아하잖아 어떤 장르 좋아해\n음 나는 재즈랑 힙합 좋아해\n오 재즈 좋지 나도 최근에 좀 듣고 있어\n진짜 아 그런 곡들 좋아해\n응 특히 브래드 멜다우 같은 피아니스트\n좋지 그 사람 진짜 멋있어\n너는 어떤 장르 주로 들어\n나는 약간 인디 쪽에 요새 빠져 있어\n인디도 좋지 뭐 듣고 있어\n크라잉넛 노래 많이 들어 요즘\n오 나도 들어봤어 그 사람들 노래 진짜 재밌어\n그러게 나중에 같이 공연 보러 가자\n좋아 공연 정보 있으면 공유해줘\n알겠어 그럼 알려줄게\n오케이 곧 보자\n그래 나중에 또 이야기하자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"음악 취향 이야기",
+      "tone":"편안함",
+      "topic":"음악 장르 선호",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "유지헌",
+        "심하민"
+      ]
+    },
+    "scenario_type":"음악 장르 취향 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"서로 좋아하는 음악 장르 이야기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 그냥 집에서 쉬고 있어\n영화나 보려고 하는데 혹시 추천할 만한 거 있어\n음 난 요즘 액션이나 SF 쪽이 재밌더라\n오 그럼 마블 시리즈 어때 추천해줄게\n그거 좋지 나도 거기서 재미있는 장면 엄청 많더라\n하하 진짜 나도 그랬어\n너는 어떤 장르 좋아해\n나는 코미디나 로맨스 쪽이 좋아 크크\n그럼 추천해줄 수 있는 게 뭐 있어\n음 진짜 빵 터지는 코미디 영화 있는데 이터널스 추천할게\n오 그거 좋지 보고 싶다 그럼 나중에 같이 봐\n좋아 약속이야 그럼\n알았어 조용한 실내에서 편하게 보자\n그래 연락할게 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"영화 장르 추천",
+      "tone":"즐거움",
+      "topic":"영화 장르",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "오재윤",
+        "주승우"
+      ]
+    },
+    "scenario_type":"영화 장르 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"서로 선호하는 영화 장르 추천",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 지금 도서관이야 조용히 해야 돼\n아 미안 미안 나도 카페에서 속삭이는 중\n그래서 무슨 일로 전화했어\n우리 주말에 영화 보러 갈래\n좋지 요즘 뭐가 재밌을까\n혹시 코미디 어때 재밌는 거 많던데\n코미디도 좋지 난 액션도 좋아해\n오 액션은 스릴 넘치지 요즘 뭐가 좋은지 알아\n최근에 본 액션 영화 진짜 대박이었어\n그럼 코미디 하나랑 액션 하나 이렇게 보자\n완전 좋아 두 개 다 보면 더 재밌겠는데\n그럼 시간 정해서 다시 얘기하자\n그래 알았어 연락할게 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"영화 장르 추천",
+      "tone":"즐거움",
+      "topic":"영화 장르",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "류서린",
+        "배우빈"
+      ]
+    },
+    "scenario_type":"영화 장르 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"서로 선호하는 영화 장르 추천",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 집이야\n저기 말인데 너 그 미술 작품 봤어\n어 그거 저번에 얘기했잖아 그거 말하는 거지\n맞아 그거 가격 알아봤어\n얼마래\n조금 비싼데 그래도 살 만해\n음 그러면 같이 보러 갈까\n좋지 언제가 좋아\n이번 주말 어때\n그래 주말에 보자\n오케이 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"관심 작품 가격과 구매 여부 논의",
+      "tone":"협조적",
+      "topic":"미술 작품 구매 상담",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "권승현",
+        "노지안"
+      ]
+    },
+    "scenario_type":"미술 작품 구매 상담",
+    "scenario_relationship":"친구",
+    "scenario_context":"관심 작품 가격과 구매 여부 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"어 나야\n어 안녕\n너 지난번에 말한 그 작품 말이야\n어 맞아 그거 진짜 괜찮더라\n혹시 가격 알아봤어\n어 알아봤지 근데 생각보다 좀 비싸더라고\n그래서 고민중이야\n비싸도 가치가 있을 것 같아\n작품이 꽤 유명하잖아\n맞아 정말 멋지고\n음 그러면 어떻게 할래\n일단 내가 조금 더 생각해볼게\n그래 알았어\n이번 주말에 같이 갤러리 가볼래\n좋지 나도 가보고 싶어\n그러면 시간 맞춰서 연락할게\n그래 나도 기다릴게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"관심 작품 가격과 구매 여부 논의",
+      "tone":"협조적",
+      "topic":"작품 구매 논의",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "허하민",
+        "황시우"
+      ]
+    },
+    "scenario_type":"미술 작품 구매 상담",
+    "scenario_relationship":"친구",
+    "scenario_context":"관심 작품 가격과 구매 여부 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 지금 집인데 왜\n우리 이번 주말에 경기 보러가기로 했잖아\n아 맞다 맞다 근데 어디로 갈 거야\n음 그게 말이야 이번에 새로 생긴 경기장 알아\n거기 좌석이 엄청 편하대\n오 거기 가보자 그럼\n그리고 시간은 언제로 할래\n일단 오후 경기니까 한 2시 어때\n좋아 그럼 그렇게 하고 차 끌고 갈까\n응 그게 좋을 것 같아 주차장도 넓다더라\n오케이 그럼 그렇게 하자\n응 그럼 토요일에 보자\n알겠어 그럼 이따 연락해\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"친근함",
+      "topic":"스포츠 경기 관람 계획",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "김시현",
+        "허시연"
+      ]
+    },
+    "scenario_type":"스포츠 경기 관람 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"경기 관람 날짜와 좌석 조율",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 집인데 왜\n이번 주말에 축구 경기 보러 갈래\n오 좋지 어디서 해\n잠실 경기장이야 어때\n괜찮아 몇 시에 시작해\n오후 4시쯤 할 거야 그때 맞춰 볼까\n좋아 그런데 좌석은 어디로 할래\n음 앞쪽이 좋긴 한데 좀 비싸겠지\n그래도 보러 가는 거니까 앞쪽으로 하자\n오 좋다 그럼 티켓은 내가 예매할게\n알았어 그럼 나중에 시간 맞춰서 연락하자\n오케이 연락할게 나중에 봐\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"즐거움",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "안하민",
+        "전하준"
+      ]
+    },
+    "scenario_type":"스포츠 경기 관람 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"경기 관람 날짜와 좌석 조율",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 도서관인데 너는\n나도 도서관인데 조용히 해야 해서 짧게 얘기할게\n그래 그래 이번에 그 게임 대회 갈 거야\n어 나도 생각 중인데 준비물 뭐 챙겨야 할지 몰라서\n음 대회 규정 봤어 거기에 필요한 장비들 나와 있을 거야\n아 그럼 내가 집에 가서 찾아볼게\n좋아 좋아 그리고 우리 따로 연습도 해야 되지 않겠냐\n맞아 그게 제일 중요하지\n그러니까 이번 주 주말에 시간 되는 대로 만나자\n오케이 그럼 나중에 다시 연락할게\n그래 조심히 들어가",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "participants":[
+        "한재원",
+        "곽현우"
+      ],
+      "relationship":"친구",
+      "context":"게임 대회 준비",
+      "tone":"협조적",
+      "topic":"대회 참가 여부와 준비물",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소"
+    },
+    "scenario_type":"게임 대회 참여 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"대회 참가 여부와 준비물 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 시간 괜찮아\n어 지금 조용한 데 있어 말해봐\n이번 주말에 게임 대회 있는데 참여할 생각 있어\n오 진짜 재밌겠다 같이 가자\n근데 준비물 뭐 챙겨야 해\n일단 노트북이랑 마우스 챙기고 간식도 좀 준비하자\n좋아 거기 앉아서 먹을 건 다 챙겨갈게\n그리고 옷은 편하게 입고 가면 되겠지\n응 그냥 편하게 입고 와 천천히 같이 준비하면 되겠다\n오케이 그럼 주말에 보자\n그래 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"대회 참가 계획",
+      "tone":"협조적",
+      "topic":"게임 대회",
+      "emotion":"기대감",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "강민서",
+        "곽다현"
+      ]
+    },
+    "scenario_type":"게임 대회 참여 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"대회 참가 여부와 준비물 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n지금 버스 타고 가고 있어\n아 그래\n너 저번 여행 갔다 왔다며 사진 봤어\n응 맞아 진짜 좋았어\n어디 갔었어\n프랑스 갔었어 뭐 에펠탑도 보고\n오 좋겠다 사진 좀 보여줘\n지금은 못 보여주고 집 도착하면 보낼게\n오케이\n사진 찍는 것도 잘했어 진짜 예쁘더라\n고마워 풍경이 워낙 좋아서\n하하 맞아 프랑스니까\n다음엔 같이 가자\n그래 꼭 가자\n그럼 이따 연락해\n응 그래 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"사진 공유",
+      "tone":"즐거움",
+      "topic":"여행 사진",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "심예진",
+        "백나은"
+      ]
+    },
+    "scenario_type":"여행 사진 공유와 감상",
+    "scenario_relationship":"친구",
+    "scenario_context":"최근 여행 사진 공유와 감상 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 지금 집이야\n아 그렇구나 나 얼마 전에 여행 갔다 온 사진 보여줄려고\n오 완전 기대된다 어디로 갔었어\n부산 다녀왔어 해운대 갔는데 진짜 좋더라\n부산 진짜 오랜만에 들어보네 어떨 때 제일 좋았어\n음 해운대에서 바다 보면서 걷는 거 너무 좋았어\n그렇겠다 나도 바다 보고 싶다 사진 좀 보내봐\n지금 보냈어\n와 진짜 예쁘다 이 사진 분위기 너무 좋다\n그치 기억에 남는 여행이었어\n다음에 나도 같이 가자 재밌겠어\n그래 완전 좋아 구체적으로 계획 잡아보자\n좋아 계획 세우는 거 기대된다\n오케이 그럼 곧 만나서 얘기하자\n그래 그럼 이따 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"여행 사진 공유와 감상",
+      "tone":"즐거움",
+      "topic":"최근 여행 사진 공유",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "권주하",
+        "성소윤"
+      ]
+    },
+    "scenario_type":"여행 사진 공유와 감상",
+    "scenario_relationship":"친구",
+    "scenario_context":"최근 여행 사진 공유와 감상 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 카페에 있어 좀 시끄럽지\n오 여기 좋은 거 같아\n무슨 영화 ost 좋아해\n최근에 본 영화 중에는 인터스텔라가 최고지\n진짜 대박이야 그 ost는 매번 들어도 소름 돋아\n맞아 나는 또 라라랜드 것도 좋아해 되게 감미롭더라고\n그거 듣고 있으면 진짜 영화 다시 보고 싶어져\n그러게 엔딩 장면 떠오르잖아\n음악 덕분에 더 감정이입되는 것 같아\n완전 공감 다 보고 나면 여운이 오래가더라고\n나중에 같이 영화 보고 ost도 들어요\n좋아 좋아 그럼 다음 주말에 시간 맞춰보자\n오케이 그럼 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"영화 OST 추천",
+      "tone":"편안함",
+      "topic":"영화 OST 감상",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "구지안",
+        "고지우"
+      ]
+    },
+    "scenario_type":"영화 OST 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"좋아하는 영화 OST 추천과 감상",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n음 카페인데 좀 시끄럽다\n그래도 나한테 해줄 말 있어\n뭔데 궁금하네\n그 영화 ost 추천해줄게\n오 그거 좋지\n최근에 본 영화 중에 뭐 제일 좋았어\n응 그게 말이지 그 뭐더라\n아 맞아 그를 찾아서라는 영화 봤거든\n아 그거 ost 좋다던데\n맞아 나도 들으면서 감동했어\n오케이 그러면 나도 한번 들어봐야겠네\n지금 카페인데 잠깐 조용한 데로 옮길게\n어 알았어\n잠시만 기다려 크크\n자 다시 말해볼래 지금 괜찮아\n응 이제 잘 들려 하하\n그러면 그 ost 이름 좀 알려줘 봐\n기억의 시간이라는 곡이야 나중에 들어봐\n좋아 지금 듣지는 못하니까 집에 가서 들어볼게\n그럼 나중에 연락해 같이 감상평 나누자\n좋아 그럼 다음에 또 얘기하자\n응 그래 나중에 보자\n나가면서도 조용한 곳 찾기 어렵네 크크\n어쩔 수 없지 일단 끊을게\n그래 고마워 나중에 봐 다시 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"영화 OST 추천과 감상",
+      "tone":"편안함",
+      "topic":"영화 OST",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "성지후",
+        "문진우"
+      ]
+    },
+    "scenario_type":"영화 OST 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"좋아하는 영화 OST 추천과 감상",
+    "participants":null
+  },
+  {
+    "dialogue":"어 뭐해\n지금 집이야\n다름이 아니라 너한테 앱 하나 추천하려고\n앱? 어떤 앱인데\n어 그게 요즘 사용 중인데 진짜 편하더라고\n오 무슨 앱인지 궁금한데\n이름이 음... 두랄 앱이야\n그게 뭐 하는 앱이야\n음 스마트폰 잠금 화면에서 바로 메모할 수 있는 기능이 있어\n오 그거 괜찮다\n맞아 나도 메모할 일 많아서 잘 쓰고 있어\n다운받아서 한번 써봐야겠다\n그래 기회 되면 써봐\n오케이 고마워\n천만에 친구끼리 뭘\n그럼 나중에 봐\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"유용한 앱 소개",
+      "tone":"편안함",
+      "topic":"유용한 앱 소개 및 기능 공유",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "하민서",
+        "배민성"
+      ]
+    },
+    "scenario_type":"스마트폰 앱 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"유용한 앱 소개 및 기능 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n도서관에서 쉬고 있어\n너 스마트폰에 유용한 앱 알아\n음 뭐가 있는데\n알람 대신 일어나게 해주는 앱 있어\n진짜 대박이네\n그래 새벽 같은 때 특히 유용하더라\n나도 깔아봐야겠다\n그리고 생산성에 도움 되는 앱도 많아\n어떤 거야\n타임 매니지먼트 도와주는 앱인데 좋아\n오 그거 정말 필요할 것 같은데\n얼마나 유용한데\n하루 할 일 정리해주고 알람까지 해줘\n대박 그럼 나중에 만나서 보여줄래\n그래 이따가 보자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"유용한 앱 소개",
+      "tone":"편안함",
+      "topic":"스마트폰 앱 추천",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "노예은",
+        "최우진"
+      ]
+    },
+    "scenario_type":"스마트폰 앱 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"유용한 앱 소개 및 기능 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n지금 집에서 좀 쉬고 있어 너는\n나도 집이야 음 있잖아 너 그 카메라 쓰는 법 좀 물어보고 싶어서\n오 그거 말이야 뭐 궁금한데\n사진 찍을 때 이게 초점이 잘 안 맞더라고\n아 그게 혹시 자동 모드로 해 놓은 거 아니야\n어 맞아 자동 모드로 해놨는데\n그래서 수동 모드로 바꿔서 초점 직접 맞추는 게 더 나아\n아 그렇구나 해봐야겠다 고마워\n그리고 조명도 신경 써봐 자연광이 좋잖아\n맞아 그러게 알았어 고마워 많이 배웠네\n언제 한번 같이 찍으러 가자\n좋아 시간 맞춰보자\n그래 그럼 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"취미 장비 사용 방법 공유",
+      "tone":"협조적",
+      "topic":"카메라 사용 방법",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "장재윤",
+        "박서린"
+      ]
+    },
+    "scenario_type":"취미 장비 사용 팁 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"사진, 그림, 운동 장비 사용 방법 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 거기 바람 많이 불어\n어 맞아 바람 소리가 좀 있네\n오늘 뭐했어\n사진 찍으러 좀 나갔었지\n와 그래 좋겠다 사진 잘 나왔어\n음 근데 렌즈 사용법이 좀 헷갈렸어\n아 그거 내가 저번에 설명했잖아 초점 맞출 때 살짝 돌리면 돼\n아 맞다 그랬지 잠깐 까먹었네 고마워\n하하 뭐 별거 아냐 다음에 같이 사진 찍으러 가자\n그럼 완전 좋지 언제 갈까\n주말에 날씨 좋대 같이 가서 사진 찍고 밥도 먹자\n좋아 주말에 시간 맞춰볼게 연락줘\n오케이 그럼 그때 보자 안녕\n응 안녕",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"취미 장비 사용 팁 공유",
+      "tone":"협조적",
+      "topic":"사진, 그림, 운동 장비 사용 방법 공유",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "류주하",
+        "장민석"
+      ]
+    },
+    "scenario_type":"취미 장비 사용 팁 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"사진, 그림, 운동 장비 사용 방법 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 걷는 중이야\n아 그래 나도 지금 버스 타고 가는 중인데\n이번 주말에 축제 간다면서 어때\n아 맞아 그거 기다리고 있었지 너도 갈 거지\n그러니까 같이 가자고 연락한 거야\n좋다 그럼 몇 시쯤 만날까\n음 축제는 오후에 시작하니까 한 두시면 어떨까\n두시 괜찮네 그럼 어디서 만날까\n우리 평소에 만나던 카페 앞에서 어때\n완전 좋아 역시 넌 내 생각을 알아준다니까\n하하 그러게 내가 너를 얼마나 알겠어\n마지막에 볼 것도 많다고 하던데 기대돼\n맞아 나도 엄청 기대 중이야\n그럼 그날 보자\n그래 조심히 가\n나중에 보자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"친근함",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "하민성",
+        "백지민"
+      ]
+    },
+    "scenario_type":"문화 행사 방문 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"공연, 전시, 축제 등 일정 조율",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 밖에 있어\n바람 쐬고 있는 중이야\n아 그래 나도 지금 공원 나와서 걷고 있어\n이번 주말에 축제 같은 거 갈래\n좋지 어디 가볼까\n시장 근처에서 하는 야시장 축제 있대\n오 재밌겠다 완전 좋아\n그날 날씨도 좋을 것 같다며\n그래 내가 시간 맞춰서 미리 도착할게\n그러면 몇 시쯤 만날까\n오후 두시는 어때 그때쯤이면 한창일 것 같아\n오케이 그럼 그때 만나자\n그래 나중에 봐\n응 연락할게\n",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"친근함",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "우승현",
+        "배지유"
+      ]
+    },
+    "scenario_type":"문화 행사 방문 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"공연, 전시, 축제 등 일정 조율",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n집에 있어 그냥 쉬고 있어 왜\n어 나도 집이야 근데 말이야 집 꾸미기 좀 해볼까 생각 중이야\n오 괜찮네 어떤 느낌으로 하고 싶어\n음 약간 심플하면서도 따뜻한 느낌 알지\n그거 좋지 그런 느낌 나도 좋아해 어디서 영감 얻었어\n그 인스타그램 봤는데 거기서 많이 봐봤어 여러 가지 아이템이 있더라고\n오 나도 그런 거 좀 찾아봐야겠다\n그럼 이번 주말에 같이 가볼래\n좋지 우리 어디 갈지 정했어\n음 이케아 가서 가구 좀 보고 그다음에 근처 마켓도 한 번 들러볼까\n괜찮네 그럼 시간 맞춰보자 몇 시에 만날까\n한 2시쯤 어때\n좋아 그럼 그렇게 하자 이번 주말에 보자\n오케이 그럼 나중에 봐\n응 연락해",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"인테리어 아이디어 공유",
+      "tone":"즐거움",
+      "topic":"집 꾸미기",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "이수빈",
+        "최예은"
+      ]
+    },
+    "scenario_type":"집 꾸미기 아이디어 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"인테리어 아이디어와 구매 계획 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 집이야\n아 그래 나도 집이야 지금\n어 저기 있잖아\n응 왜\n내가 요즘 집 꾸미기에 빠졌거든\n오 진짜\n어 그래서 좀 바꿔보려고 하는데 아이디어가 없어 하하\n음 나는 말이야 화분을 많이 두는 거 어때\n화분 좋지 근데 잘 키울 자신이 없어\n아 그러면 조화도 괜찮아 요즘 잘 나오잖아\n그러게 근데 조화는 먼지 쌓이는 게 좀 걱정돼\n음 그렇긴 해 다른 생각도 있어 쇼파 커버 바꿔보는 거\n오 그것도 생각 안 해봤네\n근데 어디서 사야 좋을까 추천해 줄 거 있어\n나는 인터넷에서 주로 사 오프라인보다 훨씬 다양해\n그렇지 그럼 한번 찾아봐야겠다\n알았어 나중에 사진 찍어서 보여줘\n히히 당연하지 고마워\n별말씀을 나중에 커피나 마시자\n그래 그럼 이따 연락해\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"인테리어 아이디어와 구매 계획 공유",
+      "tone":"즐거움",
+      "topic":"집 꾸미기",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "이현우",
+        "서지후"
+      ]
+    },
+    "scenario_type":"집 꾸미기 아이디어 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"인테리어 아이디어와 구매 계획 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n그냥 뭐 도서관에 있어 조용히\n오 나도 그 근처에 있는데\n아 진짜 우연이다\n이번 주말에 새로운 요리 해보려고\n어떤 요리\n음 타이 요리 중에 그린 커리\n오 대박 맛있겠다\n재료는 다 준비했어\n어 대충 사놨어 도서관에서 요리책 보고 있어\n하하 그래서 도서관 갔구나\n응 그러니까 주말에 시도해볼까 해\n좋아 나중에 결과 알려줘\n오케이 기대해도 좋아\n그러면 나중에 봐\n그래 나중에 연락하자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"새 레시피 도전과 시도 공유",
+      "tone":"즐거움",
+      "topic":"새로운 요리 도전 계획",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "권현준",
+        "곽하늘"
+      ]
+    },
+    "scenario_type":"새로운 요리 도전 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"새 레시피 도전과 시도 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 카페에서 커피 마시고 있어 너는\n아 나도 카페야 근데 진짜 시끄럽다\n그러게 말이야 뭐 할 말 있어\n요즘에 새로운 요리에 빠져서 말이야\n오 진짜 뭐 시도하고 있는데\n얼마 전에 파스타 만들었는데 엄청 맛있었어\n와 대박 나도 한번 해보고 싶다 레시피 좀 알려줄래\n그럼 내일 만나서 같이 한번 만들어볼래\n좋지 준비물 뭐 가져가야 돼\n음 그냥 기본적인 것만 챙겨오면 될 거 같아\n알았어 그럼 내일 보자\n그래 내일 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"새 레시피 도전",
+      "tone":"즐거움",
+      "topic":"요리 도전",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "김서희",
+        "허주하"
+      ]
+    },
+    "scenario_type":"새로운 요리 도전 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"새 레시피 도전과 시도 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 카페야\n아 거기 시끄럽네 잘 들려\n그럭저럭 들려 기다려봐 좀 조용한 데로 갈게\n어 어제 콘서트 갔다 왔어 대박이었지\n진짜 좋았겠다 나는 못 가서 아쉬워\n이번엔 대박이었다니까 무대 세팅도 완전 멋있었고\n아 그래 어떤 가수 나왔어\n그 있잖아 그 유명한 가수들이 쫙 나왔어 히히\n우와 진짜 재미있었겠네 다음에 꼭 같이 가자\n좋지 이번에 놓쳐서 아쉽지만 다음엔 꼭 같이 가야겠다\n그래 그래 다음엔 놓치지 말자\n오케이 오케이 그럼 시간 맞추자\n알았어 나중에 봐\n응 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"콘서트 경험과 감상 나누기",
+      "tone":"편안함",
+      "topic":"음악 콘서트 후기",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "이현준",
+        "조재윤"
+      ]
+    },
+    "scenario_type":"음악 콘서트 후기 나누기",
+    "scenario_relationship":"친구",
+    "scenario_context":"콘서트 경험과 감상 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 어제 콘서트 어땠어\n진짜 대박이었어 음 처음부터 끝까지 너무 좋았어\n그 그러니까 나도 완전 빠져들었어\n음 게다가 중간에 그 곡 알지 너무 좋았지\n어 알아 그때 나도 소름 돋았어\n히히 그리고 공연장 분위기도 너무 좋았고\n맞아 진짜로 진짜 푹 빠져듣게 되더라\n응 그 가수도 직접 보니까 더 멋있더라고\n하하 그러게 사진 찍은 거 다시 봐도 설렌다\n맞아 다음에 또 가자\n그래 오케이 그럼 다음에 또 연락해\n응 그래 내일 봐\n나중에 봐 잘 가",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"콘서트 경험과 감상 나누기",
+      "tone":"편안함",
+      "topic":"음악 콘서트 후기",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "이서우",
+        "김은우"
+      ]
+    },
+    "scenario_type":"음악 콘서트 후기 나누기",
+    "scenario_relationship":"친구",
+    "scenario_context":"콘서트 경험과 감상 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n지금 조용한 데 있어 그래서 조용히 해야 돼\n나도 도서관이야 음 어쩐일로 전화했어\n너 미술 강의 듣고 싶다고 했잖아 그래서 말인데 추천할 만한 강의 찾았어\n정말 고마워 어떤 강의인데\n그게 김 교수님 강의인데 진짜 명강의라고 하더라\n그래 나도 김 교수님 수업 몇 번 들었는데 설명도 잘하고 학생들 의견 잘 들어줘\n맞아 나도 들어봤어 그래서 같이 듣자고\n좋아 언제 시작인데\n다음 주부터 시작하니까 시간 맞추면 같이 가자\n오케이 나중에 시간 맞춰서 알려줄게\n알았어 그럼 도서관에서 나가면서 연락할게\n응 그래 잘 있어",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"미술 강의 추천",
+      "tone":"편안함",
+      "topic":"미술 강의와 교수님 평가",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "민하연",
+        "남유찬"
+      ]
+    },
+    "scenario_type":"미술 강의 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"유용한 미술 강의와 교수님 평가 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 바람 좀 쐬고 있어\n오 좋겠다 나 좀 추천할 거 있어\n뭐야\n너 미술 강의 찾고 있다며 지난번에 말했잖아\n아 맞아 맞아 요즘 그거 때문에 고민이야\n내가 좋은 교수님 한 분 소개해줄게 진짜 강의 잘하셔\n오 대박 누구야\n이름은 말 못하지만 비평과 분석 쪽으로 유명해 그리고 수업 분위기도 좋대\n헐 그럼 좀 알아봐야겠다\n분명 후회 안 할 거야\n고마워 그럼 이번 주말에 만나서 얘기 좀 더 하자\n그래 좋아 오늘 날씨 좋으니까 좀 더 걷고 올게\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"유용한 미술 강의와 교수님 평가 공유",
+      "tone":"편안함",
+      "topic":"미술 강의 추천",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "성현서",
+        "구진우"
+      ]
+    },
+    "scenario_type":"미술 강의 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"유용한 미술 강의와 교수님 평가 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 카페야 약간 시끄러워\n음 괜찮아 너 오늘 쇼핑 갔다 왔다며\n맞아 너한테 추천받은 티셔츠랑 모자 샀어\n오 잘했네 그거 진짜 예쁜데\n응 진짜 마음에 들어 가성비도 좋고\n요즘 액세서리 뭐가 유행이래\n그게 말이야 요즘은 미니멀한 게 대세더라 못 들리면 다시 물어봐\n응응 잘 들려 근데 진짜? 미니멀\n그럼 심플한 걸로 몇 개 골라볼까\n완전 좋지 같이 고르고 싶어\n카페에 사람 많아서 시끄러운데 그래도 할 수 있겠어\n어 괜찮아 지금 좀 조용한 데로 갈게\n그럼 그렇게 하자 사진 보내줄게\n알았어 고맙다 나중에 자세히 얘기하자\n그래 나중에 봐 연락할게\n응 감기 조심해",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"의류, 액세서리 추천과 구매 상담",
+      "tone":"즐거움",
+      "topic":"패션 아이템 추천",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "박하연",
+        "노건우"
+      ]
+    },
+    "scenario_type":"친구와 패션 아이템 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"의류, 액세서리 추천과 구매 상담",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 지금 카페에 있어\n거기 시끄럽네\n응 사람들이 많아서 음 사진 좀 보내줘봐\n어 이거 봐 어때\n오 그 재킷 완전 좋다\n진짜 괜찮아 보여\n근데 색이 좀 고민이야 그린이 나을까 브라운이 나을까\n음 내 생각엔 브라운이 더 어울릴 것 같아 히히\n그럼 브라운으로 결정 고마워\n아 그리고 그거 네가 말한 목걸이는 봤어\n응 그거 괜찮더라 꼬리에 꼬리를 무는 디자인 하하\n하 그거 진짜 난리 나겠는데\n그치 완전 딱이야\n어 알겠어 그럼 나중에 재밌게 입어봐\n오키 나중에 봐\n응 안녕",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"의류, 액세서리 추천과 구매 상담",
+      "tone":"즐거움",
+      "topic":"패션 아이템 추천",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "임재원",
+        "강서희"
+      ]
+    },
+    "scenario_type":"친구와 패션 아이템 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"의류, 액세서리 추천과 구매 상담",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 지금 도서관이야 조용히 해야 돼\n아 그래 뭐 좀 물어보려고\n어 말해봐\n이번 주말에 같이 요리하기로 했잖아 뭐 필요한지 봤어\n음 나 대충 적어놨는데 너도 뭐 추가할 거 있어\n아 그럼 일단 채소들 사야 될 것 같은데\n맞아 그리고 고기도 좀 필요하지 않을까\n응 그럼 닭고기 어떨까\n좋지 그럼 양파, 감자, 당근 이런 것도 사자\n알겠어 그럼 재료는 다 정한 거지\ndata=",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"재료 구매 논의",
+      "tone":"협조적",
+      "topic":"요리 재료",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "백서하",
+        "강예나"
+      ]
+    },
+    "scenario_type":"음식 재료 구매 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"함께 요리할 재료 구매 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해 지금\n어 나 지금 걷는 중이야 무슨 일이야\n우리 이번 주말에 같이 요리하려고 했잖아 재료 좀 사야 할 것 같은데\n맞다 맞다 뭐뭐 필요하지\n음 내가 생각하기엔 토마토랑 바질 그리고 치즈 있으면 좋을 것 같아\n쟤네 파스타도 만들 수 있겠네 크크\n그러게 비 오는 날엔 파스타가 최고지\n나 지금 마트 쪽으로 가고 있는데 뭐 더 필요하면 말해\n음 오 좋아 그러면 아 스파게티 면도 사줘\n오케이 그럼 이따가 너네 집 앞에서 보자\n응 알았어 그때 보자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"협조적",
+      "topic":"함께 요리할 재료 구매 논의",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "홍예원",
+        "김하연"
+      ]
+    },
+    "scenario_type":"음식 재료 구매 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"함께 요리할 재료 구매 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 도서관이야\n아 조용히 해야겠네 미안\n아냐 괜찮아 무슨 일이야\n우리 여행 일정 좀 조율해야 할 것 같은데\n그래 그래 교통은 어떻게 할래\n음 난 기차 타고 가는 게 좋을 것 같아 좀 편하게\n좋다 기차가 시간도 잘 맞고 편하잖아\n응 그럼 숙소는 예약했어\n아직 안 했어 호텔은 어때\n오케이 그럼 내가 찾아볼게 좋은 데 있으면 연락줄게\n고마워 그럼 식사는 어떻게 해야 하지\n일단 첫날은 현지 맛집 가보고 두 번째 날은 좀 가볍게 먹자\n좋아 그렇게 하자 그럼 다 잘 맞추면 되겠다\n응 잘 될 거야 그럼 이따가 봐\n그래 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"여행 일정 조율",
+      "tone":"협조적",
+      "topic":"교통, 숙소, 식사 계획",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "유건우",
+        "심예서"
+      ]
+    },
+    "scenario_type":"여행 일정 세부 조율",
+    "scenario_relationship":"친구",
+    "scenario_context":"교통, 숙소, 식사 계획 상세 조율",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n카페에 있어 좀 시끄러운데 잘 들려\n어 괜찮아 나도 지금 카페야\n우리 여행 일정을 좀 조율해볼까\n그래 교통부터 얘기해보자\n우선 기차 타고 가는 게 어때\n음 좋지 기차는 편하니까\n도착하면 바로 숙소로 갈까\n그럴까 숙소는 예약했어\n해놨어 근데 위치가 어떻게 돼\n시내 중심 쪽이라 이동하기 쉬워\n오 좋네 그럼 식사는 어디서\n근처에 맛집 몇 군데 있더라\n어디 찾아봤어\n응 블로그에서 봤는데 괜찮던데\n한 군데 정해져 있어\n아직은 아니야 가서 골라볼까 싶어\n그럼 첫날은 대충 정해졌네\n응 나머진 가서 보는 걸로 하자\n좋아 그럼 카페 종소리가 좀 커져서 끊을게\n오케이 나중에 봐\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"여행 일정 세부 조율",
+      "tone":"협조적",
+      "topic":"교통, 숙소, 식사 계획",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "구하늘",
+        "고하민"
+      ]
+    },
+    "scenario_type":"여행 일정 세부 조율",
+    "scenario_relationship":"친구",
+    "scenario_context":"교통, 숙소, 식사 계획 상세 조율",
+    "participants":null
+  },
+  {
+    "dialogue":"야 요즘 뭐해\n음 도서관에 있어\n아 그렇구나 조용히 하면서 이야기해\n그래 고마워\n저기 전시회 입장권 예매하려고 하는데 어떻게 생각해\n오 괜찮다 얼마야\n일인당 만원 정도야\n오 나쁘지 않네 예매는 어떻게 해\n인터넷으로 바로 할 수 있어\n그럼 네가 예매할래 나도 같이할게\n오케이 그럼 내가 해줄게\n고마워 언제 갈지 정하자\n그래 주말에 시간 될까\n응 주말 좋아 그때 보자\n준비할게 도서관에서 공부 열심히 해\n응 조용히 앉아서 열심히\n그럼 이따 연락할게\n좋아 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"입장권 예매",
+      "tone":"협조적",
+      "topic":"전시회",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "정아린",
+        "조서연"
+      ]
+    },
+    "scenario_type":"전시회 입장권 예매 논의",
+    "scenario_relationship":"친구",
+    "scenario_context":"입장권 가격과 예매 방법 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 카페인데 거기 시끄럽네\n응 좀 시끄럽지\n있잖아 전시회 입장권 예매했어\n오 그래 얼마야\n음 한 사람당 15000원인데 할인 받아서 12000원에 했어\n어떻게 할인 받았어\n응 친구랑 같이 예매하면 할인돼 그래서 둘이 한꺼번에 했지\n똑똑하네 나도 같이 갈래\n일단 자리 있을지 확인해봐\n알았어 내가 지금 사이트 들어가 볼게\n잠깐만 기다려 길게는 안 걸릴 거 같아\n오케이 그럼 보고 다시 연락 줘\n알겠어 나중에 봐\n응 카페에서 조심히 나가\n응응 나중에 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"예매 논의",
+      "tone":"협조적",
+      "topic":"전시회 입장권 예매",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "강지우",
+        "차준우"
+      ]
+    },
+    "scenario_type":"전시회 입장권 예매 논의",
+    "scenario_relationship":"친구",
+    "scenario_context":"입장권 가격과 예매 방법 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 뭐해\n어 밖에 나와 있어\n어디 가는 중이야\n공원 쪽으로 걷고 있어 근데 왜\n저녁에 그 콘서트 굿즈 살 건가 해서\n아 맞다 그거 살려고 했지\n근데 좀 비싸지 않아\n그렇긴 한데 이번에 한정판이라잖아\n그래서 좀 고민 중이야\n음 그러니까 말이야 나도 잘 모르겠어\n하나만 사고 나중에 후회할까 봐\n그래 맞아 그게 문제지\n아 바람이 좀 부네 너도 밖이야\n응 나도 밖이야 날씨 좋다\n이번에 공연 티셔츠는 어때 보여\n색깔도 예쁘고 디자인도 좋던데\n맞아 그래서 더 사고 싶긴 해\n우리 같이 가자\n오 그래 좋아 같이 가자\n그럼 좀 이따 봐\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"공연 굿즈 구매 여부 논의",
+      "tone":"즐거움",
+      "topic":"콘서트 굿즈 구매 계획",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "서현민",
+        "구은우"
+      ]
+    },
+    "scenario_type":"콘서트 굿즈 구매 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"공연 굿즈 구매 여부 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 카페에 있어 조금 시끄럽다\n그래서 전화했어 바쁘지\n어 아냐 말해봐 뭐야\n이번에 그 공연 굿즈 사려고 하는데 너도 같이 살래\n오 그거 좋다 무슨 굿즈 나왔어\n음 티셔츠랑 포스터도 있고 또 뭐 있었더라\n오 티셔츠 괜찮은데 나도 하나 살까\n그치 나도 티셔츠랑 포스터 하나씩 살까 했어\n오케이 그럼 나도 같이 주문하자\n좋아 그럼 이번 주말에 만나서 같이 보자\n그래 나중에 봐 잘 있어\n응 잘 가",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"공연 굿즈 구매 계획",
+      "tone":"즐거움",
+      "topic":"콘서트 굿즈",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "이지환",
+        "고하영"
+      ]
+    },
+    "scenario_type":"콘서트 굿즈 구매 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"공연 굿즈 구매 여부 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐하고 있어\n어 지금 도서관에 있어 왜\n있잖아 이번 주말에 산책 안 갈래\n오 그거 좋지 어디로 갈 건데\n음 생각은 해봤는데 한강 쪽 어때\n한강 좋지 시간은 언제쯤이 좋아\n아침에 일찍 만나서 점심쯤 끝내는 거 어때\n괜찮은데 몇 시쯤 만날까\n한 8시 반쯤 괜찮을까 내가 도서관이라 조용히 말해야 해서\n오케이 나도 그 근처니까 편하네 그러면 어딜 기준으로 만날까\n그 한강공원 입구에서 보자\n알았어 그럼 토요일에 보자\n응 토요일에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"편안함",
+      "topic":"동네 산책 계획",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "최재윤",
+        "이수연"
+      ]
+    },
+    "scenario_type":"동네 산책 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"산책 경로와 시간 조율",
+    "participants":[
+      "최재윤",
+      "이수연"
+    ]
+  },
+  {
+    "dialogue":"야 뭐해 지금\n나 그냥 집 근처에 있어\n이번 주말에 산책하려고 했잖아 언제 할까\n음 나는 아무 때나 괜찮은데\n그러면 토요일 오전 어때\n오케이 그럼 몇 시쯤\n열시쯤 어때\n좋아 어디서 만날까 공원 앞에서 만나자\n응 알겠어 거기서 보자\n그때 바람 쐬면서 이야기도 좀 하고\n그래 그렇게 하자 그럼 토요일에 봐\n응 그래 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"편안함",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "심지원",
+        "안민호"
+      ]
+    },
+    "scenario_type":"동네 산책 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"산책 경로와 시간 조율",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해 지금\n어 나 지금 밖에 있어 바람이 좀 불어서 시원하다\n오 좋네 나도 지금 공원 쪽 나와 있는 중\n그래 그래서 무슨 일로 전화했어\n있잖아 이번에 저번 친구 집들이 선물 뭘로 할지 고민이야\n음 집들이 선물이라\n그래 맞아 뭘 사야 할지 모르겠어 너무 많잖아\n그럼 말이야 요즘 촛불 같은 것도 괜찮대\n오 오 센스 있는데 촛불 향 좋은 걸로\n응 그리고 주방용품도 괜찮을지도 몰라 요즘 많이들 쓰네\n그럼 주방용품도 옵션에 넣어야겠다 하하\n어 그럼 결정했으면 알려줘 같이 가서 사자\n그래 고마워 그럼 나중에 봐\n응 나중에 보자 좋은 하루 보내",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"집들이 선물 추천",
+      "tone":"즐거움",
+      "topic":"집들이 선물 아이디어",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "윤라윤",
+        "송지원"
+      ]
+    },
+    "scenario_type":"집들이 선물 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"집들이 선물 아이디어 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 지금 밖에 나와 있어\n아 그래 나도 바람 쐬고 있어\n이번 주말에 그 집들이 간다며 선물 뭐 할 생각이야\n음 그게 고민 중인데 말이야 뭐가 좋을까\n나는 요즘 유행하는 디퓨저 같은 거 어때 싶더라고\n아 그거 괜찮다 또 뭐가 있을까\n또 다른 걸로는 인테리어 소품 같은 것도 생각해 봤어\n오 그것도 좋겠다 하하 쉽지 않네\n그러니까 하하 그래도 이번에 모처럼 만에 다 같이 모이는 거니까 기대돼\n맞아 나도 벌써부터 기다려져\n그럼 들어가서 좀 더 찾아보고 연락할게\n그래 알았어 나중에 봐\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"즐거움",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "노유찬",
+        "안지민"
+      ]
+    },
+    "scenario_type":"집들이 선물 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"집들이 선물 아이디어 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 조금 걸으면서 전화하는 건데 문제 없어\n어 괜찮아 지금 나도 버스 타고 가고 있거든\n이번 주말에 역사적 장소 한번 가볼까 해서\n어디 가고 싶은데\n경주 생각해봤어 거기 역사 관련 장소 많잖아\n오 경주 좋지 석굴암이랑 불국사 유명하잖아\n맞아 산책도 할 수 있고 역사 공부도 되고\n그러면 언제가 좋을까\n토요일 어때 그때 날씨도 좋다던데\n좋아 그럼 토요일 아침에 출발하는 걸로 하자\n응 그리고 가기 전에 뭘 더 알아보면 좋을까\n음 일단 스케줄하고 교통편 체크해보자\n오케이 나중에 더 얘기하자\n응 조심히 이동해 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"역사적 장소 방문 일정 논의",
+      "tone":"협조적",
+      "topic":"문화 유적지 탐방 계획",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "황시연",
+        "신도현"
+      ]
+    },
+    "scenario_type":"문화 유적지 탐방 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"역사적 장소 방문 일정 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 그냥 도서관이야 조용히 해야 돼\n아 그래 나 지금도 조용한 곳에서 전화 받고 있어\n그래서 말인데 이번 주말에 어디 갈까 생각 좀 했어\n오 이번 주말? 어디 가고 싶어\n예전에 말했던 역사적인 곳 한번 가볼까 생각 중이야\n아 그거 좋지 그럼 시간은 언제가 좋을까\n음 토요일 오전에 만나는 거 어때\n좋아 그럼 오전에 만나서 점심도 거기서 먹자\n오케이 그러면 구체적인 시간은 나중에 정하자\n응 알았어 나중에 얘기해\n그래 그럼 이따 봐 조용히 해야 돼\n응 알겠어 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"역사적 장소 방문 일정 논의",
+      "tone":"협조적",
+      "topic":"문화 유적지 탐방 계획",
+      "emotion":"즐거움",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "노하민",
+        "남성민"
+      ]
+    },
+    "scenario_type":"문화 유적지 탐방 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"역사적 장소 방문 일정 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"어 나야\n게임 캐릭터 추천해줄까 해서\n오 좋아 요즘 뭐가 괜찮아\n이번에 새로 나온 법사 캐릭터 있잖아 완전 센 것 같아\n아 그래 그래도 좀 어려운 거 아니야\n처음엔 좀 그럴 수 있는데 적응하면 강하더라고\n음 색다른 전략도 생각해놨어\n어떻게 할 건데\n보조 무기로 활을 쓰면서 원거리에서 싸우는 거지\n오 좋네 그럼 방어는 어떻게 해\n동료 탱커 캐릭터가 딱 좋아 조합이 최고야\n음 알겠어 그럼 그걸로 해볼까\n그래 그럼 같이 해보자\n오케이 주말에 같이 할까\n그래 주말에 시간 맞춰보자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"게임 캐릭터 추천과 전략 공유",
+      "tone":"즐거움",
+      "topic":"게임 캐릭터 선택",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "문유리",
+        "민태윤"
+      ]
+    },
+    "scenario_type":"게임 캐릭터 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"게임 캐릭터 선택과 전략 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 카페라 좀 시끄러울 수도 있어\n괜찮아 잘 들려 걱정 마\n이번에 새로나온 게임 캐릭터 봤어\n어 맞아 나 그거 엄청 기대하고 있었지\n난 전사 캐릭터가 딱 좋더라고 너는\n음 나는 마법사 쪽이 더 끌리던데 하하 그래도 둘 다 좋은 것 같아\n전사는 공격력이 좋고 마법사는 스킬이 멋있잖아\n그러니까 말이야 팀 조합 잘 맞추면 좋겠어\n맞아 맞아 전사가 앞에서 막고 마법사가 뒤에서 쏘고 그러면 완벽하지\n하하 완전 그거지 이따가 집에 가서 한번 해보자\n좋아 나도 이따가 집에 가면 전화할게\n그래 그럼 나중에 보자",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"게임 캐릭터 선택과 전략 공유",
+      "tone":"즐거움",
+      "topic":"게임 캐릭터 추천",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "김우진",
+        "강아린"
+      ]
+    },
+    "scenario_type":"게임 캐릭터 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"게임 캐릭터 선택과 전략 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 카페야 조금 시끄러운데\n아 그렇구나 오늘 시간 돼\n어 돼 왜\n저번에 갔던 그 음식점 메뉴 좀 추천받으려고\n아 거기 진짜 괜찮았어\n뭐가 맛있어\n음 그때 우리가 먹은 게 뭐더라 그 불고기 피자 진짜 맛있었어\n오 그거 좋네 딴 거는\n음 숯불고기 파스타도 좋았어 그리고 디저트로 초코 브라우니도 완전 강추\n아 그러게 맛있겠다\n응 주변 소리 좀 시끄러울 수도 있으니까 예약할 때 참고해\n고마워 나중에 한번 같이 가자\n그래 꼭 가자 연락해",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"음식점 메뉴 추천",
+      "tone":"편안함",
+      "topic":"최근 방문한 음식점 메뉴 추천",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "류하은",
+        "김유준"
+      ]
+    },
+    "scenario_type":"음식점 메뉴 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"최근 방문한 음식점 메뉴 추천",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 그냥 밖에 나와 있어\n그래 나도 지금 공원인데 너한테 좋은 음식점 하나 추천해주려고\n오 어디야\n지난주에 갔던 데인데 진짜 괜찮았어\n뭐 파는데\n거기 파스타랑 리조또가 진짜 끝내줘 바람 불어서 잠깐만\n아 바람 세게 불어\n응 조금 그런데 다시 말해줄게 파스타 종류가 많아서 재미있더라\n오 좋다\n특히 해산물 파스타가 최고였어\n대박 나도 가보고 싶어\n우리 이번 주말에 같이 갈래\n그러자 날씨 좋으면 더 좋겠네\n맞아 공원 걷다가 배고플 때 가면 딱일 듯\n오케이 그럼 주말에 보자\n나중에 봐 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"음식점 메뉴 추천",
+      "tone":"편안함",
+      "topic":"최근 방문한 음식점 메뉴 추천",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "류시연",
+        "곽하린"
+      ]
+    },
+    "scenario_type":"음식점 메뉴 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"최근 방문한 음식점 메뉴 추천",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 카페인데 진짜 시끄럽다\n에이 거기 시끄럽네 조금 이동할래\n어 이쪽은 조금 나아\n저기 말인데 너 커피 종류 중에 제일 좋아하는 거 뭐야\n음 나는 아메리카노가 제일 좋아 깔끔해서\n아 진짜 나는 라떼가 더 좋은 것 같아\n우유 넣으면 부드럽고 크크\n하하 그러게 나도 가끔 라떼 마시긴 하는데\n아 근데 아메리카노는 취향에 따라 너무 쓴 거 아냐\n맞아 맞아 근데 그 쓴맛이 좋아\n나는 가끔 달달한 것도 괜찮더라\n그러면 모카 추천히히\n아 그거 완전 달잖아\n맞아 근데 가끔은 그런 게 좋더라고\n내가 한번 사볼게 그런 맛도 느껴봐야지\n오케이 다음에 같이 마시자\n좋지 그럼 연락할게\n그래 잘 지내고 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"커피 맛 비교",
+      "tone":"즐거움",
+      "topic":"커피 종류별 선호",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "오유나",
+        "류우빈"
+      ]
+    },
+    "scenario_type":"커피 맛 비교 토론",
+    "scenario_relationship":"친구",
+    "scenario_context":"커피 종류별 맛 비교와 의견 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 밖에 나와 있어\n바람 불어\n아 그래 나도 지금 길 걸어가고 있어\n커피 얘기 좀 하려고 했는데\n오 좋지\n그 지난번에 마셨던 에티오피아 커피 어땠어\n음 그거 진짜 향이 독특하더라 약간 과일 향 나는 것 같았어\n맞아 나도 그렇게 느꼈어\n근데 나는 브라질 커피가 더 고소하고 좋더라\n오 그래 브라질 커피는 확실히 묵직한 맛이 있지\n응 그리고 약간 초콜릿 맛 나는 느낌이 좋아\n나도 브라질 커피 좋아해\n히히 그럼 다음에 카페 가서 다양한 거 더 마셔보자\n좋지 어떤 거 마실지 미리 생각해봐야겠다\n그래 그럼 나중에 보자\n오케이 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"커피 종류별 맛 비교",
+      "tone":"즐거움",
+      "topic":"커피 맛 비교",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "서재윤",
+        "곽승현"
+      ]
+    },
+    "scenario_type":"커피 맛 비교 토론",
+    "scenario_relationship":"친구",
+    "scenario_context":"커피 종류별 맛 비교와 의견 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 지금 카페에서 커피 마시는 중이야\n거기 시끄럽네\n어 좀 그래 너 뭐해\n나도 카페야 근데 너한테 물어볼 거 있어서\n뭔데\n우리 여행 가기로 했던 곳 날씨 어때\n아 그거 말이지 지금 보니까 다음 주에 좀 흐릴 수도 있대 하지만 비는 안 온대\n오 다행이다 그래도 우산 챙겨야 할까\n응 그게 좋을 것 같아 어차피 가벼운 우산 하나 챙기면 되잖아\n그렇지 하여튼 너가 확인해줘서 다행이다\n음 잘 안 들려 좀 다시 말해줄래\n아 오케이 고맙다고 하려고 했어\n하하 그래 같이 가는데 챙겨야지 다른 거 궁금한 건 없어\n일단은 이따가 만나면 더 얘기하자\n그래 나중에 봐\n응 알았어 조심히 와",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"여행지 날씨 정보 공유",
+      "tone":"협조적",
+      "topic":"예정 여행지 날씨 확인 및 공유",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "우민재",
+        "하서준"
+      ]
+    },
+    "scenario_type":"여행지 날씨 정보 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"예정 여행지 날씨 확인 및 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 카페야 주변 좀 시끄러워\n아 그래 그럼 잠깐 얘기할게\n내일 여행 가잖아 날씨 봤어\n어 맞다 봤어 비 온대\n진짜 아 그래도 일정에 지장은 없겠지\n그렇지 뭐 우산 챙겨가면 되지 뭐\n오케이 그럼 비 오는 것도 낭만적일 수 있지\n맞아 그리고 뭐 맛있는 거 먹으면 되잖아\n하하 맞아 그러니까 잘 다녀오자\n그래 그럼 준비 잘 하고 내일 보자\n응 알았어 나중에 봐\n잘가",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"여행 준비",
+      "tone":"협조적",
+      "topic":"여행지 날씨 확인",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "김지우",
+        "문현우"
+      ]
+    },
+    "scenario_type":"여행지 날씨 정보 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"예정 여행지 날씨 확인 및 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 거기 시끄럽네\n어 카페라서 그래 미안\n괜찮아 나도 여기 좀 시끄러워\n오늘 전시회 어땠어\n음 작가가 주제로 선택한 게 대단하더라\n어떤 부분에서 그렇게 느꼈어\n그게 이번 테마가 자연이랑 인간의 관계였잖아\n응 맞아 그 그림들 보면서 좀 감동받았어\n작가가 자연을 바라보는 시각이 진짜 독특했지\n하하 그러게 이따가 이야기 더 할까\n그래 그러면 시간 맞춰서 보자\n어 알겠어 그럼 일단 끊을게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"전시 테마와 작가 의도 분석",
+      "tone":"감상적",
+      "topic":"전시회 테마와 작가 의도",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "곽지후",
+        "배아린"
+      ]
+    },
+    "scenario_type":"전시회 테마 분석 대화",
+    "scenario_relationship":"친구",
+    "scenario_context":"전시 테마와 작가 의도 분석",
+    "participants":[
+      "곽지후",
+      "배아린"
+    ]
+  },
+  {
+    "dialogue":"야 뭐해\n집에서 쉬고 있어 너는\n나도 집이야 방금 전에 전시회 다녀왔어\n오 어땠어\n진짜 좋았어 이번 테마가 자연의 재발견이었거든\n오 흥미롭네 어떤 작품이 기억에 남아\n메인 작품이었는데 숲 속에서 빛이 퍼지는 그림이었어 굉장히 감동적이더라고\n작가 의도도 궁금하네\n그게 자연의 힘과 아름다움을 다시 보자는 취지였대\n오 멋지다 그러면 다른 작품들은 어땠어\n전체적으로 조화로웠어 사진과 회화가 적절히 섞여 있었고\n작가들이 전하고자 했던 메시지가 잘 전달됐나 보다\n응 작품마다 설명이 잘 되어 있어서 이해하기 쉬웠어\n좋네 나도 다음 주에 한번 가봐야겠다\n그래 꼭 가봐 진짜 후회 안 할 거야\n고마워 조용한 집에서 감상할 생각하니까 더 기대되네 나중에 같이 가자\n좋아 그럼 나중에 보자\n그래 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"전시회 테마 분석",
+      "tone":"감상적",
+      "topic":"전시 테마와 작가 의도",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "한재윤",
+        "김지원"
+      ]
+    },
+    "scenario_type":"전시회 테마 분석 대화",
+    "scenario_relationship":"친구",
+    "scenario_context":"전시 테마와 작가 의도 분석",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 걷는 중이야\n어 그래 나도 걷고 있는데 너한테 좋은 데 추천 좀 받으려고\n어떤 데 말하는 거야\n사진 찍기 좋은 곳 있잖아 이번에 인스타에 올릴 사진 찍으려고\n아 그럼 저번에 내가 갔던 그 공원 어때 바람도 좋고 장소도 예쁘더라\n오 괜찮네 주말에 갈까\n어 주말에 가는 게 좋을 것 같아 사람도 많지 않고\n거기 주차장도 넓어\n너네 차로 가면 편하겠다\n그래 그럼 주말에 가자 날씨 좋으면 사진도 더 잘 나올 거야\n좋아 그럼 그렇게 하자\n그래 가면서 맛있는 것도 사 먹고\n오케이 그럼 주말에 보자\n나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"편안함",
+      "topic":"사진 촬영 장소 추천",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "남하준",
+        "송주호"
+      ]
+    },
+    "scenario_type":"사진 촬영 장소 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"좋은 촬영 장소 공유와 추천",
+    "participants":null
+  },
+  {
+    "dialogue":"어 나야\n안녕 뭐해\n별일 없어 그냥 쉬고 있어\n다름이 아니라 너 사진 찍는 거 좋아하잖아\n어 맞아 요즘 위치 좋은 데 좀 알았어\n어디 어디\n집 근처에 작은 스튜디오 생겼더라고\n진짜 그래?\n거기 조명도 좋고 배경도 다양해서 괜찮더라\n오 완전 대박\n주말에 같이 가볼까\n좋아 같이 가자\n끝나고 밥 먹으면서 얘기하자\n그래 그렇게 하자\n그럼 주말에 보자\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"촬영 장소 추천",
+      "tone":"편안함",
+      "topic":"사진 촬영",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "장유진",
+        "배도현"
+      ]
+    },
+    "scenario_type":"사진 촬영 장소 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"좋은 촬영 장소 공유와 추천",
+    "participants":[
+      "장유진",
+      "배도현"
+    ]
+  },
+  {
+    "dialogue":"어 나야\n음 별일 없지\n자전거 여행 얘기 좀 하려고\n그래 좋은 생각이야\n일단 경로를 정해야 할 것 같은데 어디로 갈까\n전에 봤던 강촌 코스 괜찮지 않아\n오 그거 좋다 강 뷰도 예쁘고\n그럼 그렇게 하자\n준비물은 어떤 거 챙길까\n응 헬멧이랑 장갑은 필수고\n물통이랑 간식도 챙겨야겠지\n그럼 내가 간식 준비할게\n고마워 그럼 준비 다 되면 알려줘\n알겠어 나중에 봐\n그래 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"자전거 여행 준비",
+      "tone":"협조적",
+      "topic":"자전거 여행 경로와 준비물",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "우채원",
+        "김민하"
+      ]
+    },
+    "scenario_type":"친구와 자전거 여행 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"자전거 여행 경로와 준비물 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n이제 카페에 앉았어 시끄럽다\n아 그래 뭐 얘기하자\n저기 있잖아 우리 자전거 여행 계획 세우기로 했잖아\n오 맞다 언제 갈까\n이번 주말 어때\n좋아 어디로 갈지 생각해봤어\n음 한강부터 시작해서 남쪽으로 쭉 내려가는 거 어때\n그거 괜찮은데 준비물은 뭐 챙겨야 할까\n물을 많이 챙겨야 할 것 같아 그리고 간단한 간식도\n아 맞아 그리고 고글도 필요하지 않을까\n어 맞아 햇빛 강하면 눈부시니까 챙기자\n그러면 이번 주말을 목표로 하자\n그래 그럼 준비물 챙기고 주말에 보자\n오케이 나중에 봐\n응 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"자전거 여행 계획",
+      "tone":"협조적",
+      "topic":"여행 경로와 준비물",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "신민하",
+        "김세은"
+      ]
+    },
+    "scenario_type":"친구와 자전거 여행 계획",
+    "scenario_relationship":"친구",
+    "scenario_context":"자전거 여행 경로와 준비물 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 어디야\n카페인데 좀 시끄럽다\n어 영화 봤어 이번에\n어 봤지 그 패션 대박이더라\n맞아 나도 그 긴 코트 되게 멋있더라\n하하 그러게 그리고 주인공의 그 모자\n진짜 잘 어울릴 줄이야\n그러니까 말이야 요즘 그런 스타일 따라 입고 싶은데\n근데 거기 입는 옷들 가격이 만만치 않더라\n음 잘 들리진 않지만 그렇겠지 영화니까 더 비싸 보이는 것 같아\n그렇지 크크 다음에 기회 되면 같이 쇼핑 가자\n오 좋지 그때 보면서 또 얘기하자\n그래 그래 연락할게\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"영화 속 패션 토론",
+      "tone":"편안함",
+      "topic":"영화 속 의상과 패션 스타일 의견 나누기",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "김유주",
+        "류현준"
+      ]
+    },
+    "scenario_type":"영화 속 패션 토론",
+    "scenario_relationship":"친구",
+    "scenario_context":"영화 속 의상과 패션 스타일 의견 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 어제 그 영화 봤어\n봤지 근데 거기 의상 너무 멋있더라\n맞아 주인공이 입었던 자켓 진짜 좋더라\n거기 시끄럽네 잘 안 들려 뭐라고\n음 내가 말한 거 주인공 자켓 아주 좋았다구\n아 그게 진짜 스타일리시하더라\n나는 그 드레스도 좋았어 색깔이 진짜 영해보였잖아\n응 맞아 확실히 그 드레스는 눈에 띄더라\n그런데 나는 또 다른 장면에 나온 모자도 인상적이었어\n어 맞아 그 모자 완전 레트로 느낌\n하하 그러게 거기 스타일리스트 아주 잘했네\n그러게 절대 평범하지 않더라고\n아 맞아 그리고 그 카페 씬에서 보인 스카프 기억나 나도 하나 사고 싶더라\n오 나도 그 생각했어 우리 어디서 그런 거 구할 수 없나\n찾아봐야겠어 그럼 또 이야기하자 나중에 보자\n그래 연락할게 잘가",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"의견 나누기",
+      "tone":"편안함",
+      "topic":"영화 속 의상과 패션 스타일",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "노수빈",
+        "오서준"
+      ]
+    },
+    "scenario_type":"영화 속 패션 토론",
+    "scenario_relationship":"친구",
+    "scenario_context":"영화 속 의상과 패션 스타일 의견 나누기",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 뭐해\n어 나 지금 걷는 중이야 너는\n나도 걸어가고 있어 근데 요새 음악 뭐 듣냐\n음 요즘 좀 신나는 거 찾고 있는데 추천 좀 해줘\n어 그럼 내가 요새 듣는 플레이리스트 공유해줄까 신나는 거랑 좀 잔잔한 거 섞어놨거든\n완전 좋지 그거 보내줘\n걷는 동안 들으면 딱이겠다\n맞아 맞아 오히려 이럴 때 듣기 좋더라\n나중에 나도 괜찮은 거 있으면 공유할게\n그래 그럼 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"테마별 플레이리스트 추천 및 공유",
+      "tone":"즐거움",
+      "topic":"음악 플레이리스트 추천",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "박도윤",
+        "성지윤"
+      ]
+    },
+    "scenario_type":"음악 플레이리스트 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"테마별 플레이리스트 추천 및 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 지금 버스 타고 가는데\n아 그래 바쁜 건 아니고 그냥 걷는 중이야\n혹시 요즘 듣는 음악 뭐 있어\n음 요즘은 좀 신나는 거 많이 듣고 있어\n오 나도 신나는 거 좋아해\n그럼 추천 좀 해주라\n음 그러니까 내가 요즘 듣는 걸로는 그 비트가 빵빵한 걸로 하나 있어\n오 좋지 그런 거\n내가 링크 보내줄게\n좋아 좋아 나중에 들어볼게\n크크 오랜만에 같이 듣자\n그럴까\n만약에 다른 것도 나오면 또 공유해줘\n알았어 완전 신난다\n나중에 봐\n조심히 가\n연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"테마별 플레이리스트 추천 및 공유",
+      "tone":"즐거움",
+      "topic":"음악 플레이리스트 추천",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "박하율",
+        "배도훈"
+      ]
+    },
+    "scenario_type":"음악 플레이리스트 추천",
+    "scenario_relationship":"친구",
+    "scenario_context":"테마별 플레이리스트 추천 및 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n어 나 지금 집이야\n다음 주에 캠핑 가기로 한 거 말인데\n맞아 날짜 확정했나 해서\n음 우리 지난번에 주말 얘기했던 것 같은데\n어 그럼 토요일 어때\n좋아 장소는 어디로 갈까\n지난번에 가봤던 그곳 어때 넓고 괜찮았잖아\n아 그거 좋지 가는 길도 편하고\n그럼 준비물은 어떻게 나눌까\n나는 텐트랑 취사도구 챙길게\n그럼 나는 먹을 거 준비할게\n좋아 다 정했네\n그래 얼른 만나서 가자\n알았어 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"친근함",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"조용한 실내",
+      "participants":[
+        "차승우",
+        "박하영"
+      ]
+    },
+    "scenario_type":"친구와 캠핑 일정 조율",
+    "scenario_relationship":"친구",
+    "scenario_context":"캠핑 날짜, 장소, 준비물 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 카페에서 전화하는 중인데 좀 시끄러워\n괜찮아 나도 잠깐 카페에 있어\n우리 캠핑 언제 갈래\n음 다음 주말 어때\n오 좋다 그럼 장소는 정했어\n그 오지 근처가 좋대 어디였더라\n아 맞아 거기 좋다던데 근데 준비물은 뭐 챙겨야 할까\n텐트랑 해먹 그리고 음식 조금? 나머지는 현지에서 사자\n좋아 그럼 나 텐트 챙겨갈게\n오케이 그럼 나는 해먹 맡을게 음식은 누가 준비하든 상관없겠지\n응 그럼 현지에서 대충 맞춰서 하자\n알았어 그럼 주말에 가는 걸로\n응 나중에 봐\n응 그래 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"약속 잡기",
+      "tone":"친근함",
+      "topic":"주말 만남",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "곽서준",
+        "구예진"
+      ]
+    },
+    "scenario_type":"친구와 캠핑 일정 조율",
+    "scenario_relationship":"친구",
+    "scenario_context":"캠핑 날짜, 장소, 준비물 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"어 지금 걷는 중이야\n어디 가는 중이야\n집 가는 길에 잠깐 걷고 있어\n그때 말한 집 근처 맛집 갔다 왔어\n어때 맛있었어\n응 진짜 괜찮더라 분위기도 좋고\n음 뭐 먹었어\n매운 닭볶음탕 먹었는데 입에서 살살 녹아\n와 좋네 나도 가보고 싶네\n다음에 같이 가자\n그래 좋아 딱 내 스타일 같아\n그거 먹고 나서 디저트도 있더라\n무슨 디저트\n빵이랑 커피가 있었어 커피가 진짜 향이 진했어\n아 정말 그럼 거기 꼭 가봐야겠네\n응 진짜 추천해\n알았어 가게 되면 연락할게\n그래 연락 줘",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"방문 경험과 음식 평가",
+      "tone":"편안함",
+      "topic":"집 근처 맛집 리뷰 공유",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "황현우",
+        "최민석"
+      ]
+    },
+    "scenario_type":"집 근처 맛집 리뷰 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"방문 경험과 음식 평가 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"야 뭐해\n나 지금 밖에 나와있어\n어 나도 지금 공원 산책 중인데 마침 잘됐다\n지난번에 너랑 갔던 그 집 있잖아\n아 맞다 그 맛집 얘기하는 거지\n응 거기 음식 엄청 맛있더라\n진짜 거기 음식이 입에서 살살 녹았어\n주인분도 너무 친절하시잖아\n맞아 서비스도 좋고 음식도 푸짐해서 대박이었어\n가게 분위기도 괜찮더라\n응 조용하고 깔끔하더라\n담에 또 가면 같이 가자\n그래 그날 시간 맞춰서 가자\n오케이 그럼 나중에 봐\n그래 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"방문 경험과 음식 평가 공유",
+      "tone":"편안함",
+      "topic":"집 근처 맛집 리뷰 공유",
+      "emotion":"즐거움",
+      "call_environment":"실외",
+      "participants":[
+        "심수연",
+        "양하민"
+      ]
+    },
+    "scenario_type":"집 근처 맛집 리뷰 공유",
+    "scenario_relationship":"친구",
+    "scenario_context":"방문 경험과 음식 평가 공유",
+    "participants":null
+  },
+  {
+    "dialogue":"어 지금 걷는 중이야\n어 나도 걸어가면서 전화받아\n이번에 새로 온 사람 어때\n음 아직 잘 모르겠어\n일은 나름 열심히 하는 것 같은데\n맞아 근데 좀 조용한 편이지 않아\n응 좀 그런 것 같아\n근데 뭐 적응하면 괜찮아지겠지\n그런가 나도 그랬었잖아 처음에\n그러네 그때 생각나네 하하\n그래도 열심히 하려는 게 보이긴 해\n맞아 그건 좋더라 열정이 있는 것 같아\n응 나중에 기회 되면 같이 밥 먹자는 얘기도 해볼까\n그러자 그럼 더 친해질 수 있을 것 같은데\n좋아 나중에 시간 맞춰서 만나면 되겠다\n알겠어 나중에 연락할게\n응 그래 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"동료",
+      "context":"신입 여직원 평가",
+      "tone":"편안함",
+      "topic":"신입 여직원의 업무 스타일",
+      "emotion":"중립적",
+      "call_environment":"이동 중",
+      "participants":[
+        "남현민",
+        "안지헌"
+      ]
+    },
+    "scenario_type":"신입 여직원 뒷담화",
+    "scenario_relationship":"동료",
+    "scenario_context":"신입 여직원의 업무 스타일과 성격 평가",
+    "participants":null
+  },
+  {
+    "dialogue":"거기 시끄럽네\n어 여기 카페라\n그나저나 그 신입 알지\n음 알지 왜\n좀 어때 보였어\n음 성실한 것 같긴 한데 가끔 깜빡하는 것 같더라\n그러게 조금 어수선하게 느껴지기도 하고\n근데 뭐 처음이니까 그러려니 해도 될 것 같아\n맞아 우리도 그랬잖아 시작할 때\n그렇지 하하 우리도 그랬으니까\n근데 열심히 하려는 건 보이더라\n맞아 그게 가장 중요한 거지\n그래도 좀 더 지켜보자\n응 알겠어 오케이",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"동료",
+      "context":"신입 직원 평가",
+      "tone":"편안함",
+      "topic":"신입 직원 업무 스타일",
+      "emotion":"편안함",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "전지민",
+        "오소율"
+      ]
+    },
+    "scenario_type":"신입 여직원 뒷담화",
+    "scenario_relationship":"동료",
+    "scenario_context":"신입 여직원의 업무 스타일과 성격 평가",
+    "participants":null
+  },
+  {
+    "dialogue":"어 지금 걷는 중이야\n어디 가\n잠깐 산책하면서 생각 정리하려고\n그래 다음 게임 전략 뭐로 할까\n음 이번엔 방어 위주로 가는 게 어떨까\n괜찮은데 나 그럼 딜러할게\n그래 이번엔 내가 탱커 맡아서 막아볼까\n좋아 그러면 버프는 너가 줄래\n오케이 지원 역할 맡을게\n아 저기 신호등에서 좀 기다려야겠다\n음 그러면 다음 스테이지 어떻게 할지 더 생각해봐\n응 바람 불어서 말 잘 안 들려\n하하 알았어 더 얘기하자\n그래 안전하게 걸어 다녀\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"게임 중 전략 논의",
+      "tone":"협조적",
+      "topic":"역할 배분",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "류승민",
+        "민성민"
+      ]
+    },
+    "scenario_type":"게임 중 전략 논의",
+    "scenario_relationship":"친구",
+    "scenario_context":"온라인 게임 플레이 중 전략 및 역할 배분",
+    "participants":null
+  },
+  {
+    "dialogue":"야 지금 어디야 게임 시작해야 돼\n아 미안 카페에서 커피 사느라\n거기 시끄럽네 잘 안 들려\n어 조금만 조용한 데 갈게 잠깐만\n좋아 이제 들린다 우리 이번 판 어떻게 할 건데\n내 생각엔 나는 이번에 탱커할까 보다\n오케이 그럼 나는 딜러 갈게\n힐러는 누구 맡기로 했어\n그 친구가 맡기로 했잖아 걱정 마\n좋아 그럼 방금 배운 전략 써볼까\n응 맞아 그렇게 가자\n그럼 다 모인 거지 나도 잠깐 음료 사고 들어갈게\n알았어 그럼 게임에서 봐\n오케이 고고\n하하 파이팅",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"전략 논의",
+      "tone":"협조적",
+      "topic":"게임 중 전략 및 역할 배분",
+      "emotion":"즐거움",
+      "call_environment":"시끄러운 실내",
+      "participants":[
+        "허건우",
+        "전서준"
+      ]
+    },
+    "scenario_type":"게임 중 전략 논의",
+    "scenario_relationship":"친구",
+    "scenario_context":"온라인 게임 플레이 중 전략 및 역할 배분",
+    "participants":null
+  },
+  {
+    "dialogue":"어 지금 괜찮아\n응 잠깐 밖이야 조용히 할게\n이번 주에 현장 점검 어떻게 됐어\n음 뭐 큰 문제는 없었는데 안전관리 쪽에서 지적이 좀 있었어\n어떤 부분이었어 궁금한데\n비계 설치가 좀 부실하다고 해서 바로 수정했어\n아 그래 다행이네\n응 그래서 다음주에도 한 번 더 확인하려고\n그래 잘했어 안전이 제일 중요하니까\n맞아 항상 조심해서 실수 없도록 해야지\n알겠어 그럼 다음 회의 때 자세히 얘기하자\n그래 준비해둘게\n고마워 그럼 조심히 들어가\n응 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"건축팀",
+      "context":"현장 안전 및 진행 상황 확인",
+      "tone":"진지함",
+      "topic":"현장 점검 결과",
+      "emotion":"평온함",
+      "call_environment":"조용한 공공장소",
+      "participants":[
+        "최승우",
+        "고유리"
+      ]
+    },
+    "scenario_type":"건축 현장 안전 점검 대화",
+    "scenario_relationship":"건축팀",
+    "scenario_context":"현장 안전 및 진행 상황 확인",
+    "participants":null
+  },
+  {
+    "dialogue":"지금 현장 쪽 나와 있어\n어 바람이 좀 부네\n현장 상황 어때\n음 오늘 아침에 안전 점검 했고 별 문제는 없었어\n다행이다 계속 확인 잘 해줘\n그럼 다음 주에 추가 장비 들어오잖아 그거 준비 잘 되고 있어\n어 그거 문제 없이 준비되고 있어\n다행이네 그럼 오늘은 별다른 문제 없지\n응 특별히 이슈는 없어\n알았어 그럼 고생 많아\n고마워 나중에 봐",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"친구",
+      "context":"현장 안전 및 진행 상황 확인",
+      "tone":"진지함",
+      "topic":"안전 점검 및 진행 상황",
+      "emotion":"차분함",
+      "call_environment":"실외",
+      "participants":[
+        "백시우",
+        "하지호"
+      ]
+    },
+    "scenario_type":"건축 현장 안전 점검 대화",
+    "scenario_relationship":"건축팀",
+    "scenario_context":"현장 안전 및 진행 상황 확인",
+    "participants":null
+  },
+  {
+    "dialogue":"여보세요 어디야\n나 지금 밖에 나와 있어\n아 나는 공원 쪽인데 바람 불어서 좀 시원하네\n아 맞아 근데 공모전 주제가 뭔가\n주제는 스마트 시티였던 거 같아\n그래 그럼 어떤 아이디어로 나갈까\n음 나는 교통 관련 앱 생각했어 요즘 교통체증 심하잖아\n맞아 맞아 실시간 교통 정보 제공하면 좋겠다\n그치 그리고 대중교통 최적 경로 추천도 넣고\n오 완전 좋다 그럼 디자인은 어떻게 하지\n일단 간단하게 와이어프레임 만들어보고 추가하면 될 것 같아\n좋아 그럼 주말에 만나서 더 얘기해보자\n그래 알았어 그럼 연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"팀원",
+      "context":"공모전 주제와 개발 방향 논의",
+      "tone":"협조적",
+      "topic":"개발 공모전 아이디어 회의",
+      "emotion":"참여적",
+      "call_environment":"실외",
+      "participants":[
+        "노은우",
+        "남민재"
+      ]
+    },
+    "scenario_type":"개발 공모전 아이디어 회의",
+    "scenario_relationship":"팀원",
+    "scenario_context":"공모전 주제와 개발 방향 논의",
+    "participants":null
+  },
+  {
+    "dialogue":"어 지금 걷는 중이야\n그래 지금 통화 괜찮아\n공모전 주제 좀 얘기해보려고\n이번 주제가 지속 가능한 도시 개발이었지\n맞아 그래서 어떤 아이디어가 좋을까\n나는 스마트 에너지 관리 시스템 어때 생각해봤어\n오 그거 좋다 에너지 효율 높이는 방향으로\n응 그리고 IoT 통해서 실시간 모니터링하고\n그럼 데이터 시각화도 포함할 수 있겠네\n그래 데이터 분석을 통해서 이상 징후도 파악하고\n그러면 네트워크 보안도 신경 써야겠다\n맞아 그 부분은 우리 다음 미팅에서 더 파고들어보자\n좋아 이번 주말에 준비 모임 하나 더 가지자\n응 알겠어 주말에 자세히 얘기하는 걸로\n그럼 나중에 봐\n연락할게",
+    "label":0,
+    "meta":{
+      "conversation_type":"casual_normal",
+      "relationship":"팀원",
+      "context":"개발 공모전 아이디어 회의",
+      "tone":"협조적",
+      "topic":"공모전 주제와 개발 방향 논의",
+      "emotion":"즐거움",
+      "call_environment":"이동 중",
+      "participants":[
+        "배예준",
+        "윤시윤"
+      ]
+    },
+    "scenario_type":"개발 공모전 아이디어 회의",
+    "scenario_relationship":"팀원",
+    "scenario_context":"공모전 주제와 개발 방향 논의",
+    "participants":null
+  }
+]
